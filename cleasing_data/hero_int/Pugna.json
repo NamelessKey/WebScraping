@@ -1,0 +1,89 @@
+{
+    "IntVal": "26 + 4.00",
+    "AgiVal": "16 + 1.00",
+    "StrVal": "17 + 1.20",
+    "AttackVal": "19 - 27",
+    "SpeedVal": "330",
+    "DefenseVal": "1.24",
+    "Bio": "In the realm of Pugna's birth, near the vents of the Nether Reaches, there stood a lamasery devoted to the Arts of Oblivion, which drew its power from the nether energies. The Grandmaster of the temple compound had himself passed into Oblivion several years prior, leaving his academy without a leader. From the moment of their master's death, the regents of the temple began rites of divination to identify their master's reincarnation, and eventually all signs converged on the immediate neighborhood. Several villages squatted in the shadow of the temple, their alleys and plazas full of the laughter of squalling children.  Pugna, a mere thirteen months of age, was but one candidate among the local brats, and on the appointed day he was presented at the temple alongside two other promising tots. The lamas offered a jumble of worn relics to the children, treasured possessions of their former grandmaster. One boy reached for a porphyry wand that had belonged to the lama...and put it in his nostril. An impish girl pulled out an amulet that had also been the lama's, and immediately swallowed it. Pugna regarded the other two coolly, gave a merry laugh, and blasted them with gouts of emerald flame, reducing them to ashes in an instant. He then snatched up the wand and amulet, saying 'Mine!' The regents hoisted the beaming Pugna on their shoulders, wrapped him in their grandmaster's vestments, and rushed him to the throne before his mood could change. Within five years, the temple itself was another pile of ash, which pleased Pugna to no end.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,846",
+                "1,066",
+                "338"
+            ]
+        },
+        {
+            "Armor": [
+                "7",
+                "3",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,400",
+                "792",
+                "473"
+            ]
+        },
+        {
+            "Damage": [
+                "161-169",
+                "101-109",
+                "45-53"
+            ]
+        },
+        {
+            "AttackRange": "600"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/pugna_nether_blast_hp2.png?v=3379714",
+            "ability_name": "Nether Blast",
+            "ability_desc": "An exploding pulse deals damage to enemies and structures in the area.  Deals half damage to structures.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 100 / 175 / 250 / 325BLAST DELAY: 0.9 / 0.9 / 0.9 / 0.9 RADIUS: 400 / 400 / 400 / 400",
+            "youtude": "http://www.youtube.com/embed/S-CNAxuxwbU?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/pugna_decrepify_hp2.png?v=3379714",
+            "ability_name": "Decrepify",
+            "ability_desc": "A powerful banishing spell that slows a unit and renders it unable to attack or be attacked. Afflicted units take extra magic damage.",
+            "footer_left": "ABILITY: Unit TargetPIERCES SPELL IMMUNITY: No",
+            "footer_right": "ALLY INCREASED MAGIC DAMAGE: 25% ENEMY INCREASED MAGIC DAMAGE: 30% / 40% / 50% / 60% ENEMY MOVE SLOW: 30% / 40% / 50% / 60% DURATION: 3.5",
+            "youtude": "http://www.youtube.com/embed/vslnhbjQiXw?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/pugna_nether_ward_hp2.png?v=3379714",
+            "ability_name": "Nether Ward",
+            "ability_desc": "Pugna places a Nether Ward at the target location. The ward reduces the mana regeneration of nearby enemy heroes, and will fire at any enemy hero who casts a spell. Nether Ward deals damage equal to the damage multiplier times the mana spent by the enemy hero.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "WARD ATTACK RANGE: 1600 DAMAGE PER MANA: 1 / 1.25 / 1.5 / 1.75 MANA REGEN REDUCTION: 1.5 / 3 / 4.5 / 6 ATTACKS TO DESTROY: 4 / 4 / 4 / 4 WARD DURATION: 30",
+            "youtude": "http://www.youtube.com/embed/1GLjEtZRA7M?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/pugna_life_drain_hp2.png?v=3379714",
+            "ability_name": "Life Drain",
+            "ability_desc": "CHANNELED - When cast on an enemy, Pugna drains health from the target enemy unit to heal himself. If Pugna has full HP, and the enemy target is a Hero, Life Drain will restore mana instead.When cast on an ally, Pugna will drain his own health into his ally.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Channeled, Unit TargetAFFECTS: HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "DRAIN PER SECOND: 150 / 200 / 250 CAST RANGE: 900 / 1050 / 1200 MAX DURATION: 10 SCEPTER DRAIN PER SECOND: 180 / 240 / 300",
+            "youtude": "http://www.youtube.com/embed/G9pGWvXj0aE?hd=1&rel=0"
+        }
+    ]
+}

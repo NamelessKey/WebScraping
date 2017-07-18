@@ -1,0 +1,53 @@
+{"IntVal" : "15 + 1.40",
+"AgiVal" : "26 + 1.90",
+"StrVal" : "17 + 1.90",
+"AttackVal" : "18 - 29",
+"SpeedVal" : "300",
+"DefenseVal" : "0.64",
+"Bio" : "Drow Ranger's given name is Traxex--a name well suited to the short, trollish, rather repulsive Drow people. But Traxex herself is not a Drow. Her parents were travelers in a caravan set upon by bandits, whose noisy slaughter of innocents roused the ire of the quiet Drow people. After the battle settled, the Drow discovered a small girl-child hiding in the ruined wagons, and agreed she could not be abandoned. Even as child, Traxex showed herself naturally adept at the arts they prized: Stealth, silence, subtlety. In spirit, if not in physique, she might have been a Drow changeling, returned to her proper home. But as she grew, she towered above her family and came to think of herself as ugly. After all,  her features were smooth and symmetrical, entirely devoid of warts and coarse whiskers. Estranged from her adopted tribe, she withdrew to live alone in the woods. Lost travelers who find their way from the forest sometimes speak of an impossibly beautiful Ranger who peered at them from deep among the trees, then vanished like a dream before they could approach. Lithe and stealthy, icy hot, she moves like mist in silence. That whispering you hear is her frozen arrows finding an enemy's heart.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["892","450","195",]},
+{ "Armor" : ["10","4","1",]},
+{ "HitPoint" : ["1,719","978","473",]},
+{ "Damage" : ["110-121","71-82","44-55",]},
+{ "AttackRange" : "625"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1250"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/drow_ranger_frost_arrows_hp2.png?v=3379714",
+"ability_name" : "Frost Arrows",
+"ability_desc" : "Adds a freezing effect to Drow's attacks, slowing enemy movement.  Lasts 1.5 seconds on Heroes, and 7 seconds on creeps.
+
+Frost Arrows is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+"footer_left" : "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 0 / 0 / 0 / 0MOVEMENT SLOW: 15% / 30% / 45% / 60%
+HERO DURATION: 1.5
+CREEP DURATION: 7",
+"youtude" : "http://www.youtube.com/embed/u6dvUwbjI_k?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/drow_ranger_wave_of_silence_hp2.png?v=3379714",
+"ability_name" : "Gust",
+"ability_desc" : "Releases a wave that silences and knocks back enemy units. Knockback distance is relative to how close they are to you.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RANGE: 900
+WIDTH: 250
+SILENCE DURATION: 3 / 4 / 5 / 6
+KNOCKBACK DURATION: 0.6 / 0.7 / 0.8 / 0.9",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/drow_ranger_trueshot_hp2.png?v=3379714",
+"ability_name" : "Precision Aura",
+"ability_desc" : "Adds bonus damage to the physical attack of allied, ranged Hero units based on a percentage of Drow's agility.  Affects creeps for 30 seconds when cast.",
+"footer_left" : "ABILITY: No TargetAFFECTS: Allies",
+"footer_right" : "RANGE DAMAGE BONUS: 20% / 26% / 32% / 38%",
+"youtude" : "http://www.youtube.com/embed/wNzhcuzDmf0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/drow_ranger_marksmanship_hp2.png?v=3379714",
+"ability_name" : "Marksmanship",
+"ability_desc" : "Drow's experiences in battle improve her accuracy and effectiveness in combat, providing a passive bonus to Agility. Grants no bonus if there are enemy heroes within 400 range.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "BONUS AGILITY: 40 / 60 / 80
+SPLIT COUNT: 2
+SEARCH RANGE: 375
+DAMAGE REDUCTION: 50%",
+"youtude" : "http://www.youtube.com/embed/wfgqVIVWpr8?hd=1&rel=0"
+},]}

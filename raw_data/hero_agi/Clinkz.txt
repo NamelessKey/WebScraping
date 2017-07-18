@@ -1,0 +1,46 @@
+{"IntVal" : "16 + 1.55",
+"AgiVal" : "22 + 3.30",
+"StrVal" : "15 + 1.60",
+"AttackVal" : "15 - 21",
+"SpeedVal" : "300",
+"DefenseVal" : "2.08",
+"Bio" : "At the base of the Bleeding Hills stretches a thousand-league wood, a place called The Hoven, where black pools gather the tarry blood of the uplands, and the king-mage Sutherex sits in benevolent rule. Once a sworn protector of the Hoven lands, Clinkz earned a reputation for his skill with a bow. In the three-hundredth year of the king-mage, the demon Maraxiform rose from sixth hell to lay claim to the forest. In response, the king-mage decreed an unbreakable spell: to any who slew the demon would be granted Life Without End.Unaware of the spell, Clinkz waded into battle, defending his lands against the demon's fiery onslaught. Clinkz drove Maraxiform back to the gates of sixth-hell itself, where on that fiery threshold the two locked in a mortal conflict. Grievously wounded, the demon let out a blast of hellfire as Clinkz loosed his final arrow. The arrow struck the demon true as hellfire poured out across the land, lighting the black pools and burning Clinkz alive at the instant of the demon's death. Thus, the mage's spell took effect at the very moment of the archer's conflagration, preserving him in this unholy state, leaving him a being of bones and rage, caught in the very act of dying, carrying hell's breath with him on his journey into eternity.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["952","490","208",]},
+{ "Armor" : ["16","9","2",]},
+{ "HitPoint" : ["1,545","861","435",]},
+{ "Damage" : ["136-142","83-89","37-43",]},
+{ "AttackRange" : "630"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/clinkz_strafe_hp2.png?v=3379714",
+"ability_name" : "Strafe",
+"ability_desc" : "Clinkz attacks with a barrage of arrows.  Dramatically increases attack speed for a short time.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 4 / 6 / 8 / 10
+BONUS ATTACK SPEED: 130",
+"youtude" : "http://www.youtube.com/embed/6ZXx_EB7RqA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/clinkz_searing_arrows_hp2.png?v=3379714",
+"ability_name" : "Searing Arrows",
+"ability_desc" : "Imbues Clinkz's arrows with fire for extra damage.",
+"footer_left" : "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "BONUS DAMAGE: 30 / 40 / 50 / 60",
+"youtude" : "http://www.youtube.com/embed/jYysnmhcZ7Y?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/clinkz_wind_walk_hp2.png?v=3379714",
+"ability_name" : "Skeleton Walk",
+"ability_desc" : "Clinkz moves invisibly through units until the moment he attacks or uses an ability.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 20 / 25 / 30 / 35
+BONUS MOVEMENT SPEED: 11% / 22% / 33% / 44%",
+"youtude" : "http://www.youtube.com/embed/zr56m_VHdCU?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/clinkz_death_pact_hp2.png?v=3379714",
+"ability_name" : "Death Pact",
+"ability_desc" : "Clinkz consumes the target friendly or enemy creep, gaining a percent of its hitpoints as max health and damage.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Units",
+"footer_right" : "DURATION: 35
+HEALTH GAIN: 50% / 65% / 80%
+DAMAGE GAIN: 5% / 6.5% / 8%",
+"youtude" : "http://www.youtube.com/embed/fS5fKvleNro?hd=1&rel=0"
+},]}

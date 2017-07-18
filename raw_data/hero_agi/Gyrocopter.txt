@@ -1,0 +1,54 @@
+{"IntVal" : "19 + 2.10",
+"AgiVal" : "24 + 2.80",
+"StrVal" : "18 + 1.80",
+"AttackVal" : "17 - 27",
+"SpeedVal" : "315",
+"DefenseVal" : "4.36",
+"Bio" : "After serving through a lifetime of wars, upheaval, riots, and revolutions, the brass figured Aurel had seen enough. But in addition to a few trinkets and his considerable pension, the erstwhile engineer left with something far more interesting: a long-forgotten, incomplete schematic for a Gyrocopter, the world's first manned, non-magical flying device. Retiring to the tropical obscurity of the Ash Archipelago with little else but time and money, he set to work building the device. As the years wore on and the remains of failed prototypes began to pile up, he began to wonder if mechanical flight was even possible. A decade and a day after his retirement, on a sunny afternoon with a southerly breeze, Aurel sat in his latest attempt bristling with indignation and expectant failure. With a grunt of effort he pulled the ignition cord and covered his head, waiting for the inevitable explosion. However to his great surprise he began to lift and, following a few panicked adjustments, stabilize. Within an hour, he was ducking and weaving with the breeze, level with the gulls, and Aurel found himself filled with the breathless wonder of flight. As dusk settled in he set a course back to his workshop, but no sooner had he turned his craft when a cannonball tore through his tailfin. Disentangling himself from the wreckage, he swam toward the nearest piece of land in sight, and cursed to see the ship responsible for the cannonball collecting the debris. Days later, when Aurel returned to his workshop, he set to work on yet another gyrocopter, this one capable of carrying a much heavier, more dangerous payload.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,162","629","247",]},
+{ "Armor" : ["17","10","4",]},
+{ "HitPoint" : ["1,693","971","492",]},
+{ "Damage" : ["128-138","80-90","41-51",]},
+{ "AttackRange" : "365"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "3000"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/gyrocopter_rocket_barrage_hp2.png?v=3379714",
+"ability_name" : "Rocket Barrage",
+"ability_desc" : "Launches a salvo of rockets at nearby enemy units in a radius around the Gyrocopter.  Lasts 3 seconds.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 7 / 12 / 17 / 22RADIUS: 400
+ROCKETS PER SECOND: 10",
+"youtude" : "http://www.youtube.com/embed/JvJK0Y94TTU?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/gyrocopter_homing_missile_hp2.png?v=3379714",
+"ability_name" : "Homing Missile",
+"ability_desc" : "Fires a homing missile to seek the targeted enemy unit. The missile gains speed over time, dealing damage and stunning when it impacts the target.  Homing Missile deals greater damage the further it has traveled.  Enemy units can destroy the missile before it reaches its target.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 125 / 250 / 375 / 500HITS TO DESTROY: 3 / 3 / 4 / 5
+TOWER HITS TO DESTROY: 6 / 6 / 8 / 10
+STUN DURATION: 2.2 / 2.4 / 2.6 / 2.8
+MINIMUM DAMAGE: 50",
+"youtude" : "http://www.youtube.com/embed/nS_Qw-l6_OM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/gyrocopter_flak_cannon_hp2.png?v=3379714",
+"ability_name" : "Flak Cannon",
+"ability_desc" : "Gyrocopter's attacks hit all enemy units in an area around it for a limited number of attacks.  Only the main target of attacks will receive attack bonuses such as Critical Strike.  Lasts 15 seconds or until the attacks are used.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 1000
+MAX ATTACKS: 3 / 4 / 5 / 6",
+"youtude" : "http://www.youtube.com/embed/vuAGkLLSJRE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/gyrocopter_call_down_hp2.png?v=3379714",
+"ability_name" : "Call Down",
+"ability_desc" : "Call down an aerial missile strike on enemy units in a target area.  Two missiles arrive in succession, the first dealing major damage and minor slow for 2 seconds; the second dealing minor damage and major slow for 4 seconds.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "MISSILE ONE DAMAGE: 200 / 275 / 350
+MISSILE TWO DAMAGE: 100 / 150 / 200
+MISSILE ONE SLOW: 30%
+MISSILE TWO SLOW: 60%
+RADIUS: 600
+SCEPTER MISSILE TWO DAMAGE: 175 / 225 / 275",
+"youtude" : "http://www.youtube.com/embed/3YjjKN0VajU?hd=1&rel=0"
+},]}

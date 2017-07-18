@@ -1,0 +1,60 @@
+{"IntVal" : "27 + 2.50",
+"AgiVal" : "10 + 0.80",
+"StrVal" : "22 + 2.10",
+"AttackVal" : "35 - 43",
+"SpeedVal" : "310",
+"DefenseVal" : "3.4",
+"Bio" : "How long has it been since he lost his name? The torn ruin of his mind no longer knows.Dimly he recalls armor and banners and grim-faced kin riding at his side. He remembers a battle: pain and fear as pale hands ripped him from his saddle. He remembers terror as they threw him into the yawning pit of the Dead God alongside his brothers, to hear the Dirge and be consumed into nothingness. In the darkness below, time left them. Thought left them. Sanity left them. Hunger, however, did not. They turned on each other with split fingernails and shattered teeth. Then it came: distant at first, a fragile note at the edge of perception, joined by another, then another, inescapable and unending. The chorus grew into a living wall of sound pulsing in his mind until no other thought survived. With the Dirge consuming him, he opened his arms to the Dead God and welcomed his obliteration. Yet destruction was not what he'd been chosen for. The Dead God demanded war. In the belly of the great nothing, he was granted a new purpose: to spread the Dirge across the land, to rally the sleepless dead against the living. He was to become the Undying, the herald of the Dead God, to rise and fall and rise again whenever his body failed him. To trudge on through death unending, that the Dirge might never end.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,391","806","351",]},
+{ "Armor" : ["9","5","3",]},
+{ "HitPoint" : ["1,906","1,127","568",]},
+{ "Damage" : ["127-135","86-94","57-65",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/undying_decay_hp2.png?v=3379714",
+"ability_name" : "Decay",
+"ability_desc" : "Undying steals strength from all enemy heroes in an area, dealing base damage as he claims the enemy's strength for himself.
+
+Upgradable by Aghanim's Scepter, increasing Decay's strength steal.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "BASE DAMAGE: 20 / 60 / 100 / 140
+STRENGTH STEAL: 4
+STEAL DURATION: 40
+RADIUS: 325
+SCEPTER STRENGTH STEAL: 10",
+"youtude" : "http://www.youtube.com/embed/oiPPDIIyLF4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/undying_soul_rip_hp2.png?v=3379714",
+"ability_name" : "Soul Rip",
+"ability_desc" : "Undying rips health away from all nearby units and uses it to heal an ally, or damage an enemy. Soul Rip can also be used to heal Tombstone.",
+"footer_left" : "ABILITY: Unit TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE/HEAL PER UNIT: 18 / 22 / 26 / 30
+MAX UNITS: 10 / 12 / 14 / 16
+RIP RADIUS: 1300
+TOMBSTONE HEAL: 2 / 4 / 6 / 8",
+"youtude" : "http://www.youtube.com/embed/8NDBna9Mi1E?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/undying_tombstone_hp2.png?v=3379714",
+"ability_name" : "Tombstone",
+"ability_desc" : "Summons a tombstone at the target point.  Zombies will frequently spawn next to every enemy unit in the area around the Tombstone, and attack them.  Zombies have the Deathlust ability, which causes their attacks to slow the target, and if the target reaches below a certain amount of health, increases the attack and movement speed of the zombie.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "ATTACKS TO DESTROY: 3 / 4 / 5 / 7
+TOMBSTONE DURATION: 15 / 20 / 25 / 30
+ZOMBIE SPAWN RADIUS: 600 / 800 / 1000 / 1200
+DEATHLUST FLAT HEALTH THRESHOLD: 100 / 200 / 300 / 400
+DEATHLUST PCT HEALTH THRESHOLD: 20% / 25% / 30% / 35%
+ZOMBIE SPAWN INTERVAL: 3",
+"youtude" : "http://www.youtube.com/embed/hb931I8cwiM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/undying_flesh_golem_hp2.png?v=3379714",
+"ability_name" : "Flesh Golem",
+"ability_desc" : "Undying transforms into a horrifying flesh golem that possesses a Plague Aura.  This aura slows all enemy units within 750 range and amplifies the damage they take; the closer to Undying, the more damage and slow.  When a plagued unit dies, Undying is healed equal to a percentage of his own maximum health.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 30
+MAX DAMAGE AMP: 20% / 25% / 30%
+MAX MOVE SLOW: 20%
+DEATH HEAL (HEROES): 6%
+DEATH HEAL (CREEPS): 2%",
+"youtude" : "http://www.youtube.com/embed/pfTqhK3DWsc?hd=1&rel=0"
+},]}

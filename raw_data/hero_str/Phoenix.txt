@@ -1,0 +1,88 @@
+{"IntVal" : "18 + 1.80",
+"AgiVal" : "12 + 1.30",
+"StrVal" : "17 + 2.90",
+"AttackVal" : "26 - 36",
+"SpeedVal" : "285",
+"DefenseVal" : "-0.32",
+"Bio" : "Alone across an untouched darkness gleamed the Keeper's first sun, a singular point of conscious light fated to spread warmth into the empty void. Through aeons beyond count, this blinding beacon set to coalescing its incalculable energy before bursting forth the cataclysmic flare of supernova. From this inferno raced new beacons, star progeny identical to its parent, who journeyed an unlit ocean and settled in constellatory array. In time, they too would be made to propagate through supernova flame. So would this dazzling cycle of birth and rebirth repeat until all skies hewn of Titan toil deigned to twinkle and shine.By this ageless crucible the star that mortals would come to call Phoenix collapsed into being, and like its ancestors was thrust into an endless cosmos to find a place among its stellar brethren. Yet curiosity toward that which the dimming elders comfort in the darkness consumed the fledgling, and so over long cycles it inquired and studied. It learned that among worlds both whole and broken would soon stir a nexus of remarkable variety locked in an enduring conflict of cosmic consequence, a plane which would find itself in need of more influence than a dying sun's distant rays could provide. Thus this infant son of suns took terrestrial form, eagerly travelling to shine its warmth upon those who may need it most, and perhaps seize upon its solar destiny.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,056","562","234",]},
+{ "Armor" : ["7","2","-0",]},
+{ "HitPoint" : ["2,175","1,244","473",]},
+{ "Damage" : ["133-143","84-94","43-53",]},
+{ "AttackRange" : "500"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1100"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_icarus_dive_hp2.png?v=3379714",
+"ability_name" : "Icarus Dive",
+"ability_desc" : "Phoenix dives forward in an arc with a fixed distance in the targeted direction, dealing damage over time and slowing the movement speed of any units it comes into contact with, and then orbiting back to its original position. If Phoenix casts Supernova, the dive ends.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "HP COST: 15%
+DIVE LENGTH: 1400
+BURN DURATION: 4
+DAMAGE PER SECOND: 10 / 30 / 50 / 70
+MOVE SLOW: 25%",
+"youtude" : "http://www.youtube.com/embed/PUkHORxk8J4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_fire_spirits_hp2.png?v=3379714",
+"ability_name" : "Fire Spirits",
+"ability_desc" : "Summons 4 fire spirits that circle around Phoenix. Each spirit can be launched independently at a targeted area of effect. Affected enemy units take damage over time and have their attack speed greatly reduced.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "HP COST: 20%
+SPIRIT DURATION: 16 / 16 / 16 / 16
+RADIUS: 175 / 175 / 175 / 175
+BURN DURATION: 4
+ATTACK SPEED SLOW: 80 / 100 / 120 / 140
+DAMAGE PER SECOND: 10 / 30 / 50 / 70",
+"youtude" : "http://www.youtube.com/embed/r1MosnS5858?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_sun_ray_hp2.png?v=3379714",
+"ability_name" : "Sun Ray",
+"ability_desc" : "Phoenix expels a beam of light at the cost of its own health. The beam damages enemies and heals allies for a base amount plus a percentage of their health. The percentage increases as the beam continues to fire.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "HEALTH COST PER SECOND: 6%
+BASE DAMAGE PER SECOND: 15 / 20 / 25 / 30
+MAX DAMAGE: 1.25% / 2.5% / 3.75% / 5%
+BASE HEAL PER SECOND: 7 / 10 / 13 / 16
+MAX HEAL: 0.625% / 1.25% / 1.875% / 2.5%
+DURATION: 6",
+"youtude" : "http://www.youtube.com/embed/HZAiHWRNCjw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_supernova_hp2.png?v=3379714",
+"ability_name" : "Supernova",
+"ability_desc" : "The Phoenix willingly ends its current life for the chance to be reborn. Transforms into a burning sun that scorches enemies in a huge area. The sun can be destroyed by attacks from enemy Heroes. After 6 seconds the sun explodes, stunning all nearby enemies while restoring Phoenix to full health and mana with refreshed abilities.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetAFFECTS: Allied HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 1000 / 1000 / 1000
+DAMAGE PER SECOND: 60 / 90 / 120
+STUN DURATION: 1.5 / 2 / 2.5
+ATTACKS TO DESTROY: 5 / 8 / 11
+DURATION: 6
+SCEPTER CAST RANGE: 500",
+"youtude" : "http://www.youtube.com/embed/DkFkvLCYeCY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_launch_fire_spirit_hp2.png?v=3379714",
+"ability_name" : "Launch Fire Spirit",
+"ability_desc" : "Each fire spirit can be launched independently at a targeted area of effect. Affected enemy units take damage over time and have their attack speed greatly reduced. Reveals the area it strikes for 1 second.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "HP COST: 20%
+SPIRIT DURATION: 16 / 16 / 16 / 16
+RADIUS: 175 / 175 / 175 / 175
+BURN DURATION: 4
+ATTACK SPEED SLOW: 80 / 100 / 120 / 140
+DAMAGE PER SECOND: 10 / 30 / 50 / 70",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_icarus_dive_stop_hp2.png?v=3379714",
+"ability_name" : "Stop Icarus Dive",
+"ability_desc" : "Immediately cancels the dive.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_sun_ray_stop_hp2.png?v=3379714",
+"ability_name" : "Stop Sun Ray",
+"ability_desc" : "Immediately stops the Sun Ray.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phoenix_sun_ray_toggle_move_hp2.png?v=3379714",
+"ability_name" : "Toggle Movement",
+"ability_desc" : "Toggles slow forward movement during Sun Ray firing.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+},]}

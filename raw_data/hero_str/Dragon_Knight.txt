@@ -1,0 +1,49 @@
+{"IntVal" : "15 + 1.70",
+"AgiVal" : "19 + 2.20",
+"StrVal" : "19 + 2.80",
+"AttackVal" : "27 - 33",
+"SpeedVal" : "290",
+"DefenseVal" : "3.66",
+"Bio" : "After years on the trail of a legendary Eldwurm, the Knight Davion found himself facing a disappointing foe: the dreaded Slyrak had grown ancient and frail, its wings tattered, its few remaining scales stricken with scale-rot, its fangs ground to nubs, and its fire-gouts no more threatening than a pack of wet matchsticks. Seeing no honor to be gained in dragon-murder, Knight Davion prepared to turn away and leave his old foe to die in peace. But a voice crept into his thoughts, and Slyrak gave a whispered plea that Davion might honor him with death in combat. Davion agreed, and found himself rewarded beyond expectation for his act of mercy: As he sank his blade in Slyrak's breast, the dragon pierced Davion's throat with a talon. As their blood mingled, Slyrak sent his power out along the Blood Route, sending all its strength and centuries of wisdom to the knight.  The dragon's death sealed their bond and Dragon Knight was born. The ancient power slumbers in the Dragon Knight Davion, waking when he calls it. Or perhaps it is the Dragon that calls the Knight...",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["985","504","195",]},
+{ "Armor" : ["14","8","4",]},
+{ "HitPoint" : ["2,168","1,256","511",]},
+{ "Damage" : ["133-139","85-91","46-52",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/dragon_knight_breathe_fire_hp2.png?v=3379714",
+"ability_name" : "Breathe Fire",
+"ability_desc" : "Unleashes a breath of fire in front of Dragon Knight that burns enemies and reduces the damage their attacks deal.",
+"footer_left" : "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 90 / 170 / 240 / 300DAMAGE REDUCTION: 20% / 25% / 30% / 35%
+REDUCTION DURATION: 11",
+"youtude" : "http://www.youtube.com/embed/wrZnzBN1CmA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/dragon_knight_dragon_tail_hp2.png?v=3379714",
+"ability_name" : "Dragon Tail",
+"ability_desc" : "Dragon Knight smites an enemy unit in melee range with his shield, stunning it while dealing minor damage.  When in Elder Dragon Form, the cast range increases to 400.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 25 / 50 / 75 / 100STUN DURATION: 2.5 / 2.75 / 3 / 3.25",
+"youtude" : "http://www.youtube.com/embed/gJSc04KMmbE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/dragon_knight_dragon_blood_hp2.png?v=3379714",
+"ability_name" : "Dragon Blood",
+"ability_desc" : "The life blood of the Dragon improves health regeneration and strengthens armor.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "HEALTH REGEN: 3 / 6 / 9 / 12
+ARMOR: 3 / 6 / 9 / 12",
+"youtude" : "http://www.youtube.com/embed/mbzF8oyAUfc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/dragon_knight_elder_dragon_form_hp2.png?v=3379714",
+"ability_name" : "Elder Dragon Form",
+"ability_desc" : "Dragon Knight takes the form of one of three powerful elder dragons, increasing his damage, speed, and Dragon Tail's range, while granting him new powers.
+<font color="#9acd32">LEVEL 1 Green Dragon</font> - Corrosive Breath: attacks deal 20 poison damage per second for 5 seconds. Works on structures.
+<font color="#ff0000">LEVEL 2 Red Dragon</font> - Splash Attack: attacks damage all enemy units in a 300 radius, with Corrosive Breath added to the primary target.
+<font color="#87ceeb">LEVEL 3 Blue Dragon</font> - Frost Breath: slows movement speed by 30% and attack speed by 20 of enemy units in Splash Attack range for 3 seconds, with Corrosive Breath added to the primary target.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 60 / 60 / 60
+BONUS MOVE SPEED: 25 / 25 / 25
+BONUS ATTACK RANGE: 372 / 372 / 372",
+"youtude" : "http://www.youtube.com/embed/3HpgABQ8kpA?hd=1&rel=0"
+},]}

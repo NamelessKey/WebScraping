@@ -1,0 +1,120 @@
+{
+    "IntVal": "22 + 2.80",
+    "AgiVal": "15 + 1.60",
+    "StrVal": "14 + 1.80",
+    "AttackVal": "18 - 32",
+    "SpeedVal": "315",
+    "DefenseVal": "1.1",
+    "Bio": "Upon a pale horse he rides, this spark of endless suns, this Keeper of the Light.  Ezalor long ago escaped the Fundamental plane, separating from the other ancient forces to which he was bound within the great Primordial harmony.  He is a power grown sentient in the dawn of the universe, and now rides forth in all planes at once, one step ahead of pursuing chaos, bearing his gift with him at the end of a radiant staff.  His majestic truth lies hidden beneath the outward appearance of a slightly doddering old man who barely stays in the saddle.  However, when faced with the challenge of chaos, or the forces of darkness, his primordial light bursts forth, and his full power is revealed, transforming him once again into a force to be reckoned with.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,420",
+                "796",
+                "286"
+            ]
+        },
+        {
+            "Armor": [
+                "9",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,617",
+                "895",
+                "416"
+            ]
+        },
+        {
+            "Damage": [
+                "127-141",
+                "79-93",
+                "40-54"
+            ]
+        },
+        {
+            "AttackRange": "600"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_illuminate_hp2.png?v=3379714",
+            "ability_name": "Illuminate",
+            "ability_desc": "Channels light energy, building power the longer it's channeled.  Once released, a wave is sent forth that deals damage and gives vision in its path.  The longer it is channeled, the more damage is dealt.Upgradable by Aghanim's Scepter, allowing Illuminate to heal allies and harm enemies during daytime. The heal and damage amounts are the same.",
+            "footer_left": "ABILITY: Channeled, Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE PER SECOND CHANNELED: 100 / 100 / 100 / 100 MAX CHANNEL TIME: 2 / 3 / 4 / 5 WIDTH: 350 / 350 / 350 / 350RANGE: 1550",
+            "youtude": "http://www.youtube.com/embed/NjozLByuQgU?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_mana_leak_hp2.png?v=3379714",
+            "ability_name": "Mana Leak",
+            "ability_desc": "Weakens an enemy's magical essence, causing them to lose mana as they move.  If the enemy loses all of its mana, it will be stunned.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+            "footer_right": "LEAK DURATION: 5 / 6 / 7 / 8 MANA LEAK PERCENT: 5% STUN DURATION: 1.5 / 2 / 2.5 / 3 CAST RANGE: 550 / 700 / 850 / 1000",
+            "youtude": "http://www.youtube.com/embed/MjZIqs9cQks?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_chakra_magic_hp2.png?v=3379714",
+            "ability_name": "Chakra Magic",
+            "ability_desc": "Restores mana to the target unit, increases its mana capacity, and reduces the cooldown of the next spell they cast.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "MANA RESTORE: 75 / 150 / 225 / 300 ALLY COOLDOWN REDUCTION: 3 / 4 / 5 / 6 COOLDOWN REDUCTION DURATION: 15",
+            "youtude": "http://www.youtube.com/embed/dSrcNmI_zBM?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_recall_hp2.png?v=3379714",
+            "ability_name": "Recall",
+            "ability_desc": "After a short delay, teleports the targeted friendly hero to your location.  If the targeted friendly hero takes player based damage during this time, the ability is interrupted.",
+            "footer_left": "ABILITY: No Target, Channeled, Unit Target, Point TargetAFFECTS: AlliesPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "TELEPORT DELAY: 5 / 4 / 3",
+            "youtude": "http://www.youtube.com/embed/gF0ZfzJJKn0?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_blinding_light_hp2.png?v=3379714",
+            "ability_name": "Blinding Light",
+            "ability_desc": "A blinding light flashes over the targeted area, knocking back and blinding the units in the area, causing them to miss attacks.",
+            "footer_left": "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+            "footer_right": "RADIUS: 675 / 675 / 675 DURATION: 4 / 5 / 6 MISS CHANCE: 80% / 80% / 80% KNOCKBACK DISTANCE: 400",
+            "youtude": "http://www.youtube.com/embed/fWCofI864ho?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_spirit_form_hp2.png?v=3379714",
+            "ability_name": "Spirit Form",
+            "ability_desc": "Ezalor temporarily turns his body luminescent, gaining various abilities.  Illuminate is now channeled by a separate spirit, and gains the Blinding Light and Recall abilities.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: No Target",
+            "footer_right": "DURATION: 40 / 40 / 40",
+            "youtude": "http://www.youtube.com/embed/g7HXFJSWG98?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_illuminate_end_hp2.png?v=3379714",
+            "ability_name": "Release Illuminate",
+            "ability_desc": "Release the channel early.",
+            "footer_left": "ABILITY: No Target",
+            "footer_right": "",
+            "youtude": ""
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/keeper_of_the_light_spirit_form_illuminate_hp2.png?v=3379714",
+            "ability_name": "Illuminate",
+            "ability_desc": "Channels light energy, building power the longer it's channeled.  Once released, a wave is sent forth that deals damage and gives vision in its path.  The longer it is channeled, the more damage is dealt.Upgradable by Aghanim's Scepter, allowing Illuminate to heal allies and harm enemies during daytime. The heal and damage amounts are the same.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE PER SECOND CHANNELED: 100 / 100 / 100 / 100 MAX CHANNEL TIME: 2 / 3 / 4 / 5 WIDTH: 350 / 350 / 350 / 350 RANGE: 1550",
+        }
+    ]
+}

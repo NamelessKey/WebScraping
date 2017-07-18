@@ -1,0 +1,97 @@
+{
+    "IntVal": "21 + 2.80",
+    "AgiVal": "15 + 2.10",
+    "StrVal": "23 + 1.50",
+    "AttackVal": "22 - 32",
+    "SpeedVal": "300",
+    "DefenseVal": "1.1",
+    "Bio": "Born in the godless Hazhadal Barrens, Chen came of age among the outlaw tribes who eked out an existence in the shimmering heat of the desert.  Using an ancient form of animal enthrallment, Chen's people husbanded the hardy desert locuthi, a stunted species of burrowing dragon that melted desert sands into tubes of glass where twice-a-year rains collected.  Always on the edge of starvation and thirst, fighting amongst their neighbors and each other, Chen's clan made the mistake, one fateful day, of ambushing the wrong caravan. In the vicious battle that followed, Chen's clan was outmatched.  The armored Knights of the Fold made short work of the enthralled locuthi, who attacked and died in waves.  With their dragons dead, the tribesmen followed. Chen struggled, and slashed, and clawed, and perished--or would have. Defeated, on his knees, he faced his execution with humility, offering his neck to the blade. Moved by Chen's obvious courage, the executioner halted his sword. Instead of the blade, Chen was given a choice: death or conversion. Chen took to the faith with a ferocity. He joined the Fold and earned his armor one bloody conversion at a time. Now, with the fanaticism of a convert, and with his powers of animal enthrallment at their peak, he seeks out unbelievers and introduces them to their final reward.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,407",
+                "783",
+                "273"
+            ]
+        },
+        {
+            "Armor": [
+                "11",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,651",
+                "986",
+                "587"
+            ]
+        },
+        {
+            "Damage": [
+                "130-140",
+                "82-92",
+                "43-53"
+            ]
+        },
+        {
+            "AttackRange": "600"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "1100"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/chen_penitence_hp2.png?v=3379714",
+            "ability_name": "Penitence",
+            "ability_desc": "Forces an enemy unit to move slower and take more damage from attacks and spells.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DURATION: 8 MOVEMENT SLOW: 15% / 20% / 25% / 30% BONUS DAMAGE: 15% / 20% / 25% / 30%",
+            "youtude": "http://www.youtube.com/embed/Q0lQaxZ2bG8?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/chen_test_of_faith_hp2.png?v=3379714",
+            "ability_name": "Test of Faith",
+            "ability_desc": "Deals random damage to test an enemy unit's faith.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE MIN: 50 / 100 / 150 / 200 DAMAGE MAX: 100 / 200 / 300 / 400",
+            "youtude": "http://www.youtube.com/embed/NfeyK2IK4mg?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/chen_test_of_faith_teleport_hp2.png?v=3379714",
+            "ability_name": "Test of Faith",
+            "ability_desc": "Teleports an allied unit back to the base.  Creeps are teleported instantly, while Heroes have a delay before teleporting. If cast on Chen, all units controlled by Chen through Holy Persuasion will be teleported to him after a delay.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: No",
+            "footer_right": "HERO/SELF TP DELAY: 6 / 5 / 4 / 3",
+            "youtude": "http://www.youtube.com/embed/TY-WEAij0KM?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/chen_holy_persuasion_hp2.png?v=3379714",
+            "ability_name": "Holy Persuasion",
+            "ability_desc": "Chen takes control of an enemy or neutral creep. If the persuaded creep's base health is naturally below the health minimum, its base health will be raised to the health minimum.Upgradable by Aghanim's Scepter, allowing Chen to persuade Ancient Creeps. The number of Ancient Creeps that can be persuaded is based on the level of Hand of God.",
+            "footer_left": "ABILITY: Unit Target",
+            "footer_right": "MAX UNITS: 1 / 2 / 3 / 4 HEALTH MINIMUM: 700 / 800 / 900 / 1000",
+            "youtude": "http://www.youtube.com/embed/Jhk_gA5AeZo?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/chen_hand_of_god_hp2.png?v=3379714",
+            "ability_name": "Hand of God",
+            "ability_desc": "Fully regenerates any creeps under Chen's control and heals all allied heroes on the map.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: No TargetPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "HEAL: 200 / 300 / 400 SCEPTER HOLY PERSUASION ANCIENTS: 1 / 2 / 3",
+            "youtude": "http://www.youtube.com/embed/BxXGyInKTpQ?hd=1&rel=0"
+        }
+    ]
+}

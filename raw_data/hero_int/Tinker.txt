@@ -1,0 +1,48 @@
+{"IntVal" : "27 + 2.20",
+"AgiVal" : "13 + 1.20",
+"StrVal" : "17 + 2.00",
+"AttackVal" : "22 - 28",
+"SpeedVal" : "305",
+"DefenseVal" : "3.82",
+"Bio" : "Boush the Tinker's diminutive race is known for its intelligence, its cunning, and its prickly relationship with magic. As a matter of pride, they survive by their wits, and use only those powers of nature that may be unlocked through rational methodologies. Even this forbearance has led to a great deal of trouble, as Boush can attest. Once a key investigator of natural law, Boush the Tinker led a vast intellectual investigation into the workings of nature, founding a subterranean laboratory in the rumored, mist-wreathed wastes of the Violet Plateau. While scorning mages for the dangers they visit upon the world, Boush and his Tinker associates haughtily wrenched open a portal to some realm beyond comprehension and ushered in some nightmares of their own. A black mist rose from the cavernous interior of the Violet Plateau, shrouding it in permanent darkness from which sounds of horror perpetually emanate. Boush escaped with only his wits and the contraptions he carried, the sole Tinker to survive the Violet Plateau Incident.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,297","751","351",]},
+{ "Armor" : ["11","6","4",]},
+{ "HitPoint" : ["1,765","1,005","473",]},
+{ "Damage" : ["122-128","80-86","49-55",]},
+{ "AttackRange" : "500"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tinker_laser_hp2.png?v=3379714",
+"ability_name" : "Laser",
+"ability_desc" : "Fires an intense energy beam, dealing damage and blinding the target, causing it to miss all physical attacks. 
+
+Upgradable by Aghanim's Scepter, causing the laser to refract between all visible enemy heroes in a 650 range.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 80 / 160 / 240 / 320BLIND MISS RATE: 100% / 100% / 100% / 100%
+HERO BLIND DURATION: 3 / 3.5 / 4 / 4.5
+CREEP BLIND DURATION: 6 / 6 / 6 / 6
+CAST RANGE: 650",
+"youtude" : "http://www.youtube.com/embed/2tDx6grjLns?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tinker_heat_seeking_missile_hp2.png?v=3379714",
+"ability_name" : "Heat-Seeking Missile",
+"ability_desc" : "Launches a pair of rockets at the nearest visible enemy heroes within 2500 range. The number of missile targets is doubled with Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 125 / 200 / 275 / 350TARGETS: 2 / 2 / 2 / 2",
+"youtude" : "http://www.youtube.com/embed/jK4Sn_EDBpE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tinker_march_of_the_machines_hp2.png?v=3379714",
+"ability_name" : "March of the Machines",
+"ability_desc" : "Enlists an army of robotic minions to destroy enemy units in an area around Tinker.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 16 / 24 / 32 / 40RADIUS: 900
+DURATION: 6",
+"youtude" : "http://www.youtube.com/embed/AmXRvkaYhIE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tinker_rearm_hp2.png?v=3379714",
+"ability_name" : "Rearm",
+"ability_desc" : "CHANNELED - Resets the cooldown on most of Tinker's items and abilities.",
+"footer_left" : "ABILITY: No Target, Channeled",
+"footer_right" : "TIME TO REARM: 3 / 1.5 / 0.75",
+"youtude" : "http://www.youtube.com/embed/eHlwkFnGtzs?hd=1&rel=0"
+},]}

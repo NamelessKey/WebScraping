@@ -1,0 +1,89 @@
+{
+    "IntVal": "23 + 2.90",
+    "AgiVal": "15 + 1.70",
+    "StrVal": "18 + 1.90",
+    "AttackVal": "22 - 28",
+    "SpeedVal": "305",
+    "DefenseVal": "2.1",
+    "Bio": "Ascendants to the Great Seat of Cymurri had for ages imported their Oracles exclusively from the Ivory Incubarium, high in the hollow peaks of the Zealot's Range, with a downpayment made at the time of the embryo's conception and the balance surrendered on delivery of a mature, well-trained prophet to the Gate of the Graven King.Raised by same Pallid Sybils who bred and birthed them, all sanctioned Oracles were anchored by their physical form to the world we most of us share; meanwhile, their souls roamed far afield,barely bound by the airiest astral umbilicus. From such cosmic roamings the prophets would return, speaking words of fire with tongues of flesh. Their mystic utterances were analyzed by the Cymurri Advisors, who found in them visions of the future, diplomatic advice, all the supernatural ammunition the line of Graven Kings needed to secure victory in every campaign, whether in the court or on the battlefield. Thus it went for generations, the Graventome's pages filling with the names of triumphant kings and the new domains they had acquired. So it went, that is, until the particular Oracle named Nerif arrived to serve the very last of the stone-helmed kings. From the first, Nerif's prophecies were unusual. They seemed not merely to portend the future, but to shape it. The weird soothsayer croaked out advice no one had requested, and suddenly the Cymurri found themselves immersed in conflicts with newfound enemies. The Advisors, sensing a threat to their power, were quick to pin these unwelcome developments on the latest Oracle. They demanded his removal, petitioning the Sybils to reclaim their defective prophet and replace him with a worthy substitute. But Nerif described an ominous dream of the Incubarium's destruction, and within hours came news of the ancient school's destruction in a catastrophic avalanche. Fearing the same fate as the Pallid Sybils, the Advisors withdrew to their counsel chambers, suddenly anxious to avoid the Oracle's notice. The Graven King, however, was a creature of great practicality. He doubted the commitment of his overprudent Advisors. An Oracle of such rarity, he reasoned, ought be used as a weapon to enlarge his domain. He therefore demoted his timid counselors and stationed Nerif at his side. With only a blunt understanding of Nerif's talent, he boldly stated the outcomes he desired, and coaxed Nerif into uttering his wishes as prophecy. At first, all was well. The Last Graven King boasted that by adopting Fate's pet, he had made a plaything of Fate itself. He should have taken it as a warning then when, on the eve of his invasion of the Unsated Satrap's realm, he attempted to coerce a prediction of certain victory from his Oracle, only to hear Nerif quietly mutter, 'It could go either way.' No firmer statement could he force from Nerif's lips. Still, the King was confident in his army. The Satrapy was landlocked, poorly armed, and shut off from all possible allies. He took 'It could go either way' to indicate that with tactical might on his side, there was little risk in his plan.Of course, we now know that he should have taken the sayer's words more literally. Even with careful study of the Annotated Annals of If, what happened on the field before the Unsated Satrap's palace is almost impossible to visualize. It appears that in the midst of the carnage, the battle began to bifurcate. At each pivotal moment, reality calved and broke into bits. Soldiers who staggered and fell in battle also stood sure-footed, forging onward to fight. Their minds also split; the warriors found themselves both dead and alive, existent and non-existent. Victory and defeat were partitioned, so that each separate outcome was experienced in simultaneity by both armies. The universe became a hall of mirrors, with all the mirrors endlessly shattering.The immediate effect on both parties was insanity. Unable to comprehend the state of being both triumphant and defeated, the Graven King's mind dispersed into motes of madness. The naive Satrap fared no better. The opposing paired realities continued to split and split again, echoing into infinite histories, all of them populated by a bewildered populace that soon lost the ability to feed, clothe, defend, or reproduce itself in the traditional manner. Long before the repercussions had played out, however, Cymurri's wary Advisors had seized Nerif, bound and gagged him, and launched him out of their universe at high speed on a dimensional barque, in the hopes of depositing him where he could do them no harm forever. It was, of course, too late for them. And may well be for us.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,464",
+                "827",
+                "299"
+            ]
+        },
+        {
+            "Armor": [
+                "11",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,738",
+                "997",
+                "492"
+            ]
+        },
+        {
+            "Damage": [
+                "135-141",
+                "86-92",
+                "45-51"
+            ]
+        },
+        {
+            "AttackRange": "620"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/oracle_fortunes_end_hp2.png?v=3379714",
+            "ability_name": "Fortune's End",
+            "ability_desc": "CHANNELED - Gathers Oracle's power into a bolt of scouring energy that, when released, damages, stops movement, and purges enemies of buffs in an area around the target. If target is an ally it will only purge. Can be channeled for up to 2.5 seconds. The stop duration is equal to the time spent channeling.",
+            "footer_left": "ABILITY: Channeled, Unit TargetAFFECTS: HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 90 / 120 / 150 / 180 MIN STOP DURATION: 0.5 MAX STOP DURATION: 2.5 RADIUS: 300",
+            "youtude": "http://www.youtube.com/embed/uoC4rmz5pL4?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/oracle_fates_edict_hp2.png?v=3379714",
+            "ability_name": "Fate's Edict",
+            "ability_desc": "Oracle enraptures a target, disarming them and granting them 100% magic damage resistance. Can be cast on allies and enemies.",
+            "footer_left": "ABILITY: Unit TargetPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DURATION: 3 / 3.5 / 4 / 4.5",
+            "youtude": "http://www.youtube.com/embed/-5MLuLQ92_w?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/oracle_purifying_flames_hp2.png?v=3379714",
+            "ability_name": "Purifying Flames",
+            "ability_desc": "Burns away impurities, dealing heavy magic damage to the target before causing them to regenerate health over time. The amount of health regenerated over its duration exceeds the amount of initial damage. Can be cast on enemies and allies.",
+            "footer_left": "ABILITY: Unit TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 90 / 180 / 270 / 360 HEAL PER SECOND: 11 / 22 / 33 / 44 TOTAL HEAL: 99 / 198 / 297 / 396 DURATION: 9",
+            "youtude": "http://www.youtube.com/embed/YP2ZXzx6kX4?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/oracle_false_promise_hp2.png?v=3379714",
+            "ability_name": "False Promise",
+            "ability_desc": "Temporarily alters an ally's destiny, delaying any healing or damage taken until False Promise ends. Any healing that is delayed by False Promise is doubled. Removes most negative status effects and disables on initial cast.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Allied Heroes",
+            "footer_right": "DURATION: 7 / 8 / 9",
+            "youtude": "http://www.youtube.com/embed/q_OHyoGf9Ns?hd=1&rel=0"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{"IntVal" : "15 + 1.60",
+"AgiVal" : "15 + 2.00",
+"StrVal" : "23 + 3.80",
+"AttackVal" : "32 - 34",
+"SpeedVal" : "300",
+"DefenseVal" : "3.1",
+"Bio" : "It's said that a centaur's road is paved with the corpses of the fallen.  For the one called Warrunner, it has been a long road indeed.  To outsiders, the four-legged clans of Druud are often mistaken for simple, brutish creatures.  Their language has no written form; their culture lacks pictographic traditions, structured music, formalized religion.  For centaurs, combat is the perfect articulation of thought, the highest expression of self.  If killing is an art among centaurs, then Bradwarden the Warrunner is their greatest artist.  He rose to dominance on the proving grounds of Omexe, an ancient arena where centaur clans have for millennia gathered to perform their gladiatorial rites.  As his fame spread, spectators came from far and wide to see the great centaur in action.  Always the first to step into the arena, and the last to leave, he composes a masterpiece in each guttering spray, each thrust of blood-slickened blade-length.  It is the poetry of blood on steel, flung in complex patterns across the pale sands of the killing floor.Warrunner defeated warrior after warrior, until the arena boomed with the cheering of his name, and he found himself alone, the uncontested champion of his kind.  The great belt of Omexe was bestowed, wrapped around his broad torso, but in his victory, the death-artist found only emptiness.  For what is a warrior without a challenge?  The great centaur galloped out of Omexe that day with a new goal.  To his people, Warrunner is the greatest warrior to ever step into the arena.  Now he has set out to prove he is the greatest fighter who has ever lived.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["954","486","195",]},
+{ "Armor" : ["13","7","3",]},
+{ "HitPoint" : ["2,700","1,598","587",]},
+{ "Damage" : ["166-168","108-110","55-57",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/centaur_hoof_stomp_hp2.png?v=3379714",
+"ability_name" : "Hoof Stomp",
+"ability_desc" : "Slams the ground, stunning and damaging nearby enemy units.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RADIUS: 315
+STUN DURATION 2 / 2.25 / 2.5 / 2.75
+STOMP DAMAGE: 100 / 150 / 200 / 250",
+"youtude" : "http://www.youtube.com/embed/FuWaTlMJwjM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/centaur_double_edge_hp2.png?v=3379714",
+"ability_name" : "Double Edge",
+"ability_desc" : "Centaur strikes a mighty blow at melee range, damaging both himself and a small area around the target.  Centaur cannot die from Double Edge.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 175 / 250 / 325 / 400",
+"youtude" : "http://www.youtube.com/embed/PsHWOHEq5-Q?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/centaur_return_hp2.png?v=3379714",
+"ability_name" : "Return",
+"ability_desc" : "Centaur counters every attack, damaging the attacker based on a percentage of Centaur's strength.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 16 / 18 / 20 / 22
+STRENGTH BONUS DAMAGE: 30% / 45% / 60% / 75%",
+"youtude" : "http://www.youtube.com/embed/b0obuqv_n5I?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/centaur_stampede_hp2.png?v=3379714",
+"ability_name" : "Stampede",
+"ability_desc" : "Centaur leads all allies into a vicious charge causing them to move through units at max speed and stop any enemy units they trample. Trampled enemies take damage based on Centaur Warrunner's strength. Each enemy can be trampled once.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "STAMPEDE DURATION: 3.75
+STRENGTH MULTIPLIER DAMAGE: 1 / 2 / 3
+STOP DURATION: 1.5
+TRAMPLE RADIUS: 105
+SCEPTER DAMAGE REDUCTION: 60%",
+"youtude" : "http://www.youtube.com/embed/RF6R96LLL5o?hd=1&rel=0"
+},]}

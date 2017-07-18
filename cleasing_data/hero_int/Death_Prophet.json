@@ -1,0 +1,89 @@
+{
+  "IntVal": "23 + 3.00",
+  "AgiVal": "14 + 1.40",
+  "StrVal": "19 + 1.90",
+  "AttackVal": "24 - 36",
+  "SpeedVal": "310",
+  "DefenseVal": "2.96",
+  "Bio": "Krobelus was a Death Prophet--which is one way of saying she told fortunes for the wealthiest of those who wished to look beyond the veil. But after years of inquiring on behalf of others, she began to seek clues on her own fate. When death refused to yield its secrets, she tried to buy them with her life. But the ultimate price proved insufficient. Death disgorged her again and again, always holding back its deepest mysteries. Her jealousy grew. Others could die for eternity--why not she? Why must she alone be cast back on the shores of life with such tiresome regularity? Why was she not worthy of the one thing all other living creatures took for granted? Still, she would not be discouraged. Each time she returned from the grave, she brought a bit of death back with her. Wraiths followed her like fragments of her shattered soul; her blood grew thin and ectoplasmic; the feasting creatures of twilight took her for their kin.. She gave a little of her life with every demise, and it began to seem as if her end was in sight. With her dedication to death redoubled, and no client other than herself, Krobelus threw herself ever more fervently into death's abyss, intent on fulfilling the one prophecy that eluded her: That someday the Death Prophet would return from death no more.",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "1,495",
+        "845",
+        "299"
+      ]
+    },
+    {
+      "Armor": [
+        "10",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "HitPoint": [
+        "1,757",
+        "1,016",
+        "511"
+      ]
+    },
+    {
+      "Damage": [
+        "139-151",
+        "89-101",
+        "47-59"
+      ]
+    },
+    {
+      "AttackRange": "600"
+    },
+    {
+      "SightRange": "1800 / 800"
+    },
+    {
+      "MissileSpeed": "1000"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/death_prophet_carrion_swarm_hp2.png?v=3379714",
+      "ability_name": "Crypt Swarm",
+      "ability_desc": "Sends a swarm of winged beasts to savage enemy units in front of Death Prophet.",
+      "footer_left": "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 75 / 150 / 225 / 300RANGE: 810 / 810 / 810 / 810",
+      "youtude": "http://www.youtube.com/embed/z_uGWWazyqg?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/death_prophet_silence_hp2.png?v=3379714",
+      "ability_name": "Silence",
+      "ability_desc": "Prevents enemy units in a target area from casting spells.",
+      "footer_left": "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+      "footer_right": "RADIUS: 425DURATION: 3/4/5/6",
+      "youtude": "http://www.youtube.com/embed/eLBBXHVFYgU?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/death_prophet_spirit_siphon_hp2.png?v=3379714",
+      "ability_name": "Spirit Siphon",
+      "ability_desc": "Creates a spirit link between Death Prophet and an enemy unit, draining 20 + 1% Max HP per second and slowing the enemy's movement speed by 5%.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "BASE DAMAGE: 20 MAXHPASDAMAGE: 1%/2%/3%/4% DURATION: 5 ENEMYSLOW: 5%/10%/15%/20% MAXCHARGES: 1/2/3/4 CHARGERESTORETIME: 45",
+      "youtude": ""
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/death_prophet_exorcism_hp2.png?v=3379714",
+      "ability_name": "Exorcism",
+      "ability_desc": "Unleashes evil spirits to drain the life of nearby enemy units and structures. At the end of the spell's duration, Death Prophet is healed in proportion to the damage dealt.  Lasts 35 seconds.",
+      "footer_left": "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "RADIUS: 700 / 700 / 700SPIRITS: 8/16/24LIFEDRAIN: 25%/25%/25%SPIRITDAMAGE: 55/55/55",
+      "youtude": "http://www.youtube.com/embed/UpxNoiCXx1g?hd=1&rel=0"
+    }
+  ]
+}

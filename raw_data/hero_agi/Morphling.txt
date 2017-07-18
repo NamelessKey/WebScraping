@@ -1,0 +1,10 @@
+{"IntVal" : "null",
+"AgiVal" : "null",
+"StrVal" : "null",
+"AttackVal" : "null",
+"SpeedVal" : "null",
+"DefenseVal" : "null",
+"Bio" : "",
+"Stata" : [],
+"Ability" : [
+]}

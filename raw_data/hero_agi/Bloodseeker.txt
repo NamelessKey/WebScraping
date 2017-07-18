@@ -1,0 +1,51 @@
+{"IntVal" : "18 + 1.70",
+"AgiVal" : "24 + 3.00",
+"StrVal" : "23 + 2.00",
+"AttackVal" : "29 - 35",
+"SpeedVal" : "290",
+"DefenseVal" : "3.36",
+"Bio" : "Strygwyr the Bloodseeker is a ritually sanctioned hunter, Hound of the Flayed Twins, sent down from the mist-shrouded peaks of Xhacatocatl in search of blood. The Flayed Ones require oceanic amounts of blood to keep them sated and placated, and would soon drain their mountain empire of its populace if the priests of the high plateaus did not appease them. Strygwyr therefore goes out in search of carnage. The vital energy of any blood he lets, flows immediately to the Twins through the sacred markings on his weapons and armor. Over the years, he has come to embody the energy of a vicious hound; in battle he is savage as a jackal. Beneath the Mask of the Bloodseeker, in the rush of bloody quenching, it is said that you can sometime see the features of the Flayers taking direct possession of their Hound.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,024","543","234",]},
+{ "Armor" : ["16","9","3",]},
+{ "HitPoint" : ["1,879","1,119","587",]},
+{ "Damage" : ["145-151","95-101","53-59",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bloodseeker_bloodrage_hp2.png?v=3379714",
+"ability_name" : "Bloodrage",
+"ability_desc" : "Drives a unit into a bloodthirsty rage during which a unit deals, and takes, increased damage. Units affected by Bloodrage will be healed for a percentage of the max health of any units they kill. Units affected by Bloodrage when killed will heal a percentage of their max health to their killer.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 9 / 10 / 11 / 12
+DAMAGE INCREASE: 25% / 30% / 35% / 40%
+KILL HEAL PERCENTAGE: 19% / 21% / 23% / 25%",
+"youtude" : "http://www.youtube.com/embed/BnTDtOHIatY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bloodseeker_blood_bath_hp2.png?v=3379714",
+"ability_name" : "Blood Rite",
+"ability_desc" : "Bloodseeker baptizes an area in sacred blood. After 3 seconds the ritual completes, causing any enemies caught in the area to take damage and become silenced.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "RITUAL AREA: 600
+SILENCE DURATION: 3 / 4 / 5 / 6
+DAMAGE: 120 / 160 / 200 / 240",
+"youtude" : "http://www.youtube.com/embed/z2PQgLOoDZE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bloodseeker_thirst_hp2.png?v=3379714",
+"ability_name" : "Thirst",
+"ability_desc" : "Bloodseeker is invigorated by the wounds of his enemies, gaining bonus movement speed and attack damage whenever an enemy hero's health falls below 75%, with the bonuses increasing as their health falls further. If an enemy hero's health falls below 25%, he will also gain vision and True Sight of that hero. Bonuses stack per hero.",
+"footer_left" : "ABILITY: PassivePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "THIRST HEALTH THRESHHOLD: 75%
+MAX THIRST MOVE SPEED: 10% / 20% / 30% / 40%
+MAX THIRST DAMAGE: 10 / 20 / 30 / 40
+VISIBILITY HEALTH THRESHHOLD: 25%",
+"youtude" : "http://www.youtube.com/embed/VcJPbm7kek8?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bloodseeker_rupture_hp2.png?v=3379714",
+"ability_name" : "Rupture",
+"ability_desc" : "Causes an enemy unit's skin to rupture. If the unit moves, it takes a percentage of the distance traveled as damage.  The damage is dealt through spell immunity.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 12
+MOVE DAMAGE: 20% / 40% / 60%
+CAST RANGE: 1000",
+"youtude" : "http://www.youtube.com/embed/gf8HgbLF-7Y?hd=1&rel=0"
+},]}

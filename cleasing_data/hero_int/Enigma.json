@@ -1,0 +1,89 @@
+{
+    "IntVal": "20 + 3.40",
+    "AgiVal": "14 + 1.00",
+    "StrVal": "17 + 2.10",
+    "AttackVal": "22 - 28",
+    "SpeedVal": "300",
+    "DefenseVal": "3.96",
+    "Bio": "Nothing is known of Enigma's background. There are only stories and legends, most of them apocryphal, passed down through the ages. In truth, Enigma is a mystery for whom the only true biography is description: he is a universal force, a consumer of worlds. He is a being of the void, at times corporeal, other times ethereal. A beast between the planes. There are stories that say he was once a great alchemist who tried to unlock the secrets of the universe and was cursed for his arrogance. Other legends tell that he is an ancient being of strange gravity, the abyss personified--a twisted voice from out the original darkness, before the first light in the universe. And there are older legends that say he is the first collapsed star, a black hole grown complicated and sentient--his motivations unknowable, his power inexorable, a force of destruction unleashed upon existence itself.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,581",
+                "879",
+                "260"
+            ]
+        },
+        {
+            "Armor": [
+                "10",
+                "6",
+                "4"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,811",
+                "1,032",
+                "473"
+            ]
+        },
+        {
+            "Damage": [
+                "144-150",
+                "90-96",
+                "42-48"
+            ]
+        },
+        {
+            "AttackRange": "500"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enigma_malefice_hp2.png?v=3379714",
+            "ability_name": "Malefice",
+            "ability_desc": "Focuses Enigma's power on a target, causing it to take damage and become repeatedly stunned for multiple instances.  An instance strikes every 2 seconds.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "STUN DURATION: 0.25 / 0.5 / 0.75 / 1 DAMAGE PER HIT: 30 / 50 / 70 / 90 INSTANCES: 3 / 3 / 3 / 3",
+            "youtude": "http://www.youtube.com/embed/y0u1c81JqM0?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enigma_demonic_conversion_hp2.png?v=3379714",
+            "ability_name": "Demonic Conversion",
+            "ability_desc": "Transforms a creep into three fragments of Enigma himself.  These eidolons are all under Enigma's control, and repeated successful attacks cause them to multiply.  When this happens, the eidolons have their health restored.",
+            "footer_left": "ABILITY: Unit Target",
+            "footer_right": "ATTACKS TO MULTIPLY: 6 / 6 / 6 / 6 EIDOLON HP: 180 / 200 / 220 / 240 EIDOLON DAMAGE: 20 / 28 / 38 / 47 DURATION: 35",
+            "youtude": "http://www.youtube.com/embed/9gj20AVAwE4?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enigma_midnight_pulse_hp2.png?v=3379714",
+            "ability_name": "Midnight Pulse",
+            "ability_desc": "Steeps an area in dark resonance, damaging enemy units based on their max HP.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "RADIUS: 550 DAMAGE PER SECOND: 3% / 3.75% / 4.5% / 5.25% DURATION: 11",
+            "youtude": "http://www.youtube.com/embed/qrhVMKaO0NA?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enigma_black_hole_hp2.png?v=3379714",
+            "ability_name": "Black Hole",
+            "ability_desc": "CHANNELED - Summons a vortex that sucks in nearby enemy units.  Enemies affected by Black Hole cannot move, attack, or cast spells.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Channeled, Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "DAMAGE PER SECOND: 55 / 110 / 165 RADIUS: 420 DURATION: 4 / 4 / 4",
+            "youtude": "http://www.youtube.com/embed/FOKIcPeAYPw?hd=1&rel=0"
+        }
+    ]
+}

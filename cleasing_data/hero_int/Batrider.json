@@ -1,0 +1,89 @@
+{
+  "IntVal": "24 + 2.50",
+  "AgiVal": "15 + 1.50",
+  "StrVal": "23 + 2.40",
+  "AttackVal": "14 - 18",
+  "SpeedVal": "290",
+  "DefenseVal": "2.1",
+  "Bio": "There is no such thing as harmony among the creatures of the Yama Raskav Jungle. By bite, or claw, or pincer, or hoof, even the slightest sign of weakness means a swift death. They say the Rider was just a lad cutting chaff in his family's field when he was taken, swept up by a massive morde-bat looking for take-out. But this boy had a better idea, and wriggled his way from his captor's grip, onto the beast's back, and hacked it down with his tools. Emerging from the bloody wreckage and intoxicated by the thrill of flight, the boy realized he'd found his calling.  The boy grew, and every summer he'd return to his family's field, often setting out into the bush seeking to reclaim that first thrill of facing death in the form of jaws or a fatal fall. The years went on, but his fire only grew stronger. He studied the overgrowth, plunging deeper with each expedition, until finally he found his way to the caves at the heart of hostility. They say the Rider, on the eve of a scorching summer night, had nothing but a rope, a bottle of liquid courage and a burning determination to feel the skies once more, when he plunged inside...",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "1,352",
+        "767",
+        "312"
+      ]
+    },
+    {
+      "Armor": [
+        "10",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "HitPoint": [
+        "2,061",
+        "1,225",
+        "587"
+      ]
+    },
+    {
+      "Damage": [
+        "118-122",
+        "73-77",
+        "38-42"
+      ]
+    },
+    {
+      "AttackRange": "375"
+    },
+    {
+      "SightRange": "1200 / 800"
+    },
+    {
+      "MissileSpeed": "900"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/batrider_sticky_napalm_hp2.png?v=3379714",
+      "ability_name": "Sticky Napalm",
+      "ability_desc": "Drenches an area in sticky oil, amplifying damage from Batrider's attacks and abilities and slowing the movement speed and turn rate of enemies in the area.  Additional casts of Sticky Napalm continue to increase damage, up to 10 stacks.  The extra damage is halved against creeps.",
+      "footer_left": "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+      "footer_right": "EXTRA DAMAGE: 10 / 15 / 20 / 25 RADIUS: 375 / 375 / 375 / 375 DURATION: 8 / 8 / 8 / 8 MOVEMENT SLOW: 3% / 5% / 7% / 9% TURN RATE SLOW: 70% / 70% / 70% / 70%",
+      "youtude": "http://www.youtube.com/embed/jru8juajIig?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/batrider_flamebreak_hp2.png?v=3379714",
+      "ability_name": "Flamebreak",
+      "ability_desc": "Hurls an explosive cocktail that explodes when it reaches the target location, knocking back, briefly stunning, and dealing damage over time to enemies in the area.",
+      "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE PER SECOND: 25 / 30 / 35 / 40 BURN DURATION: 3 / 4 / 5 / 6 TOTAL DAMAGE: 75 / 120 / 175 / 240 RADIUS: 375 / 375 / 375 / 375",
+      "youtude": "http://www.youtube.com/embed/uQuU3UPz4lE?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/batrider_firefly_hp2.png?v=3379714",
+      "ability_name": "Firefly",
+      "ability_desc": "Batrider takes to the skies, laying down a trail of flames from the air.  The fire damages any enemies it touches, and destroys trees below Batrider. While flying, Batrider gains unobstructed movement and vision.",
+      "footer_left": "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE PER SECOND: 10 / 30 / 50 / 70 RADIUS: 200 / 200 / 200 / 200 DURATION: 18 / 18 / 18 / 18",
+      "youtude": "http://www.youtube.com/embed/X4vRNtSfFwE?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/batrider_flaming_lasso_hp2.png?v=3379714",
+      "ability_name": "Flaming Lasso",
+      "ability_desc": "Lassoes an enemy and drags them in Batrider's wake.  Victims cannot be dragged over impassable terrain. Dragged units cannot move, attack, or use abilities.  Teleporting or blinking will break the lasso.Upgradable by Aghanim's Scepter.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "DURATION: 3 / 3.5 / 4 SCEPTER TETHER RANGE: 400 SCEPTER DAMAGE PER SECOND: 100",
+      "youtude": "http://www.youtube.com/embed/Fem29nDrc04?hd=1&rel=0"
+    }
+  ]
+}

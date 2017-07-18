@@ -1,0 +1,52 @@
+{"IntVal" : "16 + 1.60",
+"AgiVal" : "18 + 2.25",
+"StrVal" : "23 + 2.80",
+"AttackVal" : "38 - 42",
+"SpeedVal" : "295",
+"DefenseVal" : "5.52",
+"Bio" : "Of the Night Stalker, there is no history, only stories. There are ancient tales woven into the lore of every race and every culture, of an impossible time before sunlight and daytime, when night reigned alone and the world was covered with the creatures of darkness--creatures like Balanar the Night Stalker. It is said that on the dawn of the First Day, all the night creatures perished. All, that is, save one. Evil's embodiment, Night Stalker delights in his malevolence. He created the primal role of the Night Terror, the Boogeyman, and as long as there have been younglings, his is the specter summoned to terrify them. This is a role he relishes; nor are these empty theatrics. He does indeed stalk the unwary, the defenseless, those who have strayed beyond the lighted paths or denied the warnings of their communities. Night Stalker serves as living proof that every child's worst nightmare....is true.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["967","499","208",]},
+{ "Armor" : ["16","10","6",]},
+{ "HitPoint" : ["2,244","1,332","587",]},
+{ "Damage" : ["148-152","100-104","61-65",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1200 / 1800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/night_stalker_void_hp2.png?v=3379714",
+"ability_name" : "Void",
+"ability_desc" : "Creates a damaging void that slows an enemy unit and deals damage.  Void also mini-stuns, interrupting channeling abilities. The slowing effect lasts longer at night.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 90 / 160 / 255 / 335DAY DURATION: 2 / 2 / 2 / 2
+NIGHT DURATION: 2.5 / 3 / 3.5 / 4
+MOVE SLOW: 50% / 50% / 50% / 50%
+ATTACK SLOW: 50 / 50 / 50 / 50",
+"youtude" : "http://www.youtube.com/embed/HPu40Ahpefw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/night_stalker_crippling_fear_hp2.png?v=3379714",
+"ability_name" : "Crippling Fear",
+"ability_desc" : "Night Stalker horrifies the target enemy Hero, causing it to miss attacks and become silenced.  The effect lasts longer at night.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAY DURATION: 3 / 3 / 3 / 3
+NIGHT DURATION: 5 / 6 / 7 / 8
+DAY CHANCE TO MISS: 10% / 10% / 10% / 10%
+NIGHT CHANCE TO MISS: 50%",
+"youtude" : "http://www.youtube.com/embed/1i9z1rYqmZg?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/night_stalker_hunter_in_the_night_hp2.png?v=3379714",
+"ability_name" : "Hunter in the Night",
+"ability_desc" : "Night Stalker is in his element at night, attacking and moving with great swiftness.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MOVE SPEED: 20% / 25% / 30% / 35%
+ATTACK SPEED: 45 / 60 / 75 / 90",
+"youtude" : "http://www.youtube.com/embed/S2Br_dswVZY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/night_stalker_darkness_hp2.png?v=3379714",
+"ability_name" : "Darkness",
+"ability_desc" : "Night Stalker smothers the sun and summons instant darkness, so that he might use his powers at their fullest. While Darkness is in effect, enemy heroes, units, wards and buildings have their vision range reduced to 675. 
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 50
+ENEMY VISION RANGE: 675",
+"youtude" : "http://www.youtube.com/embed/xuCoHHo_pJw?hd=1&rel=0"
+},]}

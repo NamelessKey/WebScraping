@@ -1,0 +1,89 @@
+{
+    "IntVal": "28 + 2.80",
+    "AgiVal": "10 + 1.20",
+    "StrVal": "25 + 2.30",
+    "AttackVal": "25 - 33",
+    "SpeedVal": "290",
+    "DefenseVal": "2.4",
+    "Bio": "Even among magical beasts, a twin-headed dragon is a freak. Equal parts ice and fire, cunning and rage, the creature known as Jakiro glides over charred and ice-bound battlefields, laying waste to any who would bear arms against it. Pyrexae dragon clutches always contain two fledglings. Famous for their viciousness even from the first moments of life, newly hatched dragons of this species will try to kill their sibling while still in the nest. Only the strongest survive. In this way is the strength of the Pyrexae line ensured. By some accident of nature, the freak Jakiro hatched from a single egg, combining in a single individual the full range of abilities found within the diverse Pyrexae species. Trapped within the armature of its monstrous body, the powers of ice and fire combine, and now no enemy is safe.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,498",
+                "874",
+                "364"
+            ]
+        },
+        {
+            "Armor": [
+                "9",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "HitPoint": [
+                "2,054",
+                "1,237",
+                "625"
+            ]
+        },
+        {
+            "Damage": [
+                "140-148",
+                "92-100",
+                "53-61"
+            ]
+        },
+        {
+            "AttackRange": "400"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "1100"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/jakiro_dual_breath_hp2.png?v=3379714",
+            "ability_name": "Dual Breath",
+            "ability_desc": "An icy blast followed by a wave of fire launches out in a path in front of Jakiro. The ice slows enemies, while the fire delivers damage over time.",
+            "footer_left": "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "START RADIUS: 200 / 200 / 200 / 200 END RADIUS: 250 / 250 / 250 / 250 BURN DAMAGE: 20 / 40 / 60 / 80 MOVE SLOW: 28% / 32% / 36% / 40% ATTACK SLOW: 28 / 32 / 36 / 40 DURATION: 5",
+            "youtude": "http://www.youtube.com/embed/TF0T7EZuxqU?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/jakiro_ice_path_hp2.png?v=3379714",
+            "ability_name": "Ice Path",
+            "ability_desc": "Creates a path of ice that stuns and damages enemies that touch it.",
+            "footer_left": "ABILITY: Point TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+            "footer_right": "FORMATION DELAY: 0.5 DURATION: 1 / 1.4 / 1.8 / 2.2 RADIUS: 150 DAMAGE: 50",
+            "youtude": "http://www.youtube.com/embed/opuYKyouxJk?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/jakiro_liquid_fire_hp2.png?v=3379714",
+            "ability_name": "Liquid Fire",
+            "ability_desc": "Jakiro burns his enemies in an area of effect with fire added to his attack, while slowing their attacks.Liquid Fire is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+            "footer_left": "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "ATTACK SLOW: 20 / 30 / 40 / 50 RADIUS: 300 / 300 / 300 / 300 BURN DAMAGE: 12 / 16 / 20 / 24 DURATION: 5 / 5 / 5 / 5",
+            "youtude": "http://www.youtube.com/embed/cdBmGuFveks?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/jakiro_macropyre_hp2.png?v=3379714",
+            "ability_name": "Macropyre",
+            "ability_desc": "Jakiro exhales a wide line of lasting flames, which deals damage per second to any enemy units caught in the fire.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE PER SECOND: 100 / 140 / 180 FLAME LENGTH: 900 FLAME WIDTH: 240 DURATION: 10 SCEPTER DAMAGE PER SECOND: 125 / 175 / 225 SCEPTER FLAME LENGTH: 1800 SCEPTER DURATION: 20",
+            "youtude": "http://www.youtube.com/embed/RWGgjf-GEy4?hd=1&rel=0"
+        }
+    ]
+}

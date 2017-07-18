@@ -1,0 +1,61 @@
+{"IntVal" : "16 + 1.80",
+"AgiVal" : "19 + 2.10",
+"StrVal" : "21 + 2.60",
+"AttackVal" : "25 - 41",
+"SpeedVal" : "300",
+"DefenseVal" : "2.66",
+"Bio" : "The sands of the Scintillant Waste are alive and sentient--the whole vast desert speaks to itself, thinking thoughts only such a vastness can conceive. But when it needs must find a form to communicate with those of more limited scope, it frees a fragment of itself, and fills a carapace of magic armor formed by the cunning Djinn of Qaldin. This essential identity calls itself Crixalis, meaning 'Soul of the Sand,' but others know it as Sand King.  Sand King takes the form of a huge arachnid, inspired by the Scintillant Waste's small but ubiquitous denizens; and this is a true outward expression of his ferocious nature. Guardian, warrior, ambassador--Sand King is all of these things, inseparable from the endless desert that gave him life.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,030","536","208",]},
+{ "Armor" : ["13","7","3",]},
+{ "HitPoint" : ["2,115","1,241","549",]},
+{ "Damage" : ["128-144","82-98","46-62",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sandking_burrowstrike_hp2.png?v=3379714",
+"ability_name" : "Burrowstrike",
+"ability_desc" : "Sand King burrows into the ground and tunnels forward, damaging and stunning enemy units above him as he resurfaces.
+
+Upgradable by Aghanim's Scepter, increasing the range and applies Caustic Finale to every heroes hit by Burrowstrike.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 100 / 160 / 220 / 280STUN DURATION: 2.17
+RANGE: 350 / 450 / 550 / 650
+SCEPTER RANGE: 700 / 900 / 1100 / 1300",
+"youtude" : "http://www.youtube.com/embed/BQNqhjqVtfg?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sandking_sand_storm_hp2.png?v=3379714",
+"ability_name" : "Sand Storm",
+"ability_desc" : "CHANNELED - Sand King creates a fearsome sandstorm that damages enemy units while hiding him from vision.  The invisibility remains for a short duration after the sandstorm ends.",
+"footer_left" : "ABILITY: No Target, ChanneledDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 25 / 50 / 75 / 100INVISIBILITY DELAY: 1.5
+RADIUS: 525
+DURATION: 20 / 40 / 60 / 80",
+"youtude" : "http://www.youtube.com/embed/sUusCExNMHk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sandking_caustic_finale_hp2.png?v=3379714",
+"ability_name" : "Caustic Finale",
+"ability_desc" : "Sand King's attacks inject a venom that causes enemy units to violently explode when its timer expires, or when the unit dies, damaging and slowing nearby enemies. Deals 50% damage if its timer expires.
+
+Caustic Finale is a Unique Attack Modifier, and does not stack with other Unique Attack Modifier.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "EXPLODE RADIUS: 400
+EXPLODE DEATH DAMAGE: 90 / 130 / 170 / 220
+EXPLODE TIMER DAMAGE: 45 / 65 / 85 / 110
+EXPLODE TIMER: 6
+MOVE SLOW: 30%
+SLOW DURATION: 3",
+"youtude" : "http://www.youtube.com/embed/HdesfveEum4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sandking_epicenter_hp2.png?v=3379714",
+"ability_name" : "Epicenter",
+"ability_desc" : "CHANNELED - After channeling for 2 seconds, Sand King sends a disturbance into the earth, causing it to shudder violently. All enemies caught within range will take damage and become slowed. Each subsequent pulse increases the radius of damage dealt.",
+"footer_left" : "ABILITY: No Target, ChanneledDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "PULSES: 6 / 8 / 10
+DAMAGE PER PULSE: 110 / 110 / 110
+MOVEMENT SLOW: 30% / 30% / 30%
+ATTACK SLOW: 30
+SLOW DURATION: 3",
+"youtude" : "http://www.youtube.com/embed/2_1y1pTdyIo?hd=1&rel=0"
+},]}

@@ -1,0 +1,89 @@
+{
+  "IntVal": "16 + 1.80",
+  "AgiVal": "12 + 1.40",
+  "StrVal": "22 + 2.90",
+  "AttackVal": "24 - 34",
+  "SpeedVal": "310",
+  "DefenseVal": "2.68",
+  "Bio": "Like a golem or gargoyle, Earthshaker was one with the earth but now walks freely upon it. Unlike those other entities, he created himself through an act of will, and serves no other master. In restless slumbers, encased in a deep seam of stone, he became aware of the life drifting freely above him. He grew curious. During a season of tremors, the peaks of Nishai shook themselves loose of avalanches, shifting the course of rivers and turning shallow valleys into bottomless chasms. When the land finally ceased quaking, Earthshaker stepped from the settling dust, tossing aside massive boulders as if throwing off a light blanket. He had shaped himself in the image of a mortal beast, and named himself Raigor Stonehoof. He bleeds now, and breathes, and therefore he can die. But his spirit is still that of the earth; he carries its power in the magical totem that never leaves him. And on the day he returns to dust, the earth will greet him as a prodigal son.",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "1,030",
+        "536",
+        "208"
+      ]
+    },
+    {
+      "Armor": [
+        "10",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "HitPoint": [
+        "2,270",
+        "1,339",
+        "568"
+      ]
+    },
+    {
+      "Damage": [
+        "136-146",
+        "87-97",
+        "46-56"
+      ]
+    },
+    {
+      "AttackRange": "128"
+    },
+    {
+      "SightRange": "1800 / 800"
+    },
+    {
+      "MissileSpeed": "N/A"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/earthshaker_fissure_hp2.png?v=3379714",
+      "ability_name": "Fissure",
+      "ability_desc": "Slams the ground with a mighty totem, creating an impassable ridge of stone while stunning and damaging enemy units along its line.",
+      "footer_left": "ABILITY: Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 110 / 160 / 210 / 260FISSURE RANGE: 1400 FISSURE DURATION: 8 STUN DURATION: 1 / 1.25 / 1.5 / 1.75",
+      "youtude": "http://www.youtube.com/embed/vTbNwc5Tqwc?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/earthshaker_enchant_totem_hp2.png?v=3379714",
+      "ability_name": "Enchant Totem",
+      "ability_desc": "Empowers Earthshaker's totem, causing it to deal extra damage on the next attack.",
+      "footer_left": "ABILITY: No Target",
+      "footer_right": "DAMAGE: 0 / 0 / 0 / 0BONUS: 100% / 200% / 300% / 400% DURATION: 14 / 14 / 14 / 14",
+      "youtude": "http://www.youtube.com/embed/OkSsLAN7mbk?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/earthshaker_aftershock_hp2.png?v=3379714",
+      "ability_name": "Aftershock",
+      "ability_desc": "Causes the earth to shake underfoot, adding additional damage and stuns to nearby enemy units when Earthshaker casts his abilities.",
+      "footer_left": "ABILITY: PassiveDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 50 / 75 / 100 / 125RADIUS: 300 DURATION: 0.6 / 0.9 / 1.2 / 1.5",
+      "youtude": "http://www.youtube.com/embed/2xcM8xccDIs?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/earthshaker_echo_slam_hp2.png?v=3379714",
+      "ability_name": "Echo Slam",
+      "ability_desc": "Shockwaves travel through the ground, damaging enemy units.  Each enemy hit causes an echo to damage nearby units.Upgradable by Aghanim's Scepter.",
+      "footer_left": "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 160 / 210 / 270RADIUS: 575 ECHO DAMAGE: 40 / 55 / 70",
+      "youtude": "http://www.youtube.com/embed/1_C9UkV-27s?hd=1&rel=0"
+    }
+  ]
+}

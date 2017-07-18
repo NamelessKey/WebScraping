@@ -1,0 +1,64 @@
+{"IntVal" : "13 + 1.00",
+"AgiVal" : "21 + 2.75",
+"StrVal" : "17 + 2.20",
+"AttackVal" : "17 - 35",
+"SpeedVal" : "300",
+"DefenseVal" : "1.94",
+"Bio" : "It's an easy thing to offend a troll. A prickly and contentious race, trolls thrive on argument and strife, missing no excuse to raise their voices in dispute. Males grow to maturity in subterranean chambers beneath their matriarch's domicile, feeding and amusing themselves while contributing nothing. Often they stay for years beyond the age of maturity, while the matriarch provides them with sustenance. When young trolls are finally pushed from their sub-chamber, they gather with others of their kind, forming roving gangs of malcontents who complain loudly about all manner of vexation.     As much as trolls love to argue, imagine how rare it is for a troll to be driven from his own kind for being too difficult to get along with. Such was Jah'rakal's fate, a monger troll from deep in the Hoven. So deluded was he, so bitter and abrasive, that even other trolls found his company intolerable. After one particularly vitriolic outburst in which he claimed the lion's share of loot from their latest raid, his cohorts finally snapped. They turned on him, beat him with clubs, and drove him from the encampment. Enraged at his banishment, he returned the next day, armed with steel, and slew them all, one by one. He then swore a blood oath: he would ever after be a fighting force unto himself. Now he roams the world as the Troll Warlord, bitter and angry, the Imperial high commander of an army of one.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["741","351","169",]},
+{ "Armor" : ["14","7","2",]},
+{ "HitPoint" : ["1,856","1,058","473",]},
+{ "Damage" : ["124-142","77-95","38-56",]},
+{ "AttackRange" : "500"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1200"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/troll_warlord_berserkers_rage_hp2.png?v=3379714",
+"ability_name" : "Berserker's Rage",
+"ability_desc" : "While active, Troll Warlord swaps from using ranged to melee attacks. Melee attacks have a chance to bash, dealing bonus damage and stunning the target. Berserker's Rage also grants additional health, movement speed, armor, and increased attack speed.
+
+Whirling Axes has different functionality while Berserker's Rage is active.",
+"footer_left" : "ABILITY: No Target, Toggle",
+"footer_right" : "BONUS HEALTH: 100
+BONUS MOVE SPEED: 10 / 20 / 30 / 40
+BONUS ARMOR: 3
+MELEE BASE ATTACK TIME: 1.55
+BASH CHANCE: 10%
+BASH STUN DURATION: 0.8 / 1.2 / 1.6 / 2
+BASH BONUS DAMAGE: 20 / 30 / 40 / 50",
+"youtude" : "http://www.youtube.com/embed/5hm9QkwMsuk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/troll_warlord_whirling_axes_ranged_hp2.png?v=3379714",
+"ability_name" : "Whirling Axes (Ranged)",
+"ability_desc" : "Troll hurls a fistful of five axes in a cone shape over 900 range, slowing and damaging enemy units.",
+"footer_left" : "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "AXE DAMAGE: 75
+SLOW DURATION: 3 / 3.75 / 4.5 / 5.25
+MOVEMENT SLOW: 30%",
+"youtude" : "http://www.youtube.com/embed/pqe5QcZDAEE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/troll_warlord_whirling_axes_melee_hp2.png?v=3379714",
+"ability_name" : "Whirling Axes (Melee)",
+"ability_desc" : "Troll hurls two axes around him in a close range area of effect, damaging enemy units and causing them to miss some attacks.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 75 / 125 / 175 / 225
+RADIUS: 450
+BLIND DURATION: 4 / 5 / 6 / 7
+MISS CHANCE: 60%
+WHIRL DURATION: 3",
+"youtude" : "http://www.youtube.com/embed/x9u8gk8vczg?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/troll_warlord_fervor_hp2.png?v=3379714",
+"ability_name" : "Fervor",
+"ability_desc" : "With each continuous blow on the same target, Troll gains increased attack speed.  If Troll changes targets, the stacks drop to zero.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MAX STACKS: 6
+ATTACK SPEED PER STACK: 15 / 20 / 25 / 30",
+"youtude" : "http://www.youtube.com/embed/Ba5LZHZaAts?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/troll_warlord_battle_trance_hp2.png?v=3379714",
+"ability_name" : "Battle Trance",
+"ability_desc" : "Troll's presence on the battlefield increases the attack speed of himself and all allied heroes.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "TRANCE DURATION: 5
+ATTACK SPEED: 60 / 120 / 180",
+"youtude" : "http://www.youtube.com/embed/YLDwkaESv9U?hd=1&rel=0"
+},]}

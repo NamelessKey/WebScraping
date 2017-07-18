@@ -1,0 +1,69 @@
+{"IntVal" : "23 + 1.60",
+"AgiVal" : "14 + 1.50",
+"StrVal" : "24 + 2.30",
+"AttackVal" : "23 - 33",
+"SpeedVal" : "315",
+"DefenseVal" : "2.96",
+"Bio" : "Well may you ask, "How did this world take its form?" Why of all the worlds in creation, has this one its strange properties, its diverse and motley collection of creatures, cultures and lore? "The answer," One whispers, "lies with the Titans."		These original progenitors were there near the Beginning--if not actual witnesses to the creation, then born with it still echoing in their ears. Stamped with the earliest energies of the universe, they wished nothing more than to continue as creators themselves. Thus they bent to the task of shaping matter to their will: hammering and heating, bending and blasting. And when matter proved less challenging than they liked, they turned their tools upon themselves, reshaping their minds and reforging their spirits until they had become beings of great endurance. Reality itself became the ultimate object of their smithing. Yet, along the way, they sometimes erred. In cases of great ambition, mistakes are unavoidable.		The one we know as the Elder Titan was a great innovator, one who studied at the forge of creation. In honing his skills, he shattered something that could never be repaired, only thrown aside. He fell into his own broken world, a shattered soul himself. There he dwelt among the jagged shards and fissured planes, along with other lost fragments that had sifted down through the cracks in the early universe. And this is why the world we know resembles an isle of castaways, survivors of a wreck now long forgotten. Forgotten, that is, by all but the One who blames himself. He spends his time forever seeking a way to accomplish the repairs, that he might rejoin the parts of his broken soul, that we and the world alike might all be mended. This is the One we know as Elder Titan.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,058","590","299",]},
+{ "Armor" : ["11","6","3",]},
+{ "HitPoint" : ["2,035","1,218","606",]},
+{ "Damage" : ["122-132","79-89","47-57",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/elder_titan_echo_stomp_hp2.png?v=3379714",
+"ability_name" : "Echo Stomp",
+"ability_desc" : "Elder Titan and his Astral Spirit both stomp the ground, damaging and knocking nearby enemy units unconscious around their locations.  The Elder Titan stomp deals physical damage, while the Spirit stomp deals magical damage.",
+"footer_left" : "ABILITY: No Target, ChanneledDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "CAST TIME: 1.6
+RADIUS: 500
+SLEEP DURATION: 2 / 3 / 4 / 5
+STOMP DAMAGE: 80 / 90 / 100 / 110",
+"youtude" : "http://www.youtube.com/embed/yBDyBbeVK0k?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/elder_titan_ancestral_spirit_hp2.png?v=3379714",
+"ability_name" : "Astral Spirit",
+"ability_desc" : "Elder Titan sends forth his Astral Spirit, damaging any units it passes through.  When the spirit rejoins the Titan, it grants bonus damage and movement speed for each unit it damaged.
+
+The Astral Spirit possesses the Echo Stomp, Return Spirit, and Natural Order abilities.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 275
+DAMAGE: 60 / 90 / 120 / 150
+DURATION: 8
+BUFF DURATION: 9
+BONUS SPEED(CREEPS): 1%
+BONUS SPEED(HEROES): 5%
+BONUS DAMAGE(CREEPS): 6 / 9 / 12 / 15
+BONUS DAMAGE(HEROES): 10 / 20 / 30 / 40",
+"youtude" : "http://www.youtube.com/embed/OUUqiie5-Z8?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/elder_titan_natural_order_hp2.png?v=3379714",
+"ability_name" : "Natural Order",
+"ability_desc" : "Reduces all elements to their basic levels, removing base armor and magic damage resistance from nearby enemy units.",
+"footer_left" : "ABILITY: Passive, AuraAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 275 / 275 / 275 / 275
+BASE ARMOR REDUCTION: 40% / 60% / 80% / 100%
+BASE RESIST REDUCTION: 12% / 19% / 26% / 33%",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/elder_titan_return_spirit_hp2.png?v=3379714",
+"ability_name" : "Return Astral Spirit",
+"ability_desc" : "Returns the Astral Spirit to Elder Titan.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/ql8H5QjhygM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/elder_titan_earth_splitter_hp2.png?v=3379714",
+"ability_name" : "Earth Splitter",
+"ability_desc" : "Sends forth a jagged crack in front of Elder Titan. After 3 seconds, the crack implodes, slowing movement while dealing damage to each enemy based on their maximum life. Half of the damage dealt is Magical damage, while the other half is Physical damage.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "EXPLODE DELAY: 3.14
+CRACK WIDTH: 300
+CRACK LENGTH: 2400
+MOVEMENT SLOW: 30% / 40% / 50%
+SLOW DURATION: 3 / 4 / 5
+MAX HP AS DAMAGE: 30% / 40% / 50%
+SCEPTER SLOW/DISARM DURATION: 4 / 5 / 6",
+"youtude" : "http://www.youtube.com/embed/OWI9tNGa6dQ?hd=1&rel=0"
+},]}

@@ -1,0 +1,51 @@
+{"IntVal" : "15 + 1.50",
+"AgiVal" : "23 + 2.65",
+"StrVal" : "23 + 1.80",
+"AttackVal" : "37 - 43",
+"SpeedVal" : "300",
+"DefenseVal" : "4.22",
+"Bio" : "Darkterror the Faceless Void is a visitor from Claszureme, a realm outside of time. It remains a mystery why this being from another dimension believes the struggle for the Nemesis Stones is worth entering our physical plane, but apparently an upset in the balance of power in this world has repercussions in adjacent dimensions. Time means nothing to Darkterror, except as a way to thwart his foes and aid his allies. His long-view of the cosmos has given him a remote, disconnected quality, although in battle he is quite capable of making it personal.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["923","468","195",]},
+{ "Armor" : ["16","9","4",]},
+{ "HitPoint" : ["1,788","1,066","587",]},
+{ "Damage" : ["144-150","97-103","60-66",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/faceless_void_time_walk_hp2.png?v=3379714",
+"ability_name" : "Time Walk",
+"ability_desc" : "Rushes to a target location while backtracking any damage taken the last 2 seconds.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RANGE: 625
+BACKTRACK DURATION: 2",
+"youtude" : "http://www.youtube.com/embed/oW2YcRO3Njc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/faceless_void_time_dilation_hp2.png?v=3379714",
+"ability_name" : "Time Dilation",
+"ability_desc" : "Faceless Void traps all nearby enemies in a time dilation field for 6 seconds, freezing their cooldowns and slowing their movement and attack speed by 7% for each cooldown frozen.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "RADIUS: 725
+DURATION: 6 / 8 / 10 / 12
+SLOW PER COOLDOWN: 7% / 8% / 9% / 10%",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/faceless_void_time_lock_hp2.png?v=3379714",
+"ability_name" : "Time Lock",
+"ability_desc" : "Adds the chance for an attack to lock an enemy unit in time, stunning it and dealing bonus damage.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 1
+CHANCE: 10% / 15% / 20% / 25%
+BONUS DAMAGE: 40 / 50 / 60 / 70",
+"youtude" : "http://www.youtube.com/embed/ZGW8iNF3Xiw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/faceless_void_chronosphere_hp2.png?v=3379714",
+"ability_name" : "Chronosphere",
+"ability_desc" : "Creates a blister in spacetime, trapping all units caught in its sphere of influence and causes you to move very quickly inside it.  Only Faceless Void and any units he controls are unaffected.  Invisible units in the sphere will be revealed.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 425
+DURATION: 4 / 4.5 / 5
+SCEPTER DURATION: 4 / 5 / 6
+SCEPTER COOLDOWN: 60 / 60 / 60",
+"youtude" : "http://www.youtube.com/embed/PnQqKogpmeU?hd=1&rel=0"
+},]}

@@ -1,0 +1,97 @@
+{
+  "IntVal": "18 + 1.50",
+  "AgiVal": "14 + 1.30",
+  "StrVal": "24 + 3.00",
+  "AttackVal": "26 - 36",
+  "SpeedVal": "300",
+  "DefenseVal": "1.96",
+  "Bio": "As The Admiral of the mighty Claddish Navy, Kunkka was charged with protecting the isles of his homeland when the demons of the Cataract made a concerted grab at the lands of men. After years of small sorties, and increasingly bold and devastating attacks, the demon fleet flung all its carnivorous ships at the Trembling Isle. Desperate, the Suicide-Mages of Cladd committed their ultimate rite, summoning a host of ancestral spirits to protect the fleet. Against the demons, this was just barely enough to turn the tide. As Kunkka watched the demons take his ships down one by one, he had the satisfaction of wearing away their fleet with his ancestral magic. But at the battle's peak, something in the clash of demons, men and atavistic spirits must have stirred a fourth power that had been slumbering in the depths. The waves rose up in towering spouts around the few remaining ships, and Maelrawn the Tentacular appeared amid the fray. His tendrils wove among the ships, drawing demon and human craft together, churning the water and wind into a raging chaos. What happened in the crucible of that storm, none may truly say. The Cataract roars off into the void, deserted by its former denizens. Kunkka is now The Admiral of but one ship, a ghostly rig which endlessly replays the final seconds of its destruction. Whether he died in that crash is anyone's guess. Not even Tidehunter, who summoned Maelrawn, knows for sure.",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "962",
+        "507",
+        "234"
+      ]
+    },
+    {
+      "Armor": [
+        "9",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "HitPoint": [
+        "2,354",
+        "1,404",
+        "606"
+      ]
+    },
+    {
+      "Damage": [
+        "142-152",
+        "92-102",
+        "50-60"
+      ]
+    },
+    {
+      "AttackRange": "128"
+    },
+    {
+      "SightRange": "1800 / 800"
+    },
+    {
+      "MissileSpeed": "900"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/kunkka_torrent_hp2.png?v=3379714",
+      "ability_name": "Torrent",
+      "ability_desc": "Summons a rising torrent that, after a short delay, hurls enemy units into the sky, stunning, dealing damage and slowing movement speed.",
+      "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 120 / 180 / 240 / 300 RADIUS: 225 MOVE SLOW: 35% SLOW DURATION: 1 / 2 / 3 / 4 STUN DURATION: 1.53 / 1.53 / 1.53 / 1.53 DELAY: 1.6 / 1.6 / 1.6 / 1.6",
+      "youtude": "http://www.youtube.com/embed/2NeN4ToMrfY?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/kunkka_tidebringer_hp2.png?v=3379714",
+      "ability_name": "Tidebringer",
+      "ability_desc": "Kunkka's legendary sword grants increased damage and cleaves a large area of effect in front of him for a single strike.",
+      "footer_left": "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "RADIUS: 450 / 500 / 550 / 600 DAMAGE BONUS: 25 / 40 / 55 / 70",
+      "youtude": "http://www.youtube.com/embed/GrJOoGLZyWg?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/kunkka_x_marks_the_spot_hp2.png?v=3379714",
+      "ability_name": "X Marks the Spot",
+      "ability_desc": "Targets a friendly or enemy Hero, marks their position with an X, and returns them to it after several seconds.  Kunkka can trigger the return at any time during the duration. Lasts twice as long on allied heroes.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: HeroesPIERCES SPELL IMMUNITY: No",
+      "footer_right": "ENEMY DELAY: 4 ALLIED DELAY: 8 RANGE: 400 / 600 / 800 / 1000",
+      "youtude": "http://www.youtube.com/embed/uF1OsHjC-tY?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/kunkka_ghostship_hp2.png?v=3379714",
+      "ability_name": "Ghostship",
+      "ability_desc": "Summons a ghostly ship that sails through the battle before smashing apart, damaging and stunning all enemies caught near the wreckage. Allied heroes touched by the Ghostship are given a swig of The Admiral's Rum, receiving bonus movement speed and a delayed reaction to 50% of all incoming damage.",
+      "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 400 / 500 / 600IMPACT DELAY: 2.7 RANGE: 1000 / 1000 / 1000 WIDTH: 425 / 425 / 425 RUM BONUS SPEED: 10% / 10% / 10% RUM DURATION: 10STUN DURATION: 1.4 / 1.4 / 1.4",
+      "youtude": "http://www.youtube.com/embed/lfnAIKZ6suE?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/kunkka_return_hp2.png?v=3379714",
+      "ability_name": "Return",
+      "ability_desc": "Returns the marked hero to the X.",
+      "footer_left": "ABILITY: No TargetPIERCES SPELL IMMUNITY: No",
+      "footer_right": "",
+      "youtude": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{"IntVal" : "20 + 2.00",
+"AgiVal" : "23 + 2.70",
+"StrVal" : "18 + 2.10",
+"AttackVal" : "30 - 36",
+"SpeedVal" : "305",
+"DefenseVal" : "4.22",
+"Bio" : "Lanaya, the Templar Assassin, came to her calling by a path of curious inquiry. Possessed of a scientific bent, she spent her early years engaged in meticulous study of nature's laws--peering into grimoires of magic and alchemy, recreating experiments from charred fragments of the Violet Archives, and memorizing observations of the Keen recordkeepers. Already quiet and secretive by nature, the difficulty of acquiring these objects further reinforced her skills of stealth. Had she been less retiring, she might have become notorious among the guilds as a thief-scholar. Instead her investigations led her into far more obscure corners. As she devoted her furtive talents to unlocking the secrets of the universe, she instead unlocked a secret door that exists in nature itself: the entryway to the most Hidden Temple. The intelligences that waited beyond that portal, proved to be expecting her, and whatever mysteries they revealed in the moment of their discovery was nothing compared to the answers they held out to Lanaya should she continue in their service. She swore to protect the mysteries, but more to the point, in service to the Hidden Temple she satisfies her endless craving for understanding. In the eyes of each foe she expunges, a bit more of the mystery is revealed.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,144","624","260",]},
+{ "Armor" : ["16","10","4",]},
+{ "HitPoint" : ["1,830","1,051","492",]},
+{ "Damage" : ["138-144","91-97","53-59",]},
+{ "AttackRange" : "140"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/templar_assassin_refraction_hp2.png?v=3379714",
+"ability_name" : "Refraction",
+"ability_desc" : "Templar Assassin becomes highly elusive, avoiding damage and gaining a bonus to her damage.  The damage and avoidance effects are separate, and have a limited number of instances.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "INSTANCES: 3 / 4 / 5 / 6
+BONUS DAMAGE: 20 / 40 / 60 / 80
+DURATION: 17 / 17 / 17 / 17",
+"youtude" : "http://www.youtube.com/embed/xrj3rk70xrs?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/templar_assassin_meld_hp2.png?v=3379714",
+"ability_name" : "Meld",
+"ability_desc" : "Templar Assassin conceals herself, becoming invisible as long as she remains still.  If Meld's invisibility is broken by attacking an enemy, Lanaya will deal bonus damage to the enemy and reduce their armor for 10 seconds.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "BONUS DAMAGE: 50 / 100 / 150 / 200
+ARMOR REDUCTION: 2 / 4 / 6 / 8
+ARMOR REDUCTION DURATION: 10",
+"youtude" : "http://www.youtube.com/embed/-oa6PPpOtiM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/templar_assassin_psi_blades_hp2.png?v=3379714",
+"ability_name" : "Psi Blades",
+"ability_desc" : "Templar Assassin's psi blades slice through the attacked unit, splitting and damaging enemy units directly behind it, while gaining bonus attack range.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "BONUS ATTACK RANGE: 60 / 120 / 180 / 240
+SPLIT RANGE: 590 / 630 / 670 / 710",
+"youtude" : "http://www.youtube.com/embed/TujHkI7r5Lw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/templar_assassin_trap_hp2.png?v=3379714",
+"ability_name" : "Trap",
+"ability_desc" : "Springs the nearest trap, slowing nearby enemies.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/kZkWoqTLTrY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/templar_assassin_psionic_trap_hp2.png?v=3379714",
+"ability_name" : "Psionic Trap",
+"ability_desc" : "Templar Assassin places mystical traps that invisibly monitor enemy movement. When sprung at her command, they exert a slowing influence of 30% in the area. Traps charge up to slow an additional 5% every second, up to 50%.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "MAX TRAPS: 5 / 8 / 11
+MIN MOVEMENT SLOW: 30%
+MAX MOVEMENT SLOW: 50%
+SLOW DURATION: 5",
+},]}

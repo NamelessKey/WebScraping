@@ -1,0 +1,57 @@
+{"IntVal" : "18 + 1.60",
+"AgiVal" : "20 + 2.20",
+"StrVal" : "25 + 2.50",
+"AttackVal" : "24 - 28",
+"SpeedVal" : "290",
+"DefenseVal" : "1.8",
+"Bio" : "As a grunt in the Army of Red Mist, Mogul Khan set his sights on the rank of Red Mist General. In battle after battle he proved his worth through gory deed. His rise through the ranks was helped by the fact that he never hesitated to decapitate a superior. Through the seven year Campaign of the Thousand Tarns, he distinguished himself in glorious carnage, his star of fame shining ever brighter, while the number of comrades in arms steadily dwindled. On the night of ultimate victory, Axe declared himself the new Red Mist General, and took on the ultimate title of 'Axe.' But his troops now numbered zero. Of course, many had died in battle, but a significant number had also fallen to Axe's blade. Needless to say, most soldiers now shun his leadership. But this matters not a whit to Axe, who knows that a one-man army is by far the best.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["993","525","234",]},
+{ "Armor" : ["12","6","2",]},
+{ "HitPoint" : ["2,145","1,290","625",]},
+{ "Damage" : ["129-133","84-88","49-53",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/axe_berserkers_call_hp2.png?v=3379714",
+"ability_name" : "Berserker's Call",
+"ability_desc" : "Axe taunts nearby enemy units, forcing them to attack him, while he gains bonus armor during the duration.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 0 / 0 / 0 / 0RADIUS: 300
+BONUS ARMOR: 40
+DURATION: 2 / 2.4 / 2.8 / 3.2",
+"youtude" : "http://www.youtube.com/embed/EYSMC12J9vw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/axe_battle_hunger_hp2.png?v=3379714",
+"ability_name" : "Battle Hunger",
+"ability_desc" : "Enrages an enemy unit, causing it to be slowed and take damage over time until it kills another unit or the duration ends. Axe gains movement speed for each unit affected with Battle Hunger.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 16 / 24 / 32 / 40DURATION: 10
+MOVEMENT SLOW: 12%
+SPEED BONUS: 12%",
+"youtude" : "http://www.youtube.com/embed/1Xmzu79iaX0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/axe_counter_helix_hp2.png?v=3379714",
+"ability_name" : "Counter Helix",
+"ability_desc" : "When attacked, Axe performs a helix counter attack, dealing damage to all nearby enemies.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 100 / 135 / 170 / 205RADIUS: 275
+CHANCE TO HELIX: 20%",
+"youtude" : "http://www.youtube.com/embed/vSvMgF_gAqo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/axe_culling_blade_hp2.png?v=3379714",
+"ability_name" : "Culling Blade",
+"ability_desc" : "Axe spots a weakness and strikes, instantly killing an enemy unit with low health, or dealing moderate damage otherwise. When an enemy hero is killed with Culling Blade, its cooldown is reset, and Axe and nearby allied units gain bonus movement speed.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "KILL THRESHOLD: 250 / 325 / 400
+DAMAGE: 150 / 250 / 300
+KILL MOVE SPEED BONUS: 30%
+KILL ATTACK SPEED BONUS: 30
+KILL SPEED DURATION: 6
+KILL SPEED RADIUS: 900
+SCEPTER COOLDOWN: 6 / 6 / 6
+SCEPTER KILL THRESHOLD: 300 / 425 / 550
+SCEPTER SPEED DURATION: 10",
+"youtude" : "http://www.youtube.com/embed/iSkNp5ty7xI?hd=1&rel=0"
+},]}

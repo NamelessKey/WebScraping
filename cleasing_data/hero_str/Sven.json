@@ -1,0 +1,89 @@
+{
+  "IntVal": "16 + 1.30",
+  "AgiVal": "21 + 2.00",
+  "StrVal": "23 + 2.70",
+  "AttackVal": "41 - 43",
+  "SpeedVal": "295",
+  "DefenseVal": "4.94",
+  "Bio": "Sven is the bastard son of a Vigil Knight, born of a Pallid Meranth, raised in the Shadeshore Ruins.  With his father executed for violating the Vigil Codex, and his mother shunned by her wild race, Sven believes that honor is to be found in no social order, but only in himself.  After tending his mother through a lingering death, he offered himself as a novice to the Vigil Knights, never revealing his identity.  For thirteen years he studied in his father's school, mastering the rigid code that declared his existence an abomination.  Then, on the day that should have been his In-Swearing, he seized the Outcast Blade, shattered the Sacred Helm, and burned the Codex in the Vigil's Holy Flame.  He strode from Vigil Keep, forever solitary, following his private code to the last strict rune. Still a knight, yes...but a Rogue Knight. He answers only to himself.",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "874",
+        "445",
+        "208"
+      ]
+    },
+    {
+      "Armor": [
+        "14",
+        "9",
+        "5"
+      ]
+    },
+    {
+      "HitPoint": [
+        "2,198",
+        "1,305",
+        "587"
+      ]
+    },
+    {
+      "Damage": [
+        "149-151",
+        "102-104",
+        "64-66"
+      ]
+    },
+    {
+      "AttackRange": "128"
+    },
+    {
+      "SightRange": "1800 / 800"
+    },
+    {
+      "MissileSpeed": "N/A"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/sven_storm_bolt_hp2.png?v=3379714",
+      "ability_name": "Storm Hammer",
+      "ability_desc": "Sven unleashes his magical gauntlet that deals damage and stuns enemy units.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 100 / 175 / 250 / 325DURATION: 2 RADIUS: 255",
+      "youtude": "http://www.youtube.com/embed/-BNx6j67GMM?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/sven_great_cleave_hp2.png?v=3379714",
+      "ability_name": "Great Cleave",
+      "ability_desc": "Sven strikes with great force, cleaving all nearby enemy units with his attack.",
+      "footer_left": "ABILITY: PassivePIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "RADIUS: 300.000000 CLEAVE DAMAGE: 30% / 42% / 54% / 66%",
+      "youtude": "http://www.youtube.com/embed/XRI-eUBr_S8?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/sven_warcry_hp2.png?v=3379714",
+      "ability_name": "Warcry",
+      "ability_desc": "Sven's Warcry heartens his allies for battle, increasing their movement speed and armor.  Lasts 8 seconds.",
+      "footer_left": "ABILITY: No Target",
+      "footer_right": "BONUS ARMOR: 5 / 10 / 15 / 20 BONUS SPEED: 12% RADIUS: 900 DURATION: 8",
+      "youtude": "http://www.youtube.com/embed/npLme9BdTy8?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/sven_gods_strength_hp2.png?v=3379714",
+      "ability_name": "God's Strength",
+      "ability_desc": "Sven channels his rogue strength, granting bonus damage for 25 seconds.Upgradable by Aghanim's Scepter.",
+      "footer_left": "ABILITY: No Target",
+      "footer_right": "BONUS DAMAGE: 100% / 150% / 200% SCEPTER ALLY AURA RADIUS: 900 SCEPTER ALLY BONUS DAMAGE: 75% / 100% / 125%",
+      "youtude": "http://www.youtube.com/embed/EbnTUOTMvkg?hd=1&rel=0"
+    }
+  ]
+}

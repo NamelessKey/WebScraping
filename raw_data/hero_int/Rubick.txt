@@ -1,0 +1,59 @@
+{"IntVal" : "27 + 2.40",
+"AgiVal" : "14 + 1.60",
+"StrVal" : "19 + 1.50",
+"AttackVal" : "17 - 27",
+"SpeedVal" : "290",
+"DefenseVal" : "0.96",
+"Bio" : "Any mage can cast a spell or two, and a few may even study long enough to become a wizard, but only the most talented are allowed to be recognized as a Magus. Yet as with any sorcerer's circle, a sense of community has never guaranteed competitive courtesy.Already a renowned duelist and scholar of the grander world of sorcery, it had never occurred to Rubick that he might perhaps be Magus material until he was in the midst of his seventh assassination attempt. As he casually tossed the twelfth of a string of would-be killers from a high balcony, it dawned on him how utterly unimaginative the attempts on his life had become. Where once the interruption of a fingersnap or firehand might have put a cheerful spring in his step, it had all become so very predictable. He craved greater competition. Therefore, donning his combat mask, he did what any wizard seeking to ascend the ranks would do: he announced his intention to kill a Magus.Rubick quickly discovered that to threaten one Magus is to threaten them all, and they fell upon him in force. Each antagonist's spell was an unstoppable torrent of energy, and every attack a calculated killing blow. But very soon something occurred that Rubick's foes found unexpected: their arts appeared to turn against them. Inside the magic maelstrom, Rubick chuckled, subtly reading and replicating the powers of one in order to cast it against another, sowing chaos among those who had allied against him. Accusations of betrayal began to fly, and soon the sorcerers turned one upon another without suspecting who was behind their undoing.When the battle finally drew to a close, all were singed and frozen, soaked and cut and pierced. More than one lay dead by an ally's craft. Rubick stood apart, sore but delighted in the week's festivities. None had the strength to argue when he presented his petition of assumption to the Hidden Council, and the Insubstantial Eleven agreed as one to grant him the title of Grand Magus.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,360","788","351",]},
+{ "Armor" : ["9","4","1",]},
+{ "HitPoint" : ["1,575","910","511",]},
+{ "Damage" : ["122-132","78-88","44-54",]},
+{ "AttackRange" : "600"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1125"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rubick_telekinesis_hp2.png?v=3379714",
+"ability_name" : "Telekinesis",
+"ability_desc" : "Rubick uses his telekinetic powers to lift the enemy into the air briefly and then hurls them back at the ground. The unit lands on the ground with such force that it stuns nearby enemies.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "LIFT DURATION: 1.5 / 1.75 / 2 / 2.25
+STUN DURATION: 1 / 1.25 / 1.5 / 1.75
+IMPACT RADIUS: 325 / 325 / 325 / 325
+CAST RANGE: 550 / 575 / 600 / 625",
+"youtude" : "http://www.youtube.com/embed/SbfekAl6ZBM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rubick_telekinesis_land_hp2.png?v=3379714",
+"ability_name" : "Telekinesis Land",
+"ability_desc" : "Chooses the location the target will land when Telekinesis finishes.",
+"footer_left" : "ABILITY: Point Target",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/ZLrd3_57xKw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rubick_fade_bolt_hp2.png?v=3379714",
+"ability_name" : "Fade Bolt",
+"ability_desc" : "Rubick creates a powerful stream of arcane energy that travels between enemy units, dealing damage and reducing their attack damage.  Each jump deals less damage.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 70 / 140 / 210 / 280
+JUMP REDUCTION: 4% / 4% / 4% / 4%
+HERO DAMAGE REDUCTION: 20 / 25 / 30 / 35
+CREEP DAMAGE REDUCTION: 10 / 13 / 15 / 17
+DEBUFF DURATION: 10 / 10 / 10 / 10",
+"youtude" : "http://www.youtube.com/embed/eZ6g4fnlkC8?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rubick_null_field_hp2.png?v=3379714",
+"ability_name" : "Null Field",
+"ability_desc" : "Rubick's mastery of the arcane protects nearby allies against weaker magics, granting them magic resistance.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MAGIC RESISTANCE: 5% / 10% / 15% / 20%
+RADIUS: 900",
+"youtude" : "http://www.youtube.com/embed/rGPFkEHi8QA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rubick_spell_steal_hp2.png?v=3379714",
+"ability_name" : "Spell Steal",
+"ability_desc" : "Rubick studies the trace magical essence of one enemy hero, learning the secrets of the last spell the hero cast. Rubick can use this spell as his own for several minutes or until he dies.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy HeroesPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 180 / 240 / 300
+SCEPTER COOLDOWN: 2",
+"youtude" : "http://www.youtube.com/embed/RBiGEs77jDQ?hd=1&rel=0"
+},]}

@@ -1,0 +1,54 @@
+{"IntVal" : "21 + 2.00",
+"AgiVal" : "29 + 2.60",
+"StrVal" : "21 + 1.70",
+"AttackVal" : "22 - 44",
+"SpeedVal" : "290",
+"DefenseVal" : "4.06",
+"Bio" : "The remote village of Pole had no knowledge of the wars raging in the heart of the kingdom. For them, the quiet of spear fishing, and a family meal were all that a full life required. Yet war came for them nonetheless. Joining the able-bodied conscripts as they filed passed their homes, the humble lancer Azwraith vowed to bring peace to his kingdom, and in so doing, his people. Placed with his kin in the vanguard of the final assault against the Dread Magus Vorn, the cost to his fellows was absolute. As the charging force battled toward the fortress, Azwraith alone among his kind remained standing, and he alone was able to infiltrate the keep. Focused and infuriated by the slaughter of his brothers, Azwraith bested each of the wizard's deadly traps and conjured guardians. Soon the simple fisherman arrived at Vorn's tower sanctum. The pair dueled through the night, pike to staff, as chaos raged below, and with a deafening cry Azwraith pierced his enemy. But the wizard did not simply expire; he exploded into uncountable shards of light, penetrating his killer with power. As the dust settled and the smoke of combat began to clear, Azwraith found himself standing among a throng of his kin. Each seemed to be dressed as he was, each seemed armed as he was, and he could sense that each thought as he did. Aware that his allies were approaching, he willed these phantoms to hide themselves, and one by one they began to vanish into nothingness. As the soldiers came upon the sanctum, they found the warrior that had bested the wizard. When they approached their champion, the lancer vanished. The pikeman who had stood before them was no more than another phantom.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,157","637","273",]},
+{ "Armor" : ["16","9","4",]},
+{ "HitPoint" : ["1,704","1,001","549",]},
+{ "Damage" : ["133-155","87-109","51-73",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_lancer_spirit_lance_hp2.png?v=3379714",
+"ability_name" : "Spirit Lance",
+"ability_desc" : "Sends a magical spirit lance to a target enemy unit that damages and slows, while summoning an illusory phantom to attack the unit.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 100 / 150 / 200 / 250SLOW DURATION: 3.25
+MOVEMENT SLOW: 10% / 20% / 30% / 40%
+ILLUSION DURATION: 2 / 4 / 6 / 8
+ILLUSION DAMAGE: 20% / 20% / 20% / 20%
+ILLUSION DAMAGE TAKEN: 400% / 400% / 400% / 400%",
+"youtude" : "http://www.youtube.com/embed/kAQg8iTEvWA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_lancer_doppelwalk_hp2.png?v=3379714",
+"ability_name" : "Doppelganger",
+"ability_desc" : "Phantom Lancer briefly vanishes from the battlefield. After 1 second, Phantom Lancer and any of his nearby illusions reappear at a random position within the targeted location, along with two additional doppelgangers. The two added doppelgangers have different properties: one takes normal damage and deals none, while the other takes 600% damage and deals 20% damage.",
+"footer_left" : "ABILITY: Point Target",
+"footer_right" : "TARGET AREA SIZE: 325
+ILLUSION GATHER RANGE: 900
+REAPPEAR DELAY: 1
+DOPPELGANGER DURATION: 8",
+"youtude" : "http://www.youtube.com/embed/_HLFI68EP-Y?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_lancer_phantom_edge_hp2.png?v=3379714",
+"ability_name" : "Phantom Rush",
+"ability_desc" : "When targetting an enemy for an attack, Phantom Lancer quickly charges into range. Phantom Lancer's illusions also have this ability.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MIN RUSH DISTANCE: 300
+MAX RUSH DISTANCE: 600 / 700 / 800 / 900",
+"youtude" : "http://www.youtube.com/embed/_bfdarOBBU8?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_lancer_juxtapose_hp2.png?v=3379714",
+"ability_name" : "Juxtapose",
+"ability_desc" : "Phantom Lancer has a chance to fracture his presence, creating an illusion of himself. Illusions also have a chance to fracture further. Illusions created from Phantom Lancer last for 8 seconds, while illusions created from other illusions last 4 seconds.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MAX ILLUSIONS: 5 / 7 / 9
+HERO TRIGGER CHANCE: 40% / 45% / 50%
+ILLUSION TRIGGER CHANCE: 8%
+ILLUSION DAMAGE: 16%
+ILLUSION DAMAGE TAKEN: 500%",
+"youtude" : "http://www.youtube.com/embed/rti6D9kGcKY?hd=1&rel=0"
+},]}

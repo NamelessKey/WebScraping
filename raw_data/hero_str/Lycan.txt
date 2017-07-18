@@ -1,0 +1,54 @@
+{"IntVal" : "17 + 1.55",
+"AgiVal" : "16 + 1.90",
+"StrVal" : "22 + 3.00",
+"AttackVal" : "36 - 41",
+"SpeedVal" : "305",
+"DefenseVal" : "3.24",
+"Bio" : "Banehallow was noble-born to the house of Ambry, the greatest of the landed castes in the old kingdom of Slom. Before the Fall, as the King's wants grew strange, and his court grew crowded with sorcerers and charlatans, the house of Ambry was the first to rise against the avarice of the throne. No longer willing to pay homage and fealty, they instead sent six-thousand swords into the capital, where they were wiped out in the Massacre of the Apostates. And then came the teeth behind the old truth: When you strike a king's neck, you had better take his head. Enraged by the betrayal, the king exterminated the vast Ambry bloodline, sparing only the lord of the house and his youngest son, Banehallow. Before all the royal court, with the disgraced lord chained to the ornate marble floor, the King bade his magicians transform the boy into a wolf so that he might tear out his own father's throat. "Do this," the king said, "so that Lord Ambry will understand the bite of betrayal." Powerful magic was invoked, and the child was transformed. But though his body was changed, his spirit remained intact, and instead of biting the exposed neck of his father, he attacked his handlers, tearing them to pieces. A dozen of the King's knights perished under the wolf's teeth before they managed to drive it off into the night. Lord Ambry laughed from his chains even as the King ran him through with a sword. Now the heir to the lost house of Ambry, Banehallow wanders the trail as the Lycan, part warrior, part wolf, in search of justice for all that he lost.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["965","503","221",]},
+{ "Armor" : ["12","7","3",]},
+{ "HitPoint" : ["2,316","1,366","568",]},
+{ "Damage" : ["150-155","100-105","58-63",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/lycan_summon_wolves_hp2.png?v=3379714",
+"ability_name" : "Summon Wolves",
+"ability_desc" : "Summons two wolves to fight for Lycan.  Level 2-4 wolves have Cripple, level 3-4 wolves have permanent invisibility, and level 4 wolves have 15 HP regen.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 55 / 55 / 55 / 55
+BASE ATTACK TIME: 1.25 / 1.2 / 1.15 / 1.1
+DAMAGE: 18 / 29 / 37 / 46
+HP: 200 / 240 / 280 / 320",
+"youtude" : "http://www.youtube.com/embed/jgij5OMHj0M?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/lycan_howl_hp2.png?v=3379714",
+"ability_name" : "Howl",
+"ability_desc" : "Grants bonus damage to Lycan, all allied heroes and all units under their control.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 10
+HERO BONUS DAMAGE: 14 / 26 / 38 / 50
+MINION BONUS DAMAGE: 5 / 10 / 15 / 20",
+"youtude" : "http://www.youtube.com/embed/5vyHuopd3zQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/lycan_feral_impulse_hp2.png?v=3379714",
+"ability_name" : "Feral Impulse",
+"ability_desc" : "Increases the damage and attack speed of Lycan and all units under his control.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "RADIUS: 900 / 900 / 900 / 900
+BONUS ATTACK SPEED: 15 / 20 / 25 / 30
+BONUS DAMAGE: 15% / 20% / 25% / 30%",
+"youtude" : "http://www.youtube.com/embed/bmNQfQmSPzc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/lycan_shapeshift_hp2.png?v=3379714",
+"ability_name" : "Shapeshift",
+"ability_desc" : "Lycan assumes his lupine form, granting him and his units critical strikes and added vision at night. During Shapeshift, Lycan and all units under his control move at increased speed, cannot be slowed and have a 40% chance to deal a critical strike doing 140% damage.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 18
+SHAPESHIFT MOVE SPEED: 650
+BONUS NIGHT VISION: 1000
+TRANSFORM TIME: 1.5
+CRITICAL CHANCE: 40%
+CRITICAL DAMAGE: 140% / 160% / 180%",
+"youtude" : "http://www.youtube.com/embed/b2Uh7so6wiE?hd=1&rel=0"
+},]}

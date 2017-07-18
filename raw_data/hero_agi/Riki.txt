@@ -1,0 +1,47 @@
+{"IntVal" : "14 + 1.30",
+"AgiVal" : "34 + 2.20",
+"StrVal" : "17 + 1.60",
+"AttackVal" : "4 - 8",
+"SpeedVal" : "290",
+"DefenseVal" : "4.76",
+"Bio" : "Riki was born middle child to the great dynasty of Tahlin. With an older brother groomed for the throne, and a younger brother coddled and kept, Riki, the small middle son, seemed born for the art of invisibility.  It was an art he cultivated, and one which ultimately saved his life on the night that his people were betrayed and his family slaughtered. Of all the royal line, he alone escaped, small and agile, unassuming, using smoke as cover. He cut his way out of the royal grounds, using the advantage of surprise, quietly slitting the throats of one enemy warrior after another. Now free of his royal responsibilities, Riki uses his talents in service to a new trade: Stealth Assassin. He silences his enemies, sharpening his skills, hoping to one day take revenge on those who killed his family and robbed him of his birthright.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["848","419","182",]},
+{ "Armor" : ["15","9","5",]},
+{ "HitPoint" : ["1,583","899","473",]},
+{ "Damage" : ["111-115","69-73","38-42",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/riki_smoke_screen_hp2.png?v=3379714",
+"ability_name" : "Smoke Screen",
+"ability_desc" : "Throws down a smoke bomb, silencing enemies, and causing them to miss most attacks, as well as slowing movement.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RADIUS: 250 / 275 / 300 / 325
+MISS RATE: 40% / 50% / 60% / 70%
+MOVEMENT SLOW: 25%
+DURATION: 6",
+"youtude" : "http://www.youtube.com/embed/s6qBkIfSEd4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/riki_blink_strike_hp2.png?v=3379714",
+"ability_name" : "Blink Strike",
+"ability_desc" : "Teleports behind the target unit, striking for bonus damage if it is an enemy.",
+"footer_left" : "ABILITY: Unit TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RANGE: 700
+BONUS DAMAGE: 20 / 40 / 60 / 80",
+"youtude" : "http://www.youtube.com/embed/fdacdcXVqYc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/riki_permanent_invisibility_hp2.png?v=3379714",
+"ability_name" : "Cloak and Dagger",
+"ability_desc" : "Riki fades into the shadows, becoming invisible. Every time Riki strikes his enemy from behind, he deals bonus damage based on his Agility. When Riki attacks, he becomes visible.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "AGI DAMAGE MULT: 0.5 / 0.75 / 1 / 1.25
+FADE DELAY: 6 / 5 / 4 / 3",
+"youtude" : "http://www.youtube.com/embed/Mtmn28XX-NM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/riki_tricks_of_the_trade_hp2.png?v=3379714",
+"ability_name" : "Tricks of the Trade",
+"ability_desc" : "CHANNELED - Phases out of the world while striking every enemy from behind in a 500 AoE once per second.",
+"footer_left" : "ABILITY: No Target, Channeled",
+"footer_right" : "RADIUS: 500
+MAX ATTACKS PER UNIT: 4 / 5 / 6",
+},]}

@@ -1,0 +1,97 @@
+{
+    "IntVal": "25 + 2.40",
+    "AgiVal": "22 + 1.70",
+    "StrVal": "15 + 1.70",
+    "AttackVal": "22 - 33",
+    "SpeedVal": "295",
+    "DefenseVal": "2.08",
+    "Bio": "While Puck seems at first glance a mischievous, childish character, this quality masks an alien personality. The juvenile form of a Faerie Dragon, a creature that lives for eons, Puck spends countless millennia in its childish form. So while it is technically true that Puck is juvenile, it will continue to be so when the cities of the present age have sloughed away into dust. Its motives are therefore inscrutable, and what appears to be play may in fact hide a darker purpose. Its endless fondness for mischief is the true indicator of Puck's true nature.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,334",
+                "762",
+                "325"
+            ]
+        },
+        {
+            "Armor": [
+                "11",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,590",
+                "887",
+                "435"
+            ]
+        },
+        {
+            "Damage": [
+                "125-136",
+                "81-92",
+                "47-58"
+            ]
+        },
+        {
+            "AttackRange": "550"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/puck_illusory_orb_hp2.png?v=3379714",
+            "ability_name": "Illusory Orb",
+            "ability_desc": "Puck launches a magic orb that floats in a straight path, damaging enemy units along the way. At any point, Puck may teleport to the orb's location using Ethereal Jaunt.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 70 / 140 / 210 / 280MAX DISTANCE: 1950",
+            "youtude": "http://www.youtube.com/embed/St6DymTgpjc?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/puck_waning_rift_hp2.png?v=3379714",
+            "ability_name": "Waning Rift",
+            "ability_desc": "Puck releases a burst of faerie dust that deals damage and silences enemy units nearby.",
+            "footer_left": "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 100 / 160 / 220 / 280RADIUS: 400 / 400 / 400 / 400 DURATION: 0.75 / 1.5 / 2.25 / 3",
+            "youtude": "http://www.youtube.com/embed/kM91nc9KFzg?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/puck_phase_shift_hp2.png?v=3379714",
+            "ability_name": "Phase Shift",
+            "ability_desc": "Puck briefly shifts into another dimension where it is immune from harm.",
+            "footer_left": "ABILITY: No Target, Channeled",
+            "footer_right": "DURATION: 0.75 / 1.5 / 2.25 / 3.25",
+            "youtude": "http://www.youtube.com/embed/fQM9lmdO3a4?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/puck_ethereal_jaunt_hp2.png?v=3379714",
+            "ability_name": "Ethereal Jaunt",
+            "ability_desc": "Teleports Puck to a flying Illusory Orb.",
+            "footer_left": "ABILITY: No Target",
+            "footer_right": "",
+            "youtude": "http://www.youtube.com/embed/lh-wFZu85N0?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/puck_dream_coil_hp2.png?v=3379714",
+            "ability_name": "Dream Coil",
+            "ability_desc": "Creates a coil of volatile magic that latches onto enemy Heroes, stunning them for 0.5 seconds and damaging them.  If the enemy hero stretches the coil by moving too far away, it snaps, stunning and dealing additional damage.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "COIL DURATION: 6 / 6 / 6 INITIAL DAMAGE: 100 / 150 / 200 BREAK RADIUS: 600 / 600 / 600 BREAK STUN DURATION: 1.5 / 2.25 / 3 BREAK DAMAGE: 100 / 150 / 200 SCEPTER COIL DURATION: 8 SCEPTER BREAK DAMAGE: 200 / 250 / 300 SCEPTER BREAK STUN DURATION: 1.5 / 3 / 4.5",
+            "youtude": "http://www.youtube.com/embed/DyAcAYncwXE?hd=1&rel=0"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "IntVal": "16 + 2.80",
+    "AgiVal": "19 + 1.80",
+    "StrVal": "16 + 1.00",
+    "AttackVal": "31 - 41",
+    "SpeedVal": "335",
+    "DefenseVal": "0.66",
+    "Bio": "Aiushtha appears to be an innocent, carefree creature of the woods, and while this is certainly true, it is hardly the sum of her story. She well understands the suffering of the natural world. She has wandered far, and fared through forests bright and drear, in every clime and every season, gathering friends, sharing news, bringing laughter and healing wherever she goes. For in worlds wracked by war, forests are leveled for the building of ships and siege engines; and even in places of peace, the woods are stripped for the building of homes, and as fuel for countless hearths. Aiushtha hears the pleas of the small creatures, the furtive folk who need green shade and a leafy canopy to thrive. She lends her ears to those who have no other listeners. She carries their stories from the wood to the world, believing that her own good cheer is a kind of Enchantment, that can itself fulfill the promise of a verdant future.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,342",
+                "718",
+                "208"
+            ]
+        },
+        {
+            "Armor": [
+                "10",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,290",
+                "720",
+                "454"
+            ]
+        },
+        {
+            "Damage": [
+                "134-144",
+                "86-96",
+                "47-57"
+            ]
+        },
+        {
+            "AttackRange": "550"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enchantress_untouchable_hp2.png?v=3379714",
+            "ability_name": "Untouchable",
+            "ability_desc": "Enchantress beguiles her enemies, slowing their attacks when she is attacked.",
+            "footer_left": "ABILITY: PassivePIERCES SPELL IMMUNITY: No",
+            "footer_right": "ATTACK SLOW: 40 / 70 / 100 / 130",
+            "youtude": "http://www.youtube.com/embed/Bg3FV8n5HjI?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enchantress_enchant_hp2.png?v=3379714",
+            "ability_name": "Enchant",
+            "ability_desc": "Enchantress charms an enemy. If the enemy is a hero, they are slowed. If the enemy is a creep, she brings it under her control. If cast on a creep already under her control, she refreshes its enchant duration.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy Units",
+            "footer_right": "CREEP ENCHANT DURATION: 80 HERO MOVE SLOW: 20% / 30% / 40% / 50% HERO SLOW DURATION: 5.5 / 5.5 / 5.5 / 5.5",
+            "youtude": "http://www.youtube.com/embed/FEb9-pLBPXY?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enchantress_natures_attendants_hp2.png?v=3379714",
+            "ability_name": "Nature's Attendants",
+            "ability_desc": "A cloud of wisps heals Enchantress and any friendly units nearby.  Lasts 10 seconds.",
+            "footer_left": "ABILITY: No Target",
+            "footer_right": "HEAL PER SECOND: 10 / 10 / 10 / 10 RADIUS: 275 / 275 / 275 / 275 WISPS: 4 / 6 / 8 / 10",
+            "youtude": "http://www.youtube.com/embed/VCRqaqKZ4OY?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/enchantress_impetus_hp2.png?v=3379714",
+            "ability_name": "Impetus",
+            "ability_desc": "Places an enchantment on each attack while activated, causing it to deal additional damage based on how far away the target is.  The farther the target, the greater the damage dealt.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "DISTANCE DAMAGE: 15% / 20% / 25% SCEPTER BONUS RANGE: 190 / 190 / 190",
+            "youtude": "http://www.youtube.com/embed/FUkzdGUG_L8?hd=1&rel=0"
+        }
+    ]
+}

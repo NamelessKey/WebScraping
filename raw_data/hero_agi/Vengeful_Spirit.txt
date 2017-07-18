@@ -1,0 +1,50 @@
+{"IntVal" : "15 + 1.75",
+"AgiVal" : "27 + 3.30",
+"StrVal" : "18 + 2.60",
+"AttackVal" : "12 - 26",
+"SpeedVal" : "300",
+"DefenseVal" : "3.78",
+"Bio" : "Even the most contented Skywrath is an ill-tempered creature, naturally inclined to seek revenge for the slightest insult. But Vengeful Spirit is the essence of vengeance. Once a proud and savage Skywrath scion, Shendelzare was first in succession for the Ghastly Eyrie until a sister's treachery robbed her of her birthright. Snared in an assassin's net, Shendelzare tore free only at the cost of her wings, limping away in the ultimate humiliation: On foot. With her wings broken, she knew the Skywrath would never accept her as ruler; and in the highest roost of the Eyrie, inaccessible except by winged flight, her sister was untouchable. Unwilling to live as a flightless cripple, and desiring revenge far more than earthly power, the fallen princess drove a bargain with the goddess Scree'auk: She surrendered her broken body for an imperishable form of spirit energy, driven by vengeance, capable of doing great damage in the material plane. She may spend eternity flightless, but she will have her revenge.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,001","514","195",]},
+{ "Armor" : ["18","10","4",]},
+{ "HitPoint" : ["2,058","1,184","492",]},
+{ "Damage" : ["138-152","85-99","39-53",]},
+{ "AttackRange" : "400"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1500"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/vengefulspirit_magic_missile_hp2.png?v=3379714",
+"ability_name" : "Magic Missile",
+"ability_desc" : "Fires a magic missile at an enemy unit, stunning and dealing damage.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 100 / 175 / 250 / 325STUN DURATION: 1.45 / 1.55 / 1.65 / 1.75",
+"youtude" : "http://www.youtube.com/embed/v0QcCg9lEzU?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/vengefulspirit_wave_of_terror_hp2.png?v=3379714",
+"ability_name" : "Wave of Terror",
+"ability_desc" : "Vengeful Spirit lets loose a wicked cry, weakening the armor of enemies and giving vision of the path ahead.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 30 / 50 / 70 / 90ARMOR REDUCTION: 3 / 4 / 5 / 6
+DEBUFF DURATION: 15
+VISION DURATION: 3 / 3 / 3 / 3",
+"youtude" : "http://www.youtube.com/embed/M-40xlCUWac?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/vengefulspirit_command_aura_hp2.png?v=3379714",
+"ability_name" : "Vengeance Aura",
+"ability_desc" : "Vengeful Spirit's presence increases the physical damage of nearby friendly units. If Vengeful Spirit is slain, her killer will be possessed with a negative Vengeance Aura, reducing the damage of her killer and its nearby allies until Vengeful Spirit revives.",
+"footer_left" : "ABILITY: Passive, AuraAFFECTS: Allies",
+"footer_right" : "DAMAGE BONUS: 12% / 20% / 28% / 36%
+RADIUS: 900",
+"youtude" : "http://www.youtube.com/embed/313ljmCbIiQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/vengefulspirit_nether_swap_hp2.png?v=3379714",
+"ability_name" : "Nether Swap",
+"ability_desc" : "Instantaneously swaps positions with a target Hero, friend or enemy.  Nether Swap interrupts channeling abilities on the target.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RANGE: 700 / 950 / 1200
+SCEPTER COOLDOWN: 10
+SCEPTER ILLUSION DAMAGE DEALT: 50%
+SCEPTER ILLUSION DAMAGE TAKEN: 150%",
+"youtude" : "http://www.youtube.com/embed/MSS_SNkHVEo?hd=1&rel=0"
+},]}

@@ -1,0 +1,75 @@
+{"IntVal" : "22 + 2.90",
+"AgiVal" : "14 + 1.30",
+"StrVal" : "17 + 2.00",
+"AttackVal" : "7 - 9",
+"SpeedVal" : "270",
+"DefenseVal" : "6.96",
+"Bio" : "In the storied saga of Dredger's Bight, no business has ever been more reviled than Techies Demolitions. Then again, Dredger's Bight no longer exists. Nor does Toterin. Or even Trapper Town. In fact, if one were to track the history of Techies Demolitions they might notice that shortly after Techies appear, towns tend to disappear.Like every inevitable disaster surrounding Techies, the obliteration of Dredger's Bight began with an invention. Tasked with designing a safer way of detonating explosives in the mines beneath the city, pyrotechnic prodigies Squee, Spleen, and Spoon developed their most outlandish creation yet: a button which, when pressed, would trigger a distant device to spark a fuse.Overeager to test their invention, the trio stuffed barrel after barrel with flamesalt explosives, piling every corner of their tiny workshop high with the newly developed remote bombs. From this stockpile they plucked a single payload, burying it in a far away field. As they cowered in a ditch, Spleen pressed the detonator button. Yet after a moment, nothing happened. Confused, he stood up, pressing his button again and again until, finally, an explosion tore a hole in the field. Elated, Squee and Spleen turned toward home just as a massive wave of sound and force arrived to knock them over.Bewildered, their ears ringing from the unexpected blast, they gathered in the dingy miasma to see a smoking ruin where their workshop once stood. Chunks of wood and stone continued to fall as the yawning crater before them slowly deepened into an expanding pit. The whole of Dredger's Bight shuddered, and then gradually started to slide into the mines below as its panicked residents fled.Sitting at the edge of their sinking home they grinned and giggled, as giddy at the possibilities as they were oblivious to the scorn of their former neighbors. They wondered only one thing: how could they trigger an even bigger blast?",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,451","814","286",]},
+{ "Armor" : ["14","10","7",]},
+{ "HitPoint" : ["1,765","1,005","473",]},
+{ "Damage" : ["119-121","70-72","29-31",]},
+{ "AttackRange" : "700"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/techies_land_mines_hp2.png?v=3379714",
+"ability_name" : "Land Mines",
+"ability_desc" : "Plant an invisible mine that explodes when an enemy steps near.  The explosion will deal less damage if the enemy is farther away from the mine when it explodes.  Mines explode 0.3 seconds after being triggered.  Damages buildings.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 150 / 190 / 225 / 260
+FULL DAMAGE RADIUS: 200
+HALF DAMAGE RADIUS: 500
+MINE ACTIVATION TIME: 0.5
+MINE FADE TIME: 2",
+"youtude" : "http://www.youtube.com/embed/2CE4VAX29Bo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/techies_stasis_trap_hp2.png?v=3379714",
+"ability_name" : "Stasis Trap",
+"ability_desc" : "Plant an invisible trap that stuns nearby enemy units when triggered.",
+"footer_left" : "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "TRIGGER RADIUS: 450
+TRIGGER DELAY: 1.5
+STUN DURATION: 2.5 / 3 / 3.5 / 4
+TRAP ACTIVATION TIME: 1.5
+TRAP FADE TIME: 2
+TRAP DURATION: 360",
+"youtude" : "http://www.youtube.com/embed/mkoWUQ2JTQA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/techies_suicide_hp2.png?v=3379714",
+"ability_name" : "Suicide Squad, Attack!",
+"ability_desc" : "Techies sacrifice themselves for the greater good, dealing massive area of effect damage.  More damage is dealt to units closer to Techies when they explode.  Techies' respawn time is reduced by 50% when killed by this ability.",
+"footer_left" : "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "FULL DAMAGE RADIUS: 200
+PARTIAL DAMAGE RADIUS: 500
+FULL DAMAGE: 500 / 650 / 850 / 1150
+PARTIAL DAMAGE: 260 / 300 / 340 / 380",
+"youtude" : "http://www.youtube.com/embed/yieLNvs_GPc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/techies_focused_detonate_hp2.png?v=3379714",
+"ability_name" : "Focused Detonate",
+"ability_desc" : "Detonate all remote mines in the target area.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: Magical",
+"footer_right" : "RADIUS: 700",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/techies_minefield_sign_hp2.png?v=3379714",
+"ability_name" : "Minefield Sign",
+"ability_desc" : "Plant a warning sign to remind enemies to step lightly. Only one sign can exist at a time. Lasts 180 seconds.
+
+Upgradable by Aghanim's Scepter, allowing Minefield Sign to hide any Land Mines, Stasis Traps, and Remote Mines in a 125 radius from True Sight.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: DOTA_ToolTip_Damage_None",
+"footer_right" : "SIGN DURATION: 180",
+"youtude" : "http://www.youtube.com/embed/pc5c9hep9ZQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/techies_remote_mines_hp2.png?v=3379714",
+"ability_name" : "Remote Mines",
+"ability_desc" : "Plant an invisible explosive that will only detonate when triggered.  Does not damage buildings.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 300 / 450 / 600
+EXPLOSION RADIUS: 425
+MINE DURATION: 600
+FADE TIME: 2
+CAST RANGE: 500
+SCEPTER DAMAGE: 450 / 600 / 750
+SCEPTER CAST RANGE: 700",
+"youtude" : "http://www.youtube.com/embed/MtWbyUgaAZA?hd=1&rel=0"
+},]}

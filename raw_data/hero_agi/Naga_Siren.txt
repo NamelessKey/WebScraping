@@ -1,0 +1,53 @@
+{"IntVal" : "21 + 2.00",
+"AgiVal" : "21 + 2.75",
+"StrVal" : "21 + 2.30",
+"AttackVal" : "23 - 25",
+"SpeedVal" : "320",
+"DefenseVal" : "5.94",
+"Bio" : "Among the high-sworn of the Slithereen Guard there is a solemn vow oft repeated before battle: No Slithereen may fail.  In truth, these words are equal parts oath and enforceable covenant, for those who fall short of their duty are banished from the order.  To fail is to be other than Slithereen.Once most highly esteemed of her race, Slithice for many years commanded a battalion of her fellows, using her formidable voice as her greatest weapon.  Powerful, sinuous, serpentine, she led her deadly Guard in defense of the Deep Ones, and the great wealth of the sunken cities.  But in the final battle of Crey, her forces were driven back by a marauding army of levianths intent on finding tribute for their god Maelrawn.  After the long and bloody onslaught, as the bodies were cleared from the sunken halls, a single jeweled chalice was found missing from the trove.  Of her hundred Guard, only a handful survived, but their bravery and sacrifice were of little consequence.  What mattered was that treasure was taken.  Honor destroyed.  And so Naga Siren was cast out.  Banished to search for the stolen chalice.  Though she might add a hundred times her weight to the golden trove, she is doomed to live apart until that day she returns that which was taken.  For no amount of gold is equal in honor to the honor she lost.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,157","637","273",]},
+{ "Armor" : ["18","11","6",]},
+{ "HitPoint" : ["1,978","1,161","549",]},
+{ "Damage" : ["130-132","83-85","44-46",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/naga_siren_mirror_image_hp2.png?v=3379714",
+"ability_name" : "Mirror Image",
+"ability_desc" : "Creates three images of Naga Siren under her control.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "IMAGE DURATION: 30 / 30 / 30 / 30
+IMAGE DAMAGE: 20% / 25% / 30% / 35%
+IMAGE DAMAGE TAKEN: 600% / 500% / 400% / 300%",
+"youtude" : "http://www.youtube.com/embed/v70MJ69BXHc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/naga_siren_ensnare_hp2.png?v=3379714",
+"ability_name" : "Ensnare",
+"ability_desc" : "Interrupts the target and traps them in place, preventing movement or blinking.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 2 / 3 / 4 / 5",
+"youtude" : "http://www.youtube.com/embed/EmB60RoN_Do?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/naga_siren_rip_tide_hp2.png?v=3379714",
+"ability_name" : "Rip Tide",
+"ability_desc" : "The Naga Siren and her images hit all nearby units with a damaging wave of water that lowers armor for 8 seconds.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 100 / 140 / 180 / 220ARMOR REDUCTION: 2 / 3 / 4 / 5",
+"youtude" : "http://www.youtube.com/embed/kOUYkdJzR0E?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/naga_siren_song_of_the_siren_hp2.png?v=3379714",
+"ability_name" : "Song of the Siren",
+"ability_desc" : "All enemies in range of the Naga Siren are put into a magical stasis where they cannot act or be attacked. Using Song of the Siren again will end the duration early.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RADIUS: 1250 / 1250 / 1250
+DURATION: 7 / 7 / 7
+SCEPTER HEALTH REGEN: 8%",
+"youtude" : "http://www.youtube.com/embed/P5Lmhv9mBR4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/naga_siren_song_of_the_siren_cancel_hp2.png?v=3379714",
+"ability_name" : "Song of the Siren End",
+"ability_desc" : "Release enemy units from your song so they can be targeted again.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+},]}

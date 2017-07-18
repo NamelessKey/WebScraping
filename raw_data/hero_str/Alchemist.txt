@@ -1,0 +1,60 @@
+{"IntVal" : "25 + 1.80",
+"AgiVal" : "11 + 1.20",
+"StrVal" : "25 + 1.80",
+"AttackVal" : "24 - 33",
+"SpeedVal" : "295",
+"DefenseVal" : "1.54",
+"Bio" : "The sacred science of Chymistry was a Darkbrew family tradition, but no Darkbrew had ever shown the kind of creativity, ambition, and recklessness of young Razzil. However, when adulthood came calling he pushed aside the family trade to try his hand at manufacturing gold through Alchemy. In an act of audacity befitting his reputation, Razzil announced he would transmute an entire mountain into gold. Following two decades of research and spending and preparation, he failed spectacularly, quickly finding himself imprisoned for the widespread destruction his experiment wrought. Yet Razzil was never one to take a setback lightly, and sought escape to continue his research. When his new cellmate turned out to be a fierce ogre, he found just the opportunity he needed. After convincing the ogre not to eat him, Razzil set about carefully concocting a tincture for it to drink, made from the moulds and mosses growing in the prison stone work. In a week's time, it seemed ready. When the ogre drank the potion, it flew into an unstoppable berserker rage, destroying the cell bars and exploding through walls and guards alike. They soon found themselves lost somewhere in the forest surrounding the city with a trail of wreckage in their wake and no signs of pursuit.  In the tonic's afterglow, the ogre seemed serene, happy, and even eager. Resolving to work together, the pair set off to collect the materials needed to attempt Razzil's Alchemic transmutation once more.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,147","653","325",]},
+{ "Armor" : ["8","4","2",]},
+{ "HitPoint" : ["1,826","1,104","625",]},
+{ "Damage" : ["112-121","74-83","49-58",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/alchemist_acid_spray_hp2.png?v=3379714",
+"ability_name" : "Acid Spray",
+"ability_desc" : "Sprays high-pressure acid across a target area. Enemy units who step across the contaminated terrain take damage per second and have their armor reduced.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 625
+DURATION: 16
+DAMAGE PER SECOND: 15 / 20 / 25 / 30
+ARMOR REDUCTION: 4 / 5 / 6 / 7",
+"youtude" : "http://www.youtube.com/embed/MUE1KNbho4Q?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/alchemist_unstable_concoction_hp2.png?v=3379714",
+"ability_name" : "Unstable Concoction",
+"ability_desc" : "Alchemist brews up an unstable concoction that he can throw at an enemy hero, to stun and deal damage in an area around the explosion. The longer the concoction brews, the more damage it deals and the longer the stun. After 5 seconds, the brew reaches its maximum damage and stun time. However, after 5.5 seconds, the concoction will explode on Alchemist himself if not thrown.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "MAX STUN: 1.75 / 2.5 / 3.25 / 4
+MAX DAMAGE: 150 / 220 / 290 / 360
+EXPLOSION RADIUS: 175",
+"youtude" : "http://www.youtube.com/embed/12jG2U6LH6s?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/alchemist_goblins_greed_hp2.png?v=3379714",
+"ability_name" : "Greevil's Greed",
+"ability_desc" : "Alchemist synthesizes additional gold from his enemies and bounty runes. With each kill, Alchemist earns base bonus gold and extra bonus gold. If Alchemist kills another unit which yields gold within the next 30 seconds, an additional instance of Extra Bonus Gold is added to the total. Additionally, causes bounty runes to yield 3 times their normal gold.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "RECENT KILL WINDOW: 30
+BASE BONUS GOLD: 6 / 8 / 10 / 12
+EXTRA BONUS GOLD: 3
+MAX BONUS GOLD PER KILL: 12 / 20 / 28 / 36
+BOUNTY RUNE MULTIPLIER: 3 / 4 / 5 / 6",
+"youtude" : "http://www.youtube.com/embed/uHDQHquQk6E?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/alchemist_chemical_rage_hp2.png?v=3379714",
+"ability_name" : "Chemical Rage",
+"ability_desc" : "Alchemist causes his Ogre to enter a chemically induced rage, reducing base attack cooldown and increasing movement speed and regeneration.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "DURATION: 25
+BASE ATTACK TIME: 1.4 / 1.2 / 1
+BONUS HEALTH REGEN: 50 / 75 / 100
+BONUS MANA REGEN: 3 / 7.5 / 12
+BONUS MOVE SPEED: 30 / 40 / 60",
+"youtude" : "http://www.youtube.com/embed/7SrgzbFp9Rw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/alchemist_unstable_concoction_throw_hp2.png?v=3379714",
+"ability_name" : "Unstable Concoction Throw",
+"ability_desc" : "Throw it before it blows up!",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy HeroesPIERCES SPELL IMMUNITY: No",
+"footer_right" : "",
+},]}

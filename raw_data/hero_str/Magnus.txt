@@ -1,0 +1,56 @@
+{"IntVal" : "19 + 1.65",
+"AgiVal" : "15 + 2.50",
+"StrVal" : "21 + 2.75",
+"AttackVal" : "28 - 40",
+"SpeedVal" : "315",
+"DefenseVal" : "4.1",
+"Bio" : "The master-smiths of Mt. Joerlak agree on only a single point: that the horn of a magnoceros is more precious than any alloy. And of all such horns, the largest and sharpest belongs to the beast they call Magnus. For half a generation, Magnus took easy sport goring hunters come to claim the treasures of his kin. Each time he would return to his cave with hooves and horns stained red, until his Matriarch urged him and all their kin to seek refuge to the north beyond the shadow of the mountain. But Magnus scoffed, having never failed to defend his people. The magnoceroi would stay, he decided, for a magnoceros does not believe in chance... nor does it ever change its mind. But when Mt. Joerlak erupted without warning, and half his kin perished in the fire and ash, Magnus changed his mind after all. The survivors pushed north, until they reached a blockade watched over by a hundred hunters armed with bow and steel. Magnus expected no less. He led his fiercest brothers and sisters in a charge against their enemies, and fought with a ferocity matched only by the fire-spewing mountain at his back. Meanwhile the magnoceros elders, mothers, and calves vanished into the drifts. The master-smiths are divided about what happened next. Some say Magnus reunited with his kin, while others claim he suffered mortal injuries and expired alongside the body of his Matriarch. Neither theory is correct. Magnus did vow to rejoin his kin...but only after seeking out those responsible for the eruption of Mt. Joerlak and watching them die upon his horn, for a magnoceros does not believe in chance.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,022","547","247",]},
+{ "Armor" : ["15","9","4",]},
+{ "HitPoint" : ["2,183","1,281","549",]},
+{ "Damage" : ["135-147","88-100","49-61",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/magnataur_shockwave_hp2.png?v=3379714",
+"ability_name" : "Shockwave",
+"ability_desc" : "Magnus sends out a wave of force, damaging enemy units in a line.",
+"footer_left" : "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 75 / 150 / 225 / 300",
+"youtude" : "http://www.youtube.com/embed/FP8R8T5_kbc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/magnataur_empower_hp2.png?v=3379714",
+"ability_name" : "Empower",
+"ability_desc" : "Gives an allied unit bonus damage and cleave on attack.
+
+Upgradable by Aghanim's Scepter, changing Empower to be an allied hero aura. Affects ranged heroes for half values and causes them to splash around the target. Can still be cast on units, but doesn't stack.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 40 / 40 / 40 / 40
+BONUS DAMAGE: 20% / 30% / 40% / 50%
+CLEAVE DAMAGE: 20% / 30% / 40% / 50%
+CLEAVE RADIUS: 200",
+"youtude" : "http://www.youtube.com/embed/xjkhguSB_xY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/magnataur_skewer_hp2.png?v=3379714",
+"ability_name" : "Skewer",
+"ability_desc" : "Magnus rushes forward, goring enemy units on his massive tusk.  Heroes hit on the way will be dragged to the destination, then damaged and slowed.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "SPEED: 950
+DISTANCE: 900 / 1000 / 1100 / 1200
+SLOW: 25% / 30% / 35% / 40%
+SLOW DURATION: 2.5 / 2.75 / 3 / 3.25
+DAMAGE: 70 / 140 / 210 / 280",
+"youtude" : "http://www.youtube.com/embed/8zXtB2Ip1w8?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/magnataur_reverse_polarity_hp2.png?v=3379714",
+"ability_name" : "Reverse Polarity",
+"ability_desc" : "Magnus changes properties of matter, sucking all nearby enemies in front of him and stunning them with a powerful slam and dealing damage.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "PULL RADIUS: 410
+DAMAGE: 50 / 125 / 200
+HERO STUN DURATION: 2.25 / 3 / 3.75
+CREEP STUN DURATION: 3 / 4 / 5",
+"youtude" : "http://www.youtube.com/embed/PMBM_CbFlyM?hd=1&rel=0"
+},]}

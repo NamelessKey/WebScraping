@@ -1,0 +1,97 @@
+{
+  "IntVal": "25 + 2.60",
+  "AgiVal": "20 + 2.20",
+  "StrVal": "18 + 1.40",
+  "AttackVal": "19 - 29",
+  "SpeedVal": "295",
+  "DefenseVal": "1.8",
+  "Bio": "Kaldr, the Ancient Apparition, is an image projected from outside time. He springs from the cold, infinite void that both predates the universe and awaits its end. Kaldr is, Kaldr was, Kaldr shall be...and what we perceive, powerful as it appears to us, is but the faintest faded echo of the true, eternal Kaldr. Some believe that as the cosmos ages and approaches its final moments, the brightness and power of Kaldr will also intensify--that the Ancient Apparition will grow younger and stronger as eternity's end draws nigh. His grip of ice will bring all matter to a stop, his image will cast a light too terrible to behold. An Apparition no longer!",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "1,396",
+        "798",
+        "325"
+      ]
+    },
+    {
+      "Armor": [
+        "12",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "HitPoint": [
+        "1,510",
+        "864",
+        "492"
+      ]
+    },
+    {
+      "Damage": [
+        "126-136",
+        "80-90",
+        "44-54"
+      ]
+    },
+    {
+      "AttackRange": "600"
+    },
+    {
+      "SightRange": "1800 / 800"
+    },
+    {
+      "MissileSpeed": "1250"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ancient_apparition_cold_feet_hp2.png?v=3379714",
+      "ability_name": "Cold Feet",
+      "ability_desc": "Places a frozen hex on an enemy unit that deals damage over time, but can be dispelled by moving away from the initial cast point.  If the enemy unit doesn't move outside of the given range, it will be stunned and frozen in place after 4 seconds.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE PER TICK: 37.5 / 50 / 62.5 / 75 BREAK DISTANCE: 740 / 740 / 740 / 740 STUN DURATION: 1.25 / 2 / 2.75 / 3.5 CAST RANGE: 700 / 800 / 900 / 1000",
+      "youtude": "http://www.youtube.com/embed/wq_I0TQFqG8?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ancient_apparition_ice_vortex_hp2.png?v=3379714",
+      "ability_name": "Ice Vortex",
+      "ability_desc": "Creates a vortex of icy energy that slows movement speed and increases magic damage done in its range.  Lasts 16 seconds.",
+      "footer_left": "ABILITY: Point TargetPIERCES SPELL IMMUNITY: No",
+      "footer_right": "RADIUS: 275 / 275 / 275 / 275 SLOW: 15% / 20% / 25% / 30% INCREASED MAGIC DAMAGE: 15% / 20% / 25% / 30%",
+      "youtude": "http://www.youtube.com/embed/ZK9v1WLg7lc?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ancient_apparition_chilling_touch_hp2.png?v=3379714",
+      "ability_name": "Chilling Touch",
+      "ability_desc": "A frigid gust enchants allied heroes, granting them bonus magical damage for a given number of physical attacks, while slowing their attack speed slightly.  Ancient Apparition always receives the buff. Lasts 30 seconds.",
+      "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "RADIUS: 525 MAX ATTACKS: 3 / 4 / 5 / 6 DAMAGE: 50 / 60 / 70 / 80 ATTACK SPEED: 20",
+      "youtude": "http://www.youtube.com/embed/vmYw33RAlCE?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ancient_apparition_ice_blast_hp2.png?v=3379714",
+      "ability_name": "Ice Blast",
+      "ability_desc": "Launches a tracer toward any location on the battlefield, which must be triggered again to mark the area to be blasted by a damaging explosion of hail. The further the tracer travels, the larger the explosion will be. Enemies caught in the explosion, or who touch the icy ball of hail as it travels, are Frostbitten, taking damage and prevented from regenerating or healing. If a Frostbitten unit's health drops below a certain percentage, they will instantly shatter.Upgradable by Aghanim's Scepter.",
+      "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "DAMAGE: 250 / 350 / 450 FROSTBITTEN DURATION: 8 / 9 / 10 FROSTBITTEN DAMAGE PER SECOND: 12.5 / 20 / 32 SHATTER HEALTH THRESHOLD: 10% / 11% / 12% SCEPTER FROSTBITTEN DURATION: 17",
+      "youtude": "http://www.youtube.com/embed/j97qGajoj1s?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ancient_apparition_ice_blast_release_hp2.png?v=3379714",
+      "ability_name": "Release",
+      "ability_desc": "Releases the ice blast to explode at the tracer's current location.",
+      "footer_left": "ABILITY: No Target",
+      "footer_right": "",
+      "youtude": ""
+    }
+  ]
+}

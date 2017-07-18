@@ -1,0 +1,89 @@
+{
+    "IntVal": "25 + 2.90",
+    "AgiVal": "18 + 1.90",
+    "StrVal": "19 + 1.80",
+    "AttackVal": "24 - 38",
+    "SpeedVal": "295",
+    "DefenseVal": "3.52",
+    "Bio": "When Verodicia, Goddess of the Woods, had finished filling in the green places, having planted the coiled-up spirit in the seed, having lured the twining waters from deep within the rock, having sworn the sun its full attention to the growing things, she realized that her own time had reached its end, and like one of the leaves whose fate she had imprinted in the seed, she would fall without seeing the fruiting of her dream. It pained her to leave the world bereft, for the sprouts had not yet broken through the soil--and they would be tender and vulnerable to every sort of harm. She found in her seed pouch one last seed that she had missed in the sowing. She spoke a single word into the seed and swallowed it as she fell. Her vast body decomposed throughout the long winter, becoming the humus that would feed the seedlings in the spring. And on the morning of the vernal equinox, before the rest of the forest had begun to wake, that last seed ripened and burst in an instant. From it stepped Nature's Prophet, in full leaf, strong and wise, possessing Verodicia's power to foresee where he would be needed most in defense of the green places--and any who might be fortunate enough to call him an ally.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,490",
+                "853",
+                "325"
+            ]
+        },
+        {
+            "Armor": [
+                "13",
+                "7",
+                "4"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,712",
+                "990",
+                "511"
+            ]
+        },
+        {
+            "Damage": [
+                "139-153",
+                "90-104",
+                "49-63"
+            ]
+        },
+        {
+            "AttackRange": "600"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "1125"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/furion_sprout_hp2.png?v=3379714",
+            "ability_name": "Sprout",
+            "ability_desc": "Sprouts a ring of trees around a unit, trapping it in place.",
+            "footer_left": "ABILITY: Unit Target, Point TargetAFFECTS: Heroes",
+            "footer_right": "DURATION: 3 / 4 / 5 / 6 CAST RANGE: 625 / 700 / 775 / 850",
+            "youtude": "http://www.youtube.com/embed/IKC9k4noGgI?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/furion_teleportation_hp2.png?v=3379714",
+            "ability_name": "Teleportation",
+            "ability_desc": "Teleports to any point on the map.",
+            "footer_left": "ABILITY: Point Target",
+            "footer_right": "",
+            "youtude": "http://www.youtube.com/embed/4Z6E1mANiYY?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/furion_force_of_nature_hp2.png?v=3379714",
+            "ability_name": "Nature's Call",
+            "ability_desc": "Converts an area of trees into Treants. Treants have 550 health and deal 30-34 damage.",
+            "footer_left": "ABILITY: Point Target",
+            "footer_right": "TREANT COUNT: 2 / 3 / 4 / 5 TREANT DURATION: 60 / 60 / 60 / 60",
+            "youtude": "http://www.youtube.com/embed/h-4uJF0-P6w?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/furion_wrath_of_nature_hp2.png?v=3379714",
+            "ability_name": "Wrath of Nature",
+            "ability_desc": "Damaging energy bounces around the map, striking enemies close to the cast point that are in vision. Each enemy hit beyond the first adds damage.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "MAX TARGETS: 16 / 16 / 16 DAMAGE: 140 / 180 / 225 ADDED DAMAGE PER BOUNCE: 7% SCEPTER MAX TARGETS: 18 / 18 / 18 SCEPTER DAMAGE: 155 / 210 / 275 SCEPTER TREANT SPAWN TIMER: 4",
+            "youtude": "http://www.youtube.com/embed/gqPn_GVmLDY?hd=1&rel=0"
+        }
+    ]
+}

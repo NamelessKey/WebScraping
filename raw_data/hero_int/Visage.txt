@@ -1,0 +1,59 @@
+{"IntVal" : "24 + 2.50",
+"AgiVal" : "11 + 1.30",
+"StrVal" : "22 + 2.40",
+"AttackVal" : "24 - 34",
+"SpeedVal" : "285",
+"DefenseVal" : "-0.46",
+"Bio" : "Perched atop the entrance to the Narrow Maze sit the looming shapes of sneering gargoyles, the paths into the hereafter forever in their gaze.  Beasts and birds, men and monsters, all creatures that die and choose to travel beyond must someday pass beneath their sight.  For an untethered spirit, the decision to journey through the veil of death is irrevocable.  When chance comes, and by craft or cunning some restless soul escapes their hells and heavens, it is the dreaded gargoyle Visage, the bound form of the eternal spirit Necro'lic, who is dispatched to reclaim them.  Ruthless and efficient, unhindered by the principles of death and fatigue, Visage stalks its prey without mercy or end, willingly destroying all which may give shelter to the fugitive essence.  That which flaunts the laws of the afterlife may never rest, for while it is true that the dead may be revived, it is only a matter of time before Visage finds and returns them to their proper place.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,352","767","312",]},
+{ "Armor" : ["7","2","-0",]},
+{ "HitPoint" : ["2,042","1,206","568",]},
+{ "Damage" : ["128-138","83-93","48-58",]},
+{ "AttackRange" : "600"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/visage_grave_chill_hp2.png?v=3379714",
+"ability_name" : "Grave Chill",
+"ability_desc" : "Visage drains the movement and attack speed of the targeted unit, gaining it for itself.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DURATION: 3 / 4 / 5 / 6
+MOVE SPEED DRAIN: 32% / 32% / 32% / 32%
+ATTACK SPEED DRAIN: 64 / 64 / 64 / 64",
+"youtude" : "http://www.youtube.com/embed/Wn_IpUEFnOk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/visage_soul_assumption_hp2.png?v=3379714",
+"ability_name" : "Soul Assumption",
+"ability_desc" : "Visage gathers charges of soul essence each time nearby heroes take more than 110 damage. When the essence is released, it deals base damage as well as damage for each gathered soul charge.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "BASE DAMAGE: 20
+DAMAGE PER CHARGE: 65
+MAX CHARGES: 3 / 4 / 5 / 6
+CHARGE DURATION: 6
+GATHER DAMAGE THRESHOLD: 110
+GATHER DAMAGE RADIUS: 1375",
+"youtude" : "http://www.youtube.com/embed/NCV_P7rUw-8?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/visage_gravekeepers_cloak_hp2.png?v=3379714",
+"ability_name" : "Gravekeeper's Cloak",
+"ability_desc" : "Visage generates a layered barrier that protects him from physical and magical attacks.  If he receives damage from a player, one layer is removed, and takes time to recover.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "ARMOR PER LAYER: 1 / 2 / 4 / 5
+RESIST PER LAYER: 3% / 6% / 12% / 16%
+MAX LAYERS: 4
+LAYER RECOVERY TIME: 4",
+"youtude" : "http://www.youtube.com/embed/jAG74Ac-Z4o?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/visage_summon_familiars_hp2.png?v=3379714",
+"ability_name" : "Summon Familiars",
+"ability_desc" : "Conjures two blind Familiars to fight for Visage.  Familiars have high attack power, but each attack drains a charge of damage that recharges slowly over time.  Familiars possess the Stone Form ability, that allows them to turn into stone, stunning enemies upon landing.  While in Stone Form, Familiars are invulnerable, and rapidly regenerate their health and damage.  Familiars grant high bounty when killed.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "FAMILIAR SPEED: 380 / 390 / 400
+FAMILIAR MAX DAMAGE: 56 / 98 / 154
+DAMAGE RECHARGE TIME: 15
+ATTACKS TO DESTROY (HERO): 3
+ATTACKS TO DESTROY (CREEP): 6
+ATTACKS TO DESTROY (TOWER): 12",
+"youtude" : "http://www.youtube.com/embed/_wBf8zfMfFc?hd=1&rel=0"
+},]}

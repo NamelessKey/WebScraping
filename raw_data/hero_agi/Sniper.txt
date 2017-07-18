@@ -1,0 +1,44 @@
+{"IntVal" : "15 + 2.60",
+"AgiVal" : "21 + 2.50",
+"StrVal" : "16 + 1.70",
+"AttackVal" : "15 - 21",
+"SpeedVal" : "290",
+"DefenseVal" : "1.94",
+"Bio" : "Kardel Sharpeye was born deep in the mountains of Knollen where, since time immemorial, Keen Folk have survived by hunting the strange, cliff-dwelling steepstalkers above their village, shooting them from a distance and collecting the carcasses where they fell. Sharpeye was among the best of these strange mountain keens for whom projectile weapons are but another appendage, and to shoot is as natural as to touch. On his day of summoning, when he was to gain full standing in his village, Sharpeye took the ancient test: a single shot from the valley floor to strike a beast down from the cliffs. To miss was to be dishonored. With his entire village standing vigil, Sharpeye took his shot. A steepstalker fell; the crowd cheered.  But when the carcass was collected, the village grew silent, for the elders found that the bullet had pierced its glittering central eye then fallen to be clenched in the steepstalker's mandibles. This ominous sign was the literal opening of a dark prophecy, foretelling both greatness and exile for the gunman who made such a shot. Sharpeye the Sniper was thus, by his own skill, condemned to make his way apart from his people--and unwelcome back among them until he has fulfilled the remainder of the prophecy by attaining legendary stature on a field of battle.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,266","668","195",]},
+{ "Armor" : ["13","7","2",]},
+{ "HitPoint" : ["1,609","906","454",]},
+{ "Damage" : ["116-122","71-77","36-42",]},
+{ "AttackRange" : "550"},
+{ "SightRange" : "1800 / 1000"},
+{ "MissileSpeed" : "3000"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sniper_shrapnel_hp2.png?v=3379714",
+"ability_name" : "Shrapnel",
+"ability_desc" : "Consumes a charge to launch a ball of shrapnel that showers the target area in explosive pellets. Enemies are subject to damage and slowed movement. Reveals the targeted area. Shrapnel charges restore every 55 seconds.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 12 / 24 / 36 / 48MOVEMENT SLOW: 15% / 20% / 25% / 30%
+RADIUS: 450
+DURATION: 10",
+"youtude" : "http://www.youtube.com/embed/ZQuwiZ4LErM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sniper_headshot_hp2.png?v=3379714",
+"ability_name" : "Headshot",
+"ability_desc" : "Sniper increases his accuracy, giving him a chance to deal extra damage and briefly stop the movements of his enemies.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 15 / 40 / 65 / 90CHANCE: 40%",
+"youtude" : "http://www.youtube.com/embed/xwArHJFxywE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sniper_take_aim_hp2.png?v=3379714",
+"ability_name" : "Take Aim",
+"ability_desc" : "Extends the attack range of Sniper's rifle.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "BONUS RANGE: 100 / 200 / 300 / 400",
+"youtude" : "http://www.youtube.com/embed/ZehVtSyXDaE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/sniper_assassinate_hp2.png?v=3379714",
+"ability_name" : "Assassinate",
+"ability_desc" : "Sniper locks onto a target enemy unit and, after 2 seconds, fires a devastating shot that deals damage at long range, and mini-stuns the target.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 320 / 485 / 650RANGE: 2000 / 2500 / 3000",
+"youtude" : "http://www.youtube.com/embed/Ghp0_Dnk05A?hd=1&rel=0"
+},]}

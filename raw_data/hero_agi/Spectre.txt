@@ -1,0 +1,57 @@
+{"IntVal" : "16 + 1.90",
+"AgiVal" : "23 + 2.20",
+"StrVal" : "19 + 2.00",
+"AttackVal" : "23 - 27",
+"SpeedVal" : "290",
+"DefenseVal" : "3.22",
+"Bio" : "Just as higher states of energy seek a lower level, the Spectre known as Mercurial is a being of intense and violent energy who finds herself irresistibly drawn to scenes of strife as they unfold in the physical world. While her normal spectral state transcends sensory limitations, each time she takes on a physical manifestation, she is stricken by a loss of self--though not of purpose. In the clash of combat, her identity shatters and reconfigures, and she begins to regain awareness. She grasps that she is Mercurial the Spectre--and that all of her Haunts are but shadows of the one true Spectre. Focus comes in the struggle for survival; her true mind reasserts itself; until in the final moments of victory or defeat, she transcends matter and is restored once more to her eternal form.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,061","554","208",]},
+{ "Armor" : ["13","8","3",]},
+{ "HitPoint" : ["1,803","1,043","511",]},
+{ "Damage" : ["119-123","77-81","46-50",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/spectre_spectral_dagger_hp2.png?v=3379714",
+"ability_name" : "Spectral Dagger",
+"ability_desc" : "Spectre flings a dagger to draw a Shadow Path, dealing damage and slowing the movement speed of any enemies along the trail. Units hit by the dagger also trail a Shadow Path. While treading the path, Spectre phases through otherwise impassable terrain.",
+"footer_left" : "ABILITY: Unit Target, Point TargetAFFECTS: Enemy HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 50 / 100 / 150 / 200
+MOVEMENT SPEED CHANGE: 8% / 12% / 16% / 20%
+DURATION: 7 / 7 / 7 / 7",
+"youtude" : "http://www.youtube.com/embed/HqPfci6NzAc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/spectre_desolate_hp2.png?v=3379714",
+"ability_name" : "Desolate",
+"ability_desc" : "Deals bonus damage whenever Spectre attacks an enemy who is alone.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "BONUS DAMAGE: 20 / 35 / 50 / 65
+RADIUS: 325 / 325 / 325 / 325",
+"youtude" : "http://www.youtube.com/embed/kFwX40wvYbs?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/spectre_dispersion_hp2.png?v=3379714",
+"ability_name" : "Dispersion",
+"ability_desc" : "Damage done to Spectre is reflected on her enemies, leaving her unharmed. The effect lessens with distance.",
+"footer_left" : "ABILITY: PassivePIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE REFLECTED: 10% / 14% / 18% / 22%
+MIN RADIUS: 300 / 300 / 300 / 300
+MAX RADIUS: 1000 / 1000 / 1000 / 1000",
+"youtude" : "http://www.youtube.com/embed/r-jRKC2Vhhw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/spectre_reality_hp2.png?v=3379714",
+"ability_name" : "Reality",
+"ability_desc" : "Spectre exchanges places with a chosen Haunt.",
+"footer_left" : "ABILITY: Point Target",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/A4bKLBRVo8U?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/spectre_haunt_hp2.png?v=3379714",
+"ability_name" : "Haunt",
+"ability_desc" : "Creates a spectral nemesis to attack each enemy hero after a short delay. At any moment during the duration, Spectre can use Reality to exchange places of a given haunt.
+
+Haunt illusions are uncontrollable, take extra damage, and deal less damage than Spectre herself.  They move at 400 base movement speed and ignore terrain.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "HAUNT DURATION: 5 / 6 / 7
+HAUNT DAMAGE: 30%
+HAUNT DAMAGE TAKEN: 200% / 200% / 200%",
+"youtude" : "http://www.youtube.com/embed/wI0WOL1XEj4?hd=1&rel=0"
+},]}

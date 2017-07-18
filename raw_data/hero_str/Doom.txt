@@ -1,0 +1,51 @@
+{"IntVal" : "13 + 2.10",
+"AgiVal" : "11 + 0.90",
+"StrVal" : "26 + 3.20",
+"AttackVal" : "27 - 43",
+"SpeedVal" : "290",
+"DefenseVal" : "0.54",
+"Bio" : "He that burns and is not consumed, devours and is never sated, kills and is beyond all judgment--Lucifer brings doom to all who would stand against him. Bearing away souls on the tip of a fiery sword, he is the Fallen One, a once-favored general from the realm behind the light, cast out for the sin of defiance: he would not kneel. Six times his name was tolled from the great bell of Vashundol. Six and sixty times his wings were branded, until only smoking stumps remained. Without wings, he slipped loose from the tethers that bound him within the light and he fell screaming to earth. A crater in the desert, Paradise lost.  Now he attacks without mercy, without motive, the only living being able to move freely between the seven dark dominions. Lashed by inescapable needs, twisted by unimaginable talents, Doom carries his own hell with him wherever he goes. Defiant to the last. Eventually, the world will belong to Doom.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,084","551","169",]},
+{ "Armor" : ["6","2","1",]},
+{ "HitPoint" : ["2,483","1,495","644",]},
+{ "Damage" : ["150-166","98-114","53-69",]},
+{ "AttackRange" : "150"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/doom_bringer_devour_hp2.png?v=3379714",
+"ability_name" : "Devour",
+"ability_desc" : "Consumes an enemy or neutral creep, acquiring any special abilities that it possessed.",
+"footer_left" : "ABILITY: Unit Target",
+"footer_right" : "BONUS GOLD: 25 / 50 / 75 / 100",
+"youtude" : "http://www.youtube.com/embed/hbJpllULcxo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/doom_bringer_scorched_earth_hp2.png?v=3379714",
+"ability_name" : "Scorched Earth",
+"ability_desc" : "Carpets the nearby earth in flames which damage enemies and heal Doom, while also granting him increased movement speed.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE/REGEN: 10 / 20 / 30 / 40
+RADIUS: 600 / 600 / 600 / 600
+BONUS MOVE SPEED: 14%
+DURATION: 10 / 12 / 14 / 16",
+"youtude" : "http://www.youtube.com/embed/Cma29C2JmqM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/doom_bringer_infernal_blade_hp2.png?v=3379714",
+"ability_name" : "Infernal Blade",
+"ability_desc" : "Doom swings his burning sword, igniting the enemy. Stuns for 0.3 seconds and applies a 4 second burn that deals 40 + 1.25% of the target's Max HP as damage per second.",
+"footer_left" : "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "BASE BURN DAMAGE: 40
+MAX HP AS DAMAGE: 1.25% / 2.5% / 3.75% / 5%
+BURN DURATION: 4
+STUN DURATION: 0.3",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/doom_bringer_doom_hp2.png?v=3379714",
+"ability_name" : "Doom",
+"ability_desc" : "Inflicts a curse that prevents an enemy Hero from casting spells or using items, while taking damage over time.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 15
+DAMAGE PER SECOND: 20 / 35 / 50
+SCEPTER DURATION: 16",
+"youtude" : "http://www.youtube.com/embed/6fFIUnuh1r0?hd=1&rel=0"
+},]}

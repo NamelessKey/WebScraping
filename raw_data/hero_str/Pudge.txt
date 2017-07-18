@@ -1,0 +1,49 @@
+{"IntVal" : "14 + 1.50",
+"AgiVal" : "14 + 1.50",
+"StrVal" : "25 + 3.20",
+"AttackVal" : "27 - 33",
+"SpeedVal" : "285",
+"DefenseVal" : "0.96",
+"Bio" : "In the Fields of Endless Carnage, far to the south of Quoidge, a corpulent figure works tirelessly through the night--dismembering, disembowelling, piling up the limbs and viscera of the fallen that the battlefield might be clear by dawn. In this cursed realm, nothing can decay or decompose; no corpse may ever return to the earth from which it sprang, no matter how deep you dig the grave. Flocked by carrion birds who need him to cut their meals into beak-sized chunks, Pudge the Butcher hones his skills with blades that grow sharper the longer he uses them. Swish, swish, thunk. Flesh falls from the bone; tendons and ligaments part like wet paper. And while he always had a taste for the butchery, over the ages, Pudge has developed a taste for its byproduct as well. Starting with a gobbet of muscle here, a sip of blood there...before long he was thrusting his jaws deep into the toughest of torsos, like a dog gnawing at rags. Even those who are beyond fearing the Reaper, fear the Butcher.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["910","455","182",]},
+{ "Armor" : ["9","4","1",]},
+{ "HitPoint" : ["2,464","1,476","625",]},
+{ "Damage" : ["149-155","97-103","52-58",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "N/A"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/pudge_meat_hook_hp2.png?v=3379714",
+"ability_name" : "Meat Hook",
+"ability_desc" : "Launches a bloody hook toward a unit or location. The hook will snag the first unit it encounters, dragging the unit back to Pudge and dealing damage if it is an enemy.
+
+Upgradable by Aghanim's Scepter, reducing the cooldown and increasing the damage.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 90 / 180 / 270 / 360RANGE: 1000 / 1100 / 1200 / 1300
+SCEPTER COOLDOWN: 4
+SCEPTER DAMAGE: 180 / 270 / 360 / 450",
+"youtude" : "http://www.youtube.com/embed/5Y_PSSK5bDc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/pudge_rot_hp2.png?v=3379714",
+"ability_name" : "Rot",
+"ability_desc" : "A toxic cloud that deals intense damage and slows movement--harming not only enemy units but Pudge himself.",
+"footer_left" : "ABILITY: No Target, ToggleDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 30 / 60 / 90 / 120RADIUS: 250
+MOVE SLOW: 27%",
+"youtude" : "http://www.youtube.com/embed/bzyCOE9V3tI?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/pudge_flesh_heap_hp2.png?v=3379714",
+"ability_name" : "Flesh Heap",
+"ability_desc" : "Gives Pudge resistance to magic damage, as well as bonus strength that increases each time Pudge kills an enemy Hero or it dies in his vicinity.  Flesh Heap is retroactive, meaning it can gain charges before it is skilled, which then become active.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MAGIC RESISTANCE: 6% / 8% / 10% / 12%
+STRENGTH BONUS: 1 / 1.5 / 2 / 2.5
+RANGE: 450",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/pudge_dismember_hp2.png?v=3379714",
+"ability_name" : "Dismember",
+"ability_desc" : "CHANNELED - Pudge chows down on an enemy unit, disabling it and dealing damage over time. Pudge gets healed for the same amount he damages. Lasts 3 seconds on Heroes, 6 seconds on creeps.",
+"footer_left" : "ABILITY: Channeled, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE PER SECOND: 60 / 90 / 120
+STRENGTH MULTIPLIER: 0.3 / 0.4 / 0.5",
+"youtude" : "http://www.youtube.com/embed/e46jjuekNeU?hd=1&rel=0"
+},]}

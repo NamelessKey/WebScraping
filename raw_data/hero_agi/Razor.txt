@@ -1,0 +1,54 @@
+{"IntVal" : "19 + 1.80",
+"AgiVal" : "22 + 2.00",
+"StrVal" : "21 + 2.30",
+"AttackVal" : "23 - 25",
+"SpeedVal" : "295",
+"DefenseVal" : "2.08",
+"Bio" : "Among the emblematic powers that populate the Underscape, Razor the Lightning Revenant is one of the most feared. With his whip of lightning, he patrols the Narrow Maze, that treacherous webwork of passages by which the souls of the dead are sorted according to their own innate intelligence, cunning and persistence. Drifting above the Maze, Razor looks down on the baffled souls below, and delivers jolts of scalding electricity that both punish and quicken the souls as they decide their own fates, hurrying on toward luminous exits or endlessly dark pits. Razor is the eternal embodiment of a dominating power, abstract and almost clinical in his application of power. Yet he has a lordly air that suggests he takes a sardonic satisfaction in his work.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,069","575","247",]},
+{ "Armor" : ["12","6","2",]},
+{ "HitPoint" : ["1,978","1,161","549",]},
+{ "Damage" : ["113-115","73-75","45-47",]},
+{ "AttackRange" : "475"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "2000"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/razor_plasma_field_hp2.png?v=3379714",
+"ability_name" : "Plasma Field",
+"ability_desc" : "Releases a wave of energetic plasma that grows in power as it expands, but also zaps on contraction, dealing damage to enemy units caught in its path. Damage increases with distance from Razor.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE MIN: 30 / 50 / 70 / 90
+DAMAGE MAX: 160 / 230 / 300 / 370
+RADIUS: 700",
+"youtude" : "http://www.youtube.com/embed/3wvYOe_TxFY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/razor_static_link_hp2.png?v=3379714",
+"ability_name" : "Static Link",
+"ability_desc" : "Creates a charged link between Razor and an enemy Hero, stealing damage from the target and giving it to Razor.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy HeroesPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "LINK DURATION: 8 / 8 / 8 / 8
+BUFF DURATION: 18 / 18 / 18 / 18
+DAMAGE DRAIN RATE: 7 / 14 / 21 / 28",
+"youtude" : "http://www.youtube.com/embed/F8ZIMc-BLEo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/razor_unstable_current_hp2.png?v=3379714",
+"ability_name" : "Unstable Current",
+"ability_desc" : "Razor moves with increased speed, and any abilities targeted at him are instantly countered with a jolt of electricity which damages, slows, and purges buffs from enemies.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 40 / 70 / 100 / 130BONUS SPEED: 4% / 8% / 12% / 16%
+SLOW DURATION: 0.5 / 1 / 1.5 / 2",
+"youtude" : "http://www.youtube.com/embed/K2FcewK9HYQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/razor_eye_of_the_storm_hp2.png?v=3379714",
+"ability_name" : "Eye of the Storm",
+"ability_desc" : "A powerful lightning storm strikes out at enemy units with the lowest health, dealing damage and reducing their armor.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 500 / 500 / 500
+DURATION: 30
+STRIKE INTERVAL: 0.7 / 0.6 / 0.5
+ARMOR REDUCTION: 1 / 1 / 1
+DAMAGE: 37 / 50 / 63
+SCEPTER STRIKE INTERVAL: 0.6 / 0.5 / 0.4",
+"youtude" : "http://www.youtube.com/embed/aMqqRjUH9g8?hd=1&rel=0"
+},]}

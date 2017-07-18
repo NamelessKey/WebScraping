@@ -1,0 +1,89 @@
+{
+    "IntVal": "25 + 2.70",
+    "AgiVal": "12 + 1.20",
+    "StrVal": "22 + 2.30",
+    "AttackVal": "31 - 37",
+    "SpeedVal": "300",
+    "DefenseVal": "6.68",
+    "Bio": "Fast when he needs to be, and a cunning strategist, Ish'Kafel the Dark Seer requires no edged weapons to vanquish his enemies, relying instead on the strength of his powerful mind. His talent lies in his ability to maneuver the fight to his advantage. Hailing from a place he calls 'The Land behind the wall,' Dark Seer remains an outsider here--a warrior from a realm beyond the veil of this reality.  Once a great general among his people, and a valiant defender of the god-king Damathryx, Dark Seer's army was wiped out by a much larger force in the final days of the Great Boundaries War. Facing certain defeat, he made one last desperate act: he led the enemy forces into the maze between the walls. At the last moment, just before capture, he crossed over--then sealed the walls forever in an explosive release of dark energy. When the dust settled, he saw that he had saved his people but found himself blinking at the sun of a different world, with no way to return.  Now he is committed to proving his worth as a military strategist, and vows to show that he's the greatest tactician this strange new world has ever seen.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,427",
+                "816",
+                "325"
+            ]
+        },
+        {
+            "Armor": [
+                "14",
+                "9",
+                "7"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,997",
+                "1,180",
+                "568"
+            ]
+        },
+        {
+            "Damage": [
+                "141-147",
+                "94-100",
+                "56-62"
+            ]
+        },
+        {
+            "AttackRange": "128"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/dark_seer_vacuum_hp2.png?v=3379714",
+            "ability_name": "Vacuum",
+            "ability_desc": "Dark Seer creates a vacuum over the target area that sucks in enemy units, disrupting them and dealing damage.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "RADIUS: 250 / 350 / 450 / 550 DAMAGE: 40 / 80 / 120 / 160",
+            "youtude": "http://www.youtube.com/embed/X9BW1-PhEY8?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/dark_seer_ion_shell_hp2.png?v=3379714",
+            "ability_name": "Ion Shell",
+            "ability_desc": "Surrounds the target unit with a bristling shield that damages enemy units in an area around it.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "RADIUS: 250 DAMAGE PER SECOND: 30 / 50 / 70 / 90 DURATION: 25",
+            "youtude": "http://www.youtube.com/embed/ZnXjN2FdNQA?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/dark_seer_surge_hp2.png?v=3379714",
+            "ability_name": "Surge",
+            "ability_desc": "Charges a target friendly unit with power, giving it a brief burst of maximum movement speed.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "DURATION: 3 / 4.5 / 6 / 7.5",
+            "youtude": "http://www.youtube.com/embed/Vi9f-Bs2KX0?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/dark_seer_wall_of_replica_hp2.png?v=3379714",
+            "ability_name": "Wall of Replica",
+            "ability_desc": "Raises a wall of warping light that damages and creates replicas of any enemy hero who crosses it. Enemy replicas serve at the Dark Seer's will. Replicas last until they are destroyed, or until the wall's duration ends. Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "WALL DAMAGE: 150 / 150 / 150 WALL DURATION: 45 REPLICA DAMAGE: 60% / 75% / 90% REPLICA DAMAGE TAKEN: 400% / 400% / 400% CAST RANGE: 500 / 900 / 1300 SCEPTER REPLICA DAMAGE: 100% / 120% / 140%",
+            "youtude": "http://www.youtube.com/embed/3Z1ndpKQZVg?hd=1&rel=0"
+        }
+    ]
+}

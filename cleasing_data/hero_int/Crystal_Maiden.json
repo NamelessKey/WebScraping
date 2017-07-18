@@ -1,0 +1,89 @@
+{
+    "IntVal": "16 + 2.90",
+    "AgiVal": "16 + 1.60",
+    "StrVal": "16 + 1.70",
+    "AttackVal": "19 - 25",
+    "SpeedVal": "280",
+    "DefenseVal": "1.24",
+    "Bio": "Born in a temperate realm, raised with her fiery older sister Lina, Rylai the Crystal Maiden soon found that her innate elemental affinity to ice created trouble for all those around her. Wellsprings and mountain rivers froze in moments if she stopped to rest nearby; ripening crops were bitten by frost, and fruiting orchards turned to mazes of ice and came crashing down, spoiled. When their exasperated parents packed Lina off to the equator, Rylai found herself banished to the cold northern realm of Icewrack, where she was taken in by an Ice Wizard who had carved himself a hermitage at the crown of the Blueheart Glacier. After long study, the wizard pronounced her ready for solitary practice and left her to take his place, descending into the glacier to hibernate for a thousand years. Her mastery of the Frozen Arts has only deepened since that time, and now her skills are unmatched.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,373",
+                "736",
+                "208"
+            ]
+        },
+        {
+            "Armor": [
+                "9",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,609",
+                "906",
+                "454"
+            ]
+        },
+        {
+            "Damage": [
+                "125-131",
+                "76-82",
+                "35-41"
+            ]
+        },
+        {
+            "AttackRange": "600"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/crystal_maiden_crystal_nova_hp2.png?v=3379714",
+            "ability_name": "Crystal Nova",
+            "ability_desc": "A burst of damaging frost slows enemy movement and attack rate in the targeted area.",
+            "footer_left": "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 100 / 150 / 200 / 250RADIUS: 400 MOVEMENT SLOW: 20% / 30% / 40% / 50% ATTACK SLOW: 20 / 30 / 40 / 50 DURATION: 4.5",
+            "youtude": "http://www.youtube.com/embed/hv-wIna71VQ?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/crystal_maiden_frostbite_hp2.png?v=3379714",
+            "ability_name": "Frostbite",
+            "ability_desc": "Encases an enemy unit in ice, prohibiting movement and attack, while dealing 50 damage every half-second. Lasts 10 seconds on creeps level 6 or lower.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE PER HALF-SECOND: 50 HERO DURATION: 1.5 / 2 / 2.5 / 3 HERO TOTAL DAMAGE: 150 / 200 / 250 / 300 CREEP DURATION: 10 / 10 / 10 / 10 CREEP TOTAL DAMAGE: 1000",
+            "youtude": "http://www.youtube.com/embed/6FnrLNZxtxQ?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/crystal_maiden_brilliance_aura_hp2.png?v=3379714",
+            "ability_name": "Arcane Aura",
+            "ability_desc": "Gives additional mana regeneration to all friendly units on the map. This bonus is increased for Crystal Maiden.",
+            "footer_left": "ABILITY: PassiveAFFECTS: Allies",
+            "footer_right": "ALLY MANA REGEN: 1 / 1.5 / 2 / 3 SELF MANA REGEN: 2 / 3 / 4 / 6",
+            "youtude": "http://www.youtube.com/embed/JGBd1B3UW38?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/crystal_maiden_freezing_field_hp2.png?v=3379714",
+            "ability_name": "Freezing Field",
+            "ability_desc": "CHANNELED - Surrounds Crystal Maiden with random icy explosions that slow enemies and deal massive damage.  Lasts 10 seconds.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: No Target, ChanneledDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "RADIUS: 835 EXPLOSION RADIUS: 300 MOVEMENT SLOW: 30% ATTACK SLOW: 30 DAMAGE: 105 / 170 / 250 SCEPTER DAMAGE: 170 / 250 / 310 SCEPTER MOVEMENT SLOW: 50% SCEPTER ATTACK SLOW: 50",
+            "youtude": "http://www.youtube.com/embed/xesyW_27uJc?hd=1&rel=0"
+        }
+    ]
+}

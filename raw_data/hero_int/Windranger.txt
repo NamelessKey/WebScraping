@@ -1,0 +1,52 @@
+{"IntVal" : "22 + 2.60",
+"AgiVal" : "17 + 1.40",
+"StrVal" : "15 + 2.50",
+"AttackVal" : "22 - 34",
+"SpeedVal" : "295",
+"DefenseVal" : "1.38",
+"Bio" : "The western forests guard their secrets well. One of these is Lyralei, master archer of the wood, and favored godchild of the wind.  Known now as Windranger, Lyralei's family was killed in a storm on the night of her birth--their house blown down by the gale, contents scattered to the winds. Only the newborn survived among the debris field of death and destruction.  In the quiet after the storm, the wind itself took notice of the lucky infant crying in the grass. The wind pitied the child and so lifted her into the sky and deposited her on a doorstep in a neighboring village.  In the years that followed, the wind returned occasionally to the child's life, watching from a distance while she honed her skills.  Now, after many years of training, Windranger fires her arrows true to their targets.  She moves with blinding speed, as if hastened by a wind ever at her back.  With a flurry of arrows, she slaughters her enemies, having become, nearly, a force of nature herself.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,357","759","286",]},
+{ "Armor" : ["9","4","1",]},
+{ "HitPoint" : ["1,955","1,100","435",]},
+{ "Damage" : ["126-138","80-92","44-56",]},
+{ "AttackRange" : "600"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1250"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/windrunner_shackleshot_hp2.png?v=3379714",
+"ability_name" : "Shackleshot",
+"ability_desc" : "Shackles the target to an enemy unit or tree in a line directly behind it.  If no unit or tree is present, the stun duration is reduced to 0.75.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 0 / 0 / 0 / 0SHACKLE DURATION: 1.5 / 2.25 / 3 / 3.75",
+"youtude" : "http://www.youtube.com/embed/NZEnx0l_zJ0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/windrunner_powershot_hp2.png?v=3379714",
+"ability_name" : "Powershot",
+"ability_desc" : "Windranger charges her bow for up to 1 second for a single powerful shot, which deals more damage the longer it is charged. The arrow damages enemies and destroys trees along its path. For each enemy that Powershot hits, its damage is reduced by 10%.",
+"footer_left" : "ABILITY: Channeled, Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 120 / 200 / 280 / 360RANGE: 2600",
+"youtude" : "http://www.youtube.com/embed/dBHEtbYmask?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/windrunner_windrun_hp2.png?v=3379714",
+"ability_name" : "Windrun",
+"ability_desc" : "Increases movement speed and adds evasion from all physical attacks, while slowing movement of nearby enemies.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "MOVE SPEED BONUS: 50% / 50% / 50% / 50%
+EVASION: 100%
+ENEMY SLOW: 8% / 16% / 24% / 30%
+ENEMY SLOW RADIUS: 300 / 300 / 300 / 300
+DURATION: 3 / 4 / 5 / 6",
+"youtude" : "http://www.youtube.com/embed/XlNv2uF4l_k?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/windrunner_focusfire_hp2.png?v=3379714",
+"ability_name" : "Focus Fire",
+"ability_desc" : "Windranger channels the wind to gain 500 additional attack speed against a single enemy unit or structure, though with a reduction to her attack damage.  Extra damage from secondary item effects is not reduced.  Lasts 20 seconds.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "BONUS ATTACK SPEED: 500
+DAMAGE REDUCTION: 50% / 40% / 30%
+DURATION: 20
+SCEPTER COOLDOWN: 15 / 15 / 15
+SCEPTER DAMAGE REDUCTION: 30% / 15% / -0%",
+"youtude" : "http://www.youtube.com/embed/jj7cWGyhj2o?hd=1&rel=0"
+},]}

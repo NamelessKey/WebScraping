@@ -1,0 +1,51 @@
+{"IntVal" : "24 + 2.50",
+"AgiVal" : "18 + 2.00",
+"StrVal" : "16 + 1.70",
+"AttackVal" : "25 - 33",
+"SpeedVal" : "295",
+"DefenseVal" : "1.52",
+"Bio" : "The Ecclesiast-King of Elze nursed a desire for pain--forbidden pain. In a less prominent political figure, such desires might be considered unwise, but in a monarch of his stature, to satisfy such thirsts would have threatened the virtue of the Divine Throne itself. Therefore he turned to his dungeon full of demonologists, promising freedom to whoever could summon a personal succubus of torment and bind it entirely to his service. The creature who arrived, Akasha by name, visited upon him such exquisite torments that he named her his Secret Queen, and he began to spend all his spare moments submitting to her clever torments--eventually abdicating all his responsibilities in his pursuit of the painful pleasures that only she could bring. Queen of Pain could bring him to the brink of death, but she was rune-bound to keep him alive. At last the King's neglect of state brought on an uprising. He was dragged from his chamber and hurled from the Tower of Invocations, and at the moment of death, Queen of Pain was let loose into the world, freed from servitude--freed to visit her sufferings on anyone she deigned to notice.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,352","767","312",]},
+{ "Armor" : ["11","5","2",]},
+{ "HitPoint" : ["1,609","906","454",]},
+{ "Damage" : ["129-137","84-92","49-57",]},
+{ "AttackRange" : "550"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1500"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/queenofpain_shadow_strike_hp2.png?v=3379714",
+"ability_name" : "Shadow Strike",
+"ability_desc" : "Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for 15 seconds.  An instance of damage is dealt every 3 seconds.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "INITIAL DAMAGE: 50 / 75 / 100 / 125
+DAMAGE PER TICK: 30 / 40 / 50 / 60
+MOVEMENT SLOW: 20% / 30% / 40% / 50%
+CAST RANGE: 450 / 475 / 500 / 525
+DURATION: 15",
+"youtude" : "http://www.youtube.com/embed/Qnv17DFLvbc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/queenofpain_blink_hp2.png?v=3379714",
+"ability_name" : "Blink",
+"ability_desc" : "Short distance teleportation that allows Queen of Pain to move in and out of combat.",
+"footer_left" : "ABILITY: Point Target",
+"footer_right" : "RANGE: 1300",
+"youtude" : "http://www.youtube.com/embed/ZaFlZ5YZhbw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/queenofpain_scream_of_pain_hp2.png?v=3379714",
+"ability_name" : "Scream Of Pain",
+"ability_desc" : "The Queen of Pain lets loose a piercing scream around her, damaging nearby enemies.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 75 / 150 / 225 / 300RADIUS: 475",
+"youtude" : "http://www.youtube.com/embed/Jb_qB9V9jpE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/queenofpain_sonic_wave_hp2.png?v=3379714",
+"ability_name" : "Sonic Wave",
+"ability_desc" : "Creates a gigantic wave of sound in front of Queen of Pain, dealing heavy damage to all enemy units in its wake.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "WAVE MAX RADIUS: 450
+DAMAGE: 290 / 380 / 470
+SCEPTER COOLDOWN: 40
+SCEPTER DAMAGE: 325 / 440 / 555",
+"youtude" : "http://www.youtube.com/embed/nfaHlauWaog?hd=1&rel=0"
+},]}

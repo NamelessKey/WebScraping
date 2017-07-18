@@ -1,0 +1,52 @@
+{"IntVal" : "16 + 1.50",
+"AgiVal" : "18 + 2.10",
+"StrVal" : "23 + 2.70",
+"AttackVal" : "27 - 31",
+"SpeedVal" : "310",
+"DefenseVal" : "5.52",
+"Bio" : "Ulfsaar the Warrior is the fiercest member of an ursine tribe, protective of his land and his people. During the long winters, while the mothers sleep and nurse their cubs, the males patrol the lands above as tireless, vigilant defenders of their ancient ways. Hearing dim but growing rumors of a spreading evil, Ulfsaar headed out beyond the boundaries of his wild wooded homeland, intending to track down and destroy the threat at its source, before it could endanger his people. He is a proud creature with a bright strong spirit, utterly trustworthy, a staunch ally and defender.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["936","481","208",]},
+{ "Armor" : ["15","10","6",]},
+{ "HitPoint" : ["2,198","1,305","587",]},
+{ "Damage" : ["115-119","74-78","45-49",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ursa_earthshock_hp2.png?v=3379714",
+"ability_name" : "Earthshock",
+"ability_desc" : "Ursa slams the earth, causing a powerful shock to damage and slow all enemy units in a nearby area for 4 seconds.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 90 / 140 / 190 / 240RADIUS: 385
+SLOW: 25% / 35% / 45% / 55%",
+"youtude" : "http://www.youtube.com/embed/uF9RW4aDK-I?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ursa_overpower_hp2.png?v=3379714",
+"ability_name" : "Overpower",
+"ability_desc" : "Using his skill in combat, Ursa gains increased attack speed for a number of subsequent attacks.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "ATTACKS: 3 / 4 / 5 / 6
+BONUS ATTACK SPEED: 400 / 400 / 400 / 400
+DURATION: 15",
+"youtude" : "http://www.youtube.com/embed/HnjRrXrXoVo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ursa_fury_swipes_hp2.png?v=3379714",
+"ability_name" : "Fury Swipes",
+"ability_desc" : "Ursa's claws dig deeper wounds in the enemy, causing consecutive attacks to the same enemy to deal more damage.  If the same target is not attacked after 15 seconds, the bonus damage is lost.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RESET TIME: 15
+RESET TIME (ROSHAN): 6
+DAMAGE PER ATTACK: 15 / 20 / 25 / 30",
+"youtude" : "http://www.youtube.com/embed/Ehq2ElYhdls?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ursa_enrage_hp2.png?v=3379714",
+"ability_name" : "Enrage",
+"ability_desc" : "Ursa goes into a frenzy, multiplying his Fury Swipes damage and causing him to take 80% less damage. Removes any existing debuffs.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "FURY SWIPES MULTIPLIER: 1.5 / 1.75 / 2
+DAMAGE REDUCTION: 80%
+DURATION: 4
+SCEPTER COOLDOWN: 30 / 24 / 18",
+"youtude" : "http://www.youtube.com/embed/eZf3Yz_BAbk?hd=1&rel=0"
+},]}

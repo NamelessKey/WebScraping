@@ -1,0 +1,54 @@
+{"IntVal" : "16 + 1.20",
+"AgiVal" : "14 + 2.10",
+"StrVal" : "20 + 2.90",
+"AttackVal" : "29 - 59",
+"SpeedVal" : "325",
+"DefenseVal" : "3.96",
+"Bio" : "The veteran of countless battles on a thousand worlds, Chaos Knight hails from a far upstream plane where the fundamental laws of the universe have found sentient expression.  Of all the ancient Fundamentals, he is the oldest and most tireless, endlessly searching out a being he knows only as "The Light."  Long ago the Light ventured out from the progenitor realm, in defiance of the first covenant.  Now Chaos Knight shifts from plane to plane, always on the hunt to extinguish the Light wherever he finds it.  A thousand times he has snuffed out the source, and always he slides into another plane to continue his search anew.  Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, drawing strength from the disorder of the universe.  A physical manifestation of chaos itself, in times of need he calls upon other versions of himself from other planes, and together these dark horsemen ride into battle, as unstoppable as any force of nature.  Only when the last Light of the world is scoured from existence will the search be ended.  Where rides the Chaos Knight, death soon follows.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["842","426","208",]},
+{ "Armor" : ["14","8","4",]},
+{ "HitPoint" : ["2,232","1,301","530",]},
+{ "Damage" : ["139-169","90-120","49-79",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/chaos_knight_chaos_bolt_hp2.png?v=3379714",
+"ability_name" : "Chaos Bolt",
+"ability_desc" : "Throws a mysterious bolt of energy at the target unit. It stuns for a random duration and deals random damage.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "MINIMUM STUN: 1 / 1 / 1 / 2
+MAXIMUM STUN: 2 / 3 / 4 / 4
+MINIMUM DAMAGE: 75 / 100 / 125 / 150
+MAXIMUM DAMAGE: 200 / 225 / 250 / 275",
+"youtude" : "http://www.youtube.com/embed/O0qGKxIvJgw?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/chaos_knight_reality_rift_hp2.png?v=3379714",
+"ability_name" : "Reality Rift",
+"ability_desc" : "Teleports you, any images you have and the target unit to a random point along the line between the two of you. Gives you bonus attack damage for one attack.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RANGE: 550 / 600 / 650 / 700
+BONUS DAMAGE: 60 / 100 / 140 / 180
+BONUS DURATION: 1.2",
+"youtude" : "http://www.youtube.com/embed/5aT3Q78qtzQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/chaos_knight_chaos_strike_hp2.png?v=3379714",
+"ability_name" : "Chaos Strike",
+"ability_desc" : "Each of Chaos Knight's attacks has a chance to deal bonus damage and reduce the target's armor by 5 for 8 seconds.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "CRITICAL CHANCE: 10% / 10% / 10% / 10%
+CRITICAL DAMAGE: 125% / 175% / 225% / 275%
+ARMOR REDUCTION: 5
+REDUCTION DURATION: 8",
+"youtude" : "http://www.youtube.com/embed/Oi8uwcdvz_s?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/chaos_knight_phantasm_hp2.png?v=3379714",
+"ability_name" : "Phantasm",
+"ability_desc" : "Summons several phantasmal copies of the Chaos Knight from alternate dimensions. There is a 50% chance an extra phantasm will be summoned. The phantasms deal full damage, but take double damage.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "NUMBER OF PHANTASMS: 1 / 2 / 3
+EXTRA PHANTASM CHANCE: 50%
+PHANTASM DURATION: 42
+PHANTASM DAMAGE: 100% / 100% / 100%
+PHANTASM DAMAGE TAKEN: 200%",
+"youtude" : "http://www.youtube.com/embed/P-DaVdeSUiI?hd=1&rel=0"
+},]}

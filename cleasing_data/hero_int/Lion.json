@@ -1,0 +1,89 @@
+{
+    "IntVal": "22 + 3.00",
+    "AgiVal": "15 + 1.50",
+    "StrVal": "16 + 1.70",
+    "AttackVal": "27 - 33",
+    "SpeedVal": "290",
+    "DefenseVal": "1.1",
+    "Bio": "Once a Grandmaster of the Demon Witch tradition of sorcery, Lion earned fame among his brethren for fighting on the side of light and righteousness. But adulation corrupts. With powers surpassed only by his ambition, the mage was seduced by a demon and turned to evil, trading his soul for prestige. After committing horrible crimes that marred his soul, he was abandoned. The demon betrayed him, striking better deals with his enemies. Such was Lion's rage that he followed the demon back to hell and slew it, ripping it limb from limb, taking its demonic hand for his own. However, such demonoplasty comes at a cost. Lion was transfigured by the process, his body transformed into something unrecognizable. He rose from hell, rage incarnate, slaying even those who had once called him master, and laying waste to the lands where he had once been so adored. He survives now as the sole practitioner of the Demon Witch tradition, and those who present themselves as acolytes or students are soon relieved of their mana and carried off by the faintest gust of wind.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,482",
+                "832",
+                "286"
+            ]
+        },
+        {
+            "Armor": [
+                "9",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,609",
+                "906",
+                "454"
+            ]
+        },
+        {
+            "Damage": [
+                "141-147",
+                "91-97",
+                "49-55"
+            ]
+        },
+        {
+            "AttackRange": "600"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lion_impale_hp2.png?v=3379714",
+            "ability_name": "Earth Spike",
+            "ability_desc": "Rock spikes burst from the earth along a straight path. Enemy units are hurled into the air, then are stunned and take damage when they fall.",
+            "footer_left": "ABILITY: Unit Target, Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 80 / 140 / 200 / 260DURATION: 1.1 / 1.6 / 2.1 / 2.6",
+            "youtude": "http://www.youtube.com/embed/IS20TjZpD2M?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lion_voodoo_hp2.png?v=3379714",
+            "ability_name": "Hex",
+            "ability_desc": "Transforms an enemy unit into a harmless beast, with all special abilities disabled.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DURATION: 2.5 / 3 / 3.5 / 4",
+            "youtude": "http://www.youtube.com/embed/1H8xWP_19Lo?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lion_mana_drain_hp2.png?v=3379714",
+            "ability_name": "Mana Drain",
+            "ability_desc": "CHANNELED - Absorbs the magical energies of a target enemy unit by taking mana from it every second.",
+            "footer_left": "ABILITY: Channeled, Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+            "footer_right": "CHANNEL TIME: 5 MANA PER SECOND: 20 / 40 / 60 / 120 BREAK DISTANCE: 1200",
+            "youtude": "http://www.youtube.com/embed/jclbhiTM7aA?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lion_finger_of_death_hp2.png?v=3379714",
+            "ability_name": "Finger of Death",
+            "ability_desc": "Rips at an enemy unit, trying to turn it inside-out. Deals massive damage.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 600 / 725 / 850 SCEPTER DAMAGE: 725 / 875 / 1025 SCEPTER MANA COST: 200 / 420 / 625 SCEPTER COOLDOWN: 100 / 60 / 20 SCEPTER AREA OF EFFECT: 300",
+            "youtude": "http://www.youtube.com/embed/PoS308yRk5c?hd=1&rel=0"
+        }
+    ]
+}

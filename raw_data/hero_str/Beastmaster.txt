@@ -1,0 +1,67 @@
+{"IntVal" : "16 + 1.90",
+"AgiVal" : "18 + 1.60",
+"StrVal" : "23 + 2.20",
+"AttackVal" : "41 - 45",
+"SpeedVal" : "310",
+"DefenseVal" : "4.52",
+"Bio" : "Karroch was born a child of the stocks. His mother died in childbirth; his father, a farrier for the Last King of Slom, was trampled to death when he was five. Afterward Karroch was indentured to the king's menagerie, where he grew up among all the beasts of the royal court: lions, apes, fell-deer, and things less known, things barely believed in. When the lad was seven, an explorer brought in a beast like none before seen. Dragged before the King in chains, the beast spoke, though its mouth moved not. Its words: a plea for freedom. The King only laughed and ordered the beast perform for his amusement; and when it refused, struck it with the Mad Scepter and ordered it dragged to the stocks. Over the coming months, the boy Karroch sneaked food and medicinal draughts to the wounded creature, but only managed to slow its deterioration. Wordlessly, the beast spoke to the boy, and over time their bond strengthened until the boy found he could hold up his end of a conversation.  He could, in fact, speak now to all the creatures of the King's menagerie. On the night the beast died, a rage came over the boy.  He incited the animals of the court to rebel and threw open their cages to set them amok on the palace grounds.  The Last King was mauled in the mayhem. In the chaos, one regal stag bowed to the boy who had freed him; and with Beastmaster astride him, leapt the high walls of the estate, and escaped. Now a man, Karroch the Beastmaster has not lost his ability to converse with wild creatures. He has grown into a warrior at one with nature's savagery.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,061","554","208",]},
+{ "Armor" : ["13","8","5",]},
+{ "HitPoint" : ["1,970","1,172","587",]},
+{ "Damage" : ["137-141","95-99","64-68",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "N/A"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/beastmaster_wild_axes_hp2.png?v=3379714",
+"ability_name" : "Wild Axes",
+"ability_desc" : "Beastmaster sends his axes flying and calls them home again, slicing through enemy units and trees along their path.  Each axe can hit an enemy once.",
+"footer_left" : "ABILITY: Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 70 / 100 / 130 / 160RANGE: 1300 / 1300 / 1300 / 1300",
+"youtude" : "http://www.youtube.com/embed/RfMTKPalQ_E?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/beastmaster_call_of_the_wild_hp2.png?v=3379714",
+"ability_name" : "Call of the Wild: Hawk",
+"ability_desc" : "Beastmaster calls forth a watchful Hawk to scout the battlefield. At level 3 and beyond, the hawk can become invisible after being still for 4 seconds.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "HAWK HEALTH: 40 / 60 / 80 / 100
+HAWK MOVEMENT SPEED: 250 / 275 / 300 / 325
+HAWK DAY SIGHT RANGE: 700 / 1000 / 1300 / 1600
+HAWK NIGHT SIGHT RANGE: 700 / 800 / 900 / 1000
+HAWK DURATION: 60 / 60 / 60 / 60",
+"youtude" : "http://www.youtube.com/embed/az1QugljYAA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/beastmaster_call_of_the_wild_boar_hp2.png?v=3379714",
+"ability_name" : "Call of the Wild: Boar",
+"ability_desc" : "Beastmaster calls a powerful Boar to stalk the battlefield, capable of spitting poison at enemies to slow their movement and attack speed.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "BOAR HEALTH: 200 / 300 / 400 / 500
+BOAR ATTACK DAMAGE: 15 / 30 / 45 / 60
+BOAR MOVEMENT SLOW: 10% / 20% / 30% / 40%
+BOAR ATTACK SLOW: 10 / 20 / 30 / 40
+BOAR POISON DURATION: 3
+BOAR DURATION: 60 / 60 / 60 / 60",
+"youtude" : "http://www.youtube.com/embed/dLViKx2MQd4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/beastmaster_inner_beast_hp2.png?v=3379714",
+"ability_name" : "Inner Beast",
+"ability_desc" : "Untaps the inner fury of allies, passively increasing their attack speed.",
+"footer_left" : "ABILITY: Passive, AuraAFFECTS: Allies",
+"footer_right" : "RADIUS: 900
+BONUS ATTACK SPEED: 15 / 25 / 35 / 45",
+"youtude" : "http://www.youtube.com/embed/aC2jU2vrI8U?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/beastmaster_primal_roar_hp2.png?v=3379714",
+"ability_name" : "Primal Roar",
+"ability_desc" : "Beastmaster lets loose a deafening roar that stuns, and shoves open, a path to its target. All units in the path of the roar are damaged, while units shoved aside by the roar have their movement and attack speed slowed.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "STUN DURATION: 3 / 3.5 / 4
+DAMAGE: 200 / 250 / 300
+SHOUT WIDTH: 300
+MOVEMENT SLOW: 50% / 50% / 50%
+ATTACK SLOW: 50 / 50 / 50
+SLOW DURATION: 2 / 3 / 4
+SCEPTER CAST RANGE: 950 / 950 / 950
+SCEPTER COOLDOWN: 45 / 45 / 45",
+"youtude" : "http://www.youtube.com/embed/mnHbT9GLIdU?hd=1&rel=0"
+},]}

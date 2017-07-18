@@ -1,0 +1,54 @@
+{"IntVal" : "19 + 1.85",
+"AgiVal" : "20 + 2.50",
+"StrVal" : "14 + 1.65",
+"AttackVal" : "24 - 30",
+"SpeedVal" : "290",
+"DefenseVal" : "1.8",
+"Bio" : "Beauty is power. This thought comforted Medusa--the youngest and loveliest of three beautiful Gorgon sisters, born to a sea goddess--because she alone of the sisters was mortal. It comforted her, that is, until the day masked assailants invaded the Gorgon realm and tore the two immortal sisters from their home, unmoved by their beauty or by their tears. One of the invaders seized Medusa as well, but then cast her aside with a disgusted look: 'This one has the mortal stink upon her. We have no use for that which dies.' Humiliated, enraged, Medusa fled to the temple of her mother and cast herself before the goddess, crying, 'You denied me eternal life--therefore I beg you, give me power! Power, so I can dedicate what life I have to rescuing my sisters and avenging this injustice!' After long thought, the goddess granted her daughter's request, allowing Medusa to trade her legendary beauty for a face and form of terrifying strength. Never for a moment has Medusa regretted her choice. She understands that power is the only beauty worth possessing--for only power can change the world.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,084","584","247",]},
+{ "Armor" : ["13","7","2",]},
+{ "HitPoint" : ["1,548","855","416",]},
+{ "Damage" : ["124-130","79-85","44-50",]},
+{ "AttackRange" : "600"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1200"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/medusa_split_shot_hp2.png?v=3379714",
+"ability_name" : "Split Shot",
+"ability_desc" : "Medusa magically splits her shot into several arrows. These arrows deal a lower percent of her normal damage.
+
+The extra targets will not receive other attack effects (such as critical strike) and Unique Attack Modifiers.",
+"footer_left" : "ABILITY: No Target, TogglePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "OUTGOING DAMAGE: 80%
+TOTAL TARGETS: 2 / 3 / 4 / 5
+RANGE: 700",
+"youtude" : "http://www.youtube.com/embed/RTArHnkz0UQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/medusa_mystic_snake_hp2.png?v=3379714",
+"ability_name" : "Mystic Snake",
+"ability_desc" : "A mystic snake made of energy jumps from target to target dealing damage and stealing mana. After it reaches its last target, it returns to Medusa to replenish her with mana. The snake deals more damage per jump and steals 11% of the targets' total mana. Deals Pure damage to units petrified by Stone Gaze.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "JUMP RADIUS: 475 / 475 / 475 / 475
+JUMPS: 3 / 4 / 5 / 6
+DAMAGE: 80 / 120 / 160 / 200
+MANA STEAL: 11% / 14% / 17% / 20%
+DAMAGE INCREASE PER JUMP: 35%",
+"youtude" : "http://www.youtube.com/embed/BQw3_zhLK9o?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/medusa_mana_shield_hp2.png?v=3379714",
+"ability_name" : "Mana Shield",
+"ability_desc" : "Creates a shield that absorbs 60% of the incoming damage in exchange for Medusa's mana.",
+"footer_left" : "ABILITY: No Target, Toggle",
+"footer_right" : "DAMAGE PER MANA: 1.6 / 1.9 / 2.2 / 2.5",
+"youtude" : "http://www.youtube.com/embed/OPryhacnXBg?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/medusa_stone_gaze_hp2.png?v=3379714",
+"ability_name" : "Stone Gaze",
+"ability_desc" : "Any enemy units looking at Medusa will have their movement and attack speed slowed.  If 2 seconds of total time is accumulated looking at Medusa while Stone Gaze is active, that unit will turn to stone.  Petrified units are stunned, have 100% magic damage resistance, and take bonus physical damage.  If the petrified unit is an illusion, it is immediately killed.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 1000 / 1000 / 1000
+DURATION: 6 / 6 / 6
+SLOW: 50%
+STONE DURATION: 3 / 3 / 3
+BONUS PHYSICAL DAMAGE: 30% / 40% / 50%",
+"youtude" : "http://www.youtube.com/embed/q_X57PFtq4o?hd=1&rel=0"
+},]}

@@ -1,0 +1,50 @@
+{"IntVal" : "18 + 2.00",
+"AgiVal" : "20 + 2.90",
+"StrVal" : "15 + 2.00",
+"AttackVal" : "15 - 21",
+"SpeedVal" : "305",
+"DefenseVal" : "0.8",
+"Bio" : "It is said that Nevermore the Shadow Fiend has the soul of a poet, and in fact he has thousands of them. Over the ages he has claimed the souls of poets, priests, emperors, beggars, slaves, philosophers, criminals and (naturally) heroes; no sort of soul escapes him. What he does with them is unknown. No one has ever peered into the Abysm whence Nevermore reaches out like an eel from among astral rocks. Does he devour them one after another? Does he mount them along the halls of an eldritch temple, or pickle the souls in necromantic brine? Is he merely a puppet, pushed through the dimensional rift by a demonic puppeteer? Such is his evil, so intense his aura of darkness, that no rational mind may penetrate it. Of course, if you really want to know where the stolen souls go, there's one sure way to find out: Add your soul to his collection. Or just wait for Nevermore.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,118","598","234",]},
+{ "Armor" : ["13","6","1",]},
+{ "HitPoint" : ["1,727","967","435",]},
+{ "Damage" : ["125-131","76-82","35-41",]},
+{ "AttackRange" : "500"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1200"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nevermore_shadowraze1_hp2.png?v=3379714",
+"ability_name" : "Shadowraze",
+"ability_desc" : "Shadow Fiend razes the area in front of him, dealing damage to enemy units in an area.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 100 / 175 / 250 / 325RANGE: 200",
+"youtude" : "http://www.youtube.com/embed/NaBIR9oCECk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nevermore_necromastery_hp2.png?v=3379714",
+"ability_name" : "Necromastery",
+"ability_desc" : "Shadow Fiend steals the soul from units he kills, gaining bonus damage. If the killed unit is a hero, he gains 12 souls.  On death, he releases half of them from bondage.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "DAMAGE PER SOUL: 2
+MAX SOULS: 15 / 22 / 29 / 36",
+"youtude" : "http://www.youtube.com/embed/CvNBpH08P5M?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nevermore_dark_lord_hp2.png?v=3379714",
+"ability_name" : "Presence of the Dark Lord",
+"ability_desc" : "Shadow Fiend's presence reduces the armor of nearby enemies.",
+"footer_left" : "ABILITY: Passive, AuraAFFECTS: EnemiesPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "REDUCTION: 3 / 4 / 5 / 6
+RADIUS: 900",
+"youtude" : "http://www.youtube.com/embed/y3glSnq4mGQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nevermore_requiem_hp2.png?v=3379714",
+"ability_name" : "Requiem of Souls",
+"ability_desc" : "Shadow Fiend gathers his captured souls to release them as lines of demonic energy. Units near Shadow Fiend when the souls are released can be damaged by several lines of energy. Any unit damaged by Requiem of Souls will have its movement speed and attack damage reduced. Lines of energy are created for every 2 souls captured through Necromastery. Requiem of Souls is automatically cast whenever Shadow Fiend dies, regardless of its cooldown.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 80 / 120 / 160CAST DELAY: 1.67
+MOVEMENT REDUCTION: 25%
+DAMAGE REDUCTION: 50%
+REDUCTION DURATION: 5.000000
+SCEPTER DAMAGE ON RETURN: 40%",
+"youtude" : "http://www.youtube.com/embed/4kPz4cvIYEA?hd=1&rel=0"
+},]}

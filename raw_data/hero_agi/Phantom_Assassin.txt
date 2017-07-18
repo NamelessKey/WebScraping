@@ -1,0 +1,51 @@
+{"IntVal" : "15 + 1.40",
+"AgiVal" : "23 + 3.15",
+"StrVal" : "20 + 1.85",
+"AttackVal" : "23 - 25",
+"SpeedVal" : "310",
+"DefenseVal" : "4.22",
+"Bio" : "Through a process of divination, children are selected for upbringing by the Sisters of the Veil, an order that considers assassination a sacred part of the natural order.  The Veiled Sisters identify targets through meditation and oracular utterances.  They accept no contracts, and never seem to pursue targets for political or mercenary reasons. Their killings bear no relation to any recognizable agenda, and can seem to be completely random:  A figure of great power is no more likely to be eliminated than a peasant or a well digger. Whatever pattern the killings may contain, it is known only to them. They treat their victims as sacrifices, and death at their hand is considered an honor. Raised with no identity except that of their order, any Phantom Assassin can take the place of any other; their number is not known. Perhaps there are many, perhaps there are few. Nothing is known of what lies under the Phantom Veil. Except that this one, from time to time, when none are near enough to hear, is known to stir her veils with the forbidden whisper of her own name: Mortred.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["892","450","195",]},
+{ "Armor" : ["18","10","4",]},
+{ "HitPoint" : ["1,754","1,022","530",]},
+{ "Damage" : ["142-144","90-92","46-48",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_assassin_stifling_dagger_hp2.png?v=3379714",
+"ability_name" : "Stifling Dagger",
+"ability_desc" : "Throws a dagger which deals pure damage and slows the enemy unit's movement speed, while also applying attack effects from items and abilities.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "MOVE SLOW: 50%
+SLOW DURATION: 1 / 2 / 3 / 4
+HERO DAMAGE: 30 / 50 / 70 / 90
+CREEP DAMAGE: 60 / 100 / 140 / 180",
+"youtude" : "http://www.youtube.com/embed/i5m8Cb2yyUE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_assassin_phantom_strike_hp2.png?v=3379714",
+"ability_name" : "Phantom Strike",
+"ability_desc" : "Teleports to a unit, friendly or enemy, and grants bonus attack speed while attacking if it's an enemy unit.",
+"footer_left" : "ABILITY: Unit TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "BONUS ATTACK SPEED: 130
+MAX ATTACKS: 4
+RANGE: 1000 / 1000 / 1000 / 1000",
+"youtude" : "http://www.youtube.com/embed/vzvGCgwQoOA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_assassin_blur_hp2.png?v=3379714",
+"ability_name" : "Blur",
+"ability_desc" : "Phantom Assassin focuses inward, increasing her ability to evade enemy attacks, and allowing her to blur her body to disappear from the enemy team's minimap when far from enemy heroes.
+
+Stacks diminishingly with other sources of Evasion.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "EVASION: 20% / 30% / 40% / 50%
+MAP VANISH RADIUS: 1600 / 1600 / 1600 / 1600",
+"youtude" : "http://www.youtube.com/embed/EDaQVTmxsNM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/phantom_assassin_coup_de_grace_hp2.png?v=3379714",
+"ability_name" : "Coup de Grace",
+"ability_desc" : "Phantom Assassin refines her combat abilities, gaining a chance of delivering a devastating critical strike to enemy units. Stifling Dagger shares the same critical strike chance.",
+"footer_left" : "ABILITY: PassivePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "CRITICAL DAMAGE: 230% / 340% / 450%
+CRITICAL CHANCE: 15%",
+"youtude" : "http://www.youtube.com/embed/A0dUz8U6nDM?hd=1&rel=0"
+},]}

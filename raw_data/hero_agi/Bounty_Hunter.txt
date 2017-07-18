@@ -1,0 +1,53 @@
+{"IntVal" : "19 + 2.00",
+"AgiVal" : "21 + 3.00",
+"StrVal" : "17 + 1.80",
+"AttackVal" : "24 - 38",
+"SpeedVal" : "315",
+"DefenseVal" : "5.94",
+"Bio" : "When the hunted tell tales of Gondar the Bounty Hunter, none are sure of which are true. In whispered tones they say he was abandoned as a kit, learning his skill in tracking as a matter of simple survival. Others hear he was an orphan of war, taken in by the great Soruq the Hunter to learn the master's skill with a blade as they plumbed the dark forests for big game. Still others believe he was a lowly street urchin raised among a guild of cutpurses and thieves, trained in the arts of stealth and misdirection. Around campfires in the wild countryside his quarry speaks the rumors of Gondar's work, growing ever more fearful: they say it was he who tracked down the tyrant King Goff years after the mad regent went into hiding, delivering his head and scepter as proof. That it was he who infiltrated the rebel camps at Highseat, finally bringing the legendary thief White Cape to be judged for his crimes. And that it was he who ended the career of Soruq the Hunter, condemned as a criminal for killing the Prince's prized hellkite. The tales of Gondar's incredible skill stretch on, with each daring feat more unbelievable than the last, each target more elusive. For the right price, the hunted know, anyone can be found. For the right price, even the mightiest may find fear in the shadows.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,131","611","247",]},
+{ "Armor" : ["19","12","6",]},
+{ "HitPoint" : ["1,674","952","473",]},
+{ "Damage" : ["137-151","87-101","45-59",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 1000"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bounty_hunter_shuriken_toss_hp2.png?v=3379714",
+"ability_name" : "Shuriken Toss",
+"ability_desc" : "Hurls a deadly shuriken at an enemy unit, dealing damage and mini-stunning the target.  The shuriken will bounce between any Tracked units who are within a 1200 radius of each other.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 150 / 225 / 300 / 375
+TRACK BOUNCE RANGE: 1200",
+"youtude" : "http://www.youtube.com/embed/THFY7EAD7HY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bounty_hunter_jinada_hp2.png?v=3379714",
+"ability_name" : "Jinada",
+"ability_desc" : "Bounty Hunter plans his next hit, passively adding a critical strike and maim to his next attack.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "CRITICAL DAMAGE: 150% / 175% / 200% / 225%
+MOVE SLOW: 25% / 27% / 29% / 31%
+ATTACK SLOW: 25 / 27 / 29 / 31
+DURATION: 3 / 3 / 3 / 3",
+"youtude" : "http://www.youtube.com/embed/JVqW1Gyi5FM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bounty_hunter_wind_walk_hp2.png?v=3379714",
+"ability_name" : "Shadow Walk",
+"ability_desc" : "Bounty Hunter becomes invisible and gains the ability to move through other units until he attacks or uses an ability.  If he breaks the invisibility with an attack, that attack will deal bonus damage.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 20 / 25 / 30 / 35
+FADE TIME: 1 / 0.75 / 0.5 / 0.25
+BONUS DAMAGE: 30 / 60 / 90 / 120",
+"youtude" : "http://www.youtube.com/embed/A1pTdYaSDo0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/bounty_hunter_track_hp2.png?v=3379714",
+"ability_name" : "Track",
+"ability_desc" : "Tracks an enemy hero, granting True Sight of the target, and information on how much gold it is carrying. Allies near the hunted are granted bonus movement speed. If the target dies, Bounty Hunter and nearby heroes collect a bonus bounty of gold.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy HeroesPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "SPEED RADIUS: 900 / 900 / 900
+BONUS SPEED: 20% / 20% / 20%
+BONUS GOLD FOR SELF: 200 / 275 / 350
+BONUS GOLD FOR ALLIES: 40 / 80 / 120
+DURATION: 30 / 30 / 30
+CAST RANGE: 1200",
+"youtude" : "http://www.youtube.com/embed/QUR30zbpNDs?hd=1&rel=0"
+},]}

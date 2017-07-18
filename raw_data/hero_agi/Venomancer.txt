@@ -1,0 +1,55 @@
+{"IntVal" : "15 + 1.75",
+"AgiVal" : "22 + 2.60",
+"StrVal" : "18 + 1.85",
+"AttackVal" : "19 - 21",
+"SpeedVal" : "285",
+"DefenseVal" : "3.08",
+"Bio" : "In the Acid Jungles of Jidi Isle, poison runs in the veins and bubbles in the guts of every creature that scuttles, climbs or swoops between fluorescent vines dripping with caustic sap. Yet even in this toxic menagerie, Venomancer is acknowledged as the most venomous. Ages ago, an Herbalist named Lesale crossed the Bay of Fradj by coracle, searching for potent essences that might be extracted from bark and root, and found instead a nightmare transformation. Two leagues into Jidi's jungle, Lesale encountered a reptile camouflaged as an epiphyte, which stung him as he mistakenly plucked it. In desperation, he used his partial knowledge of the jungle's herbal bounty, mixing the venom of the (swiftly throttled) reptile with the nectar of an armored orchid, to compound an antidote. In the moments before a black paralysis claimed him completely, he injected himself by orchid-thorn, and instantly fell into a coma. Seventeen years later, something stirred in the spot where he had fallen, throwing off the years' accumulation of humus: Venomancer. Lesale the Herbalist no longer--but Lesale the Deathbringer. His mind was all but erased, and his flesh had been consumed and replaced by a new type of matter--one fusing the venom of the reptile with the poisonous integument of the orchid. Jidi's Acid Jungles knew a new master, one before whom even the most vicious predators soon learned to bow or burrow for their lives. The lurid isle proved too confining, and some human hunger deep in the heart of the Venomancer drove Lesale out in search of new poisons--and new deaths to bring.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,001","514","195",]},
+{ "Armor" : ["15","8","3",]},
+{ "HitPoint" : ["1,716","984","492",]},
+{ "Damage" : ["123-125","77-79","41-43",]},
+{ "AttackRange" : "450"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/venomancer_venomous_gale_hp2.png?v=3379714",
+"ability_name" : "Venomous Gale",
+"ability_desc" : "Launches a ball of venom in a line, poisoning enemy units so that they take both initial damage and damage over time, as well as suffering slowed movement.  Venomous Gale deals damage every 3 seconds over its duration.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DURATION: 15 / 15 / 15 / 15
+INITIAL DAMAGE: 25 / 50 / 75 / 100
+DAMAGE PER TICK: 10 / 40 / 70 / 100
+SLOW: 50% / 50% / 50% / 50%",
+"youtude" : "http://www.youtube.com/embed/NMl5uOEHfCM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/venomancer_poison_sting_hp2.png?v=3379714",
+"ability_name" : "Poison Sting",
+"ability_desc" : "Adds poison damage to Venomancer's normal attacks, slowing movement speed.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 6 / 9 / 12 / 15
+DAMAGE PER SECOND: 6 / 12 / 18 / 24
+SLOW: 11% / 12% / 13% / 14%",
+"youtude" : "http://www.youtube.com/embed/wHPx7hm2j8w?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/venomancer_plague_ward_hp2.png?v=3379714",
+"ability_name" : "Plague Ward",
+"ability_desc" : "Summons a plague ward to attack enemy units and structures. The ward is immune to magic. Wards gain the Poison Sting level from Venomancer, dealing 50% of the full damage.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 40
+WARD HP: 75 / 200 / 325 / 450
+WARD DAMAGE: 10 / 19 / 29 / 38",
+"youtude" : "http://www.youtube.com/embed/vQ0AFxdBUwk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/venomancer_poison_nova_hp2.png?v=3379714",
+"ability_name" : "Poison Nova",
+"ability_desc" : "A spreading ring of poison that does damage over time to enemy units around Venomancer.  Poison Nova cannot deal lethal damage; targets will be left with at least 1 health.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 830
+DURATION: 16
+DAMAGE: 30 / 55 / 80
+SCEPTER COOLDOWN: 140 / 120 / 60
+SCEPTER DAMAGE: 60 / 85 / 110",
+"youtude" : "http://www.youtube.com/embed/gL3GCUp1Ins?hd=1&rel=0"
+},]}

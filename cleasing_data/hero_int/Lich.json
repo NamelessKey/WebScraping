@@ -1,0 +1,89 @@
+{
+    "IntVal": "18 + 3.25",
+    "AgiVal": "15 + 2.00",
+    "StrVal": "18 + 1.55",
+    "AttackVal": "24 - 33",
+    "SpeedVal": "315",
+    "DefenseVal": "1.1",
+    "Bio": "In life, the frost-mage Ethreain (not yet a Lich) had used the threat of destructive ice to enslave entire kingdoms. His subjects, aided by a few desperate magicians, eventually grew bold enough to ambush him. Armed with enough charmed rope to bind him forever, they tied the frost mage to adamant weights and dropped him in a pool known chiefly for being bottomless. It wasn't. He only fell for a year or so before an outcrop snagged him. There he rested, dead but undecaying, until the geomancer Anhil thought to verify the legend of the supposedly bottomless Black Pool. Anhil's plumbline snarled with the ropes that bound the drowned magician, and up he hauled an unexpected prize. Thinking that by rendering the dead undead, he could question the Lich about the properties of the pool, he removed the bindings and commenced a simple rite of resurrection. Even the descendants of Ethreain's enemies were long forgotten by time, so there were none to warn Anhil against imprudence. But he learned the error of his judgment almost immediately, as Lich threw off the shackles and consumed him.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,508",
+                "826",
+                "234"
+            ]
+        },
+        {
+            "Armor": [
+                "11",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "HitPoint": [
+                "1,579",
+                "904",
+                "492"
+            ]
+        },
+        {
+            "Damage": [
+                "140-149",
+                "88-97",
+                "42-51"
+            ]
+        },
+        {
+            "AttackRange": "550"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lich_frost_nova_hp2.png?v=3379714",
+            "ability_name": "Frost Blast",
+            "ability_desc": "Blasts the target enemy unit with damaging frost, dealing area damage and slowing movement and attack rates for 4 seconds.  The primary target takes the most damage.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 50 / 100 / 150 / 200RADIUS: 200 / 200 / 200 / 200 MOVEMENT SLOW: 30% / 30% / 30% / 30% ATTACK SLOW: 20 / 20 / 20 / 20 AREA DAMAGE: 75 / 100 / 125 / 150",
+            "youtude": "http://www.youtube.com/embed/bMuBB9l24ks?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lich_frost_armor_hp2.png?v=3379714",
+            "ability_name": "Ice Armor",
+            "ability_desc": "Creates a shield around the target friendly unit or building, which adds armor and slows attacking units. Lasts 40 seconds.",
+            "footer_left": "ABILITY: Auto-Cast, Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "ALLY ARMOR BONUS: 3 / 5 / 7 / 9 ENEMY MOVE SLOW: 30% / 30% / 30% / 30% ENEMY ATTACK SLOW: 20 / 20 / 20 / 20 SLOW DURATION: 2 / 2 / 2 / 2",
+            "youtude": "http://www.youtube.com/embed/hfdMe2zPVhs?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lich_dark_ritual_hp2.png?v=3379714",
+            "ability_name": "Sacrifice",
+            "ability_desc": "Sacrifices a friendly creep and converts its current hit points into mana for Lich.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Allies",
+            "footer_right": "HEALTH CONVERSION: 25% / 40% / 55% / 70%",
+            "youtude": "http://www.youtube.com/embed/_2zg_QNo1HQ?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/lich_chain_frost_hp2.png?v=3379714",
+            "ability_name": "Chain Frost",
+            "ability_desc": "Releases an orb of frost that bounces between nearby enemy units up to 10 times, slowing and damaging each time it hits.  The first target is mini-stunned.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE EACH BOUNCE: 280 / 370 / 460 BOUNCES: 10 / 10 / 10 BOUNCE RANGE: 575 / 575 / 575 MOVEMENT SLOW: 30% ATTACK SLOW: 30 SLOW DURATION: 4 / 4 / 4 SCEPTER DAMAGE: 370 / 460 / 550 SCEPTER CAST RANGE: 850 / 850 / 850",
+            "youtude": "http://www.youtube.com/embed/VcWyGy_f5WU?hd=1&rel=0"
+        }
+    ]
+}

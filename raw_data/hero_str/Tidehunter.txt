@@ -1,0 +1,57 @@
+{"IntVal" : "16 + 1.70",
+"AgiVal" : "15 + 1.50",
+"StrVal" : "22 + 3.00",
+"AttackVal" : "25 - 31",
+"SpeedVal" : "305",
+"DefenseVal" : "3.1",
+"Bio" : "The Tidehunter known as Leviathan was once the champion of the Sunken Isles, but his motives are as mysterious as those of his people. We all know the importance of the Drylanders' shipping lanes, how empires may rise and fall according to who controls the open water. Far less is known of the submarine lanes, and how the warring tribes of the Meranthic Diaspora have carved out habitations through endless undersea skirmishes. In the fragile treaties between the Mer and Men, we can glimpse the extent of the drowned empires, but their politics appear complex and opaque. It would seem that Leviathan tired of such petty strife, and set off on his own, loyal only to his abyssal god, Maelrawn the Tentacular. He stalks the shallows now in search of men or meranths who stray into his path, and with a particular loathing for Admiral Kunkka, who has long been his nemesis for reasons lost in the deepest trenches of the sea.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["998","517","208",]},
+{ "Armor" : ["11","6","3",]},
+{ "HitPoint" : ["2,316","1,366","568",]},
+{ "Damage" : ["139-145","89-95","47-53",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tidehunter_gush_hp2.png?v=3379714",
+"ability_name" : "Gush",
+"ability_desc" : "Summons a gush of water to damage an enemy unit, reducing their movement speed and armor.  Lasts 4 seconds.
+
+Upgradable by Aghanim's Scepter, turning Gush into a ground targeted wave and decreasing cooldown.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 110 / 160 / 210 / 260SLOW: 40% / 40% / 40% / 40%
+ARMOR REDUCTION: 3 / 4 / 5 / 6
+SCEPTER RADIUS: 240
+SCEPTER COOLDOWN: 7
+SCEPTER RANGE: 1800",
+"youtude" : "http://www.youtube.com/embed/68728IYAiok?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tidehunter_kraken_shell_hp2.png?v=3379714",
+"ability_name" : "Kraken Shell",
+"ability_desc" : "Thickens Tidehunter's hide to passively block a portion of any incoming physical attack damage. The hide also removes negative status effects if the damage taken crosses a threshold.
+
+Does not stack with items that provide Damage Block.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "DAMAGE BLOCK: 12 / 24 / 36 / 48
+DAMAGE THRESHOLD: 600 / 550 / 500 / 450
+THRESHOLD TIMER: 6 / 6 / 6 / 6",
+"youtude" : "http://www.youtube.com/embed/mbIfRCkRM6g?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tidehunter_anchor_smash_hp2.png?v=3379714",
+"ability_name" : "Anchor Smash",
+"ability_desc" : "Tidehunter swings his mighty anchor to damage nearby enemies and reduce their attack damage.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 75 / 125 / 175 / 225DAMAGE REDUCTION: 45% / 50% / 55% / 60%
+DURATION: 6 / 6 / 6 / 6
+RADIUS: 375",
+"youtude" : "http://www.youtube.com/embed/30uJcLr3ttA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tidehunter_ravage_hp2.png?v=3379714",
+"ability_name" : "Ravage",
+"ability_desc" : "Slams the ground, causing tentacles to erupt in all directions, damaging and stunning all nearby enemy units.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 200 / 290 / 380RADIUS: 1025
+DURATION: 2 / 2.4 / 2.8",
+"youtude" : "http://www.youtube.com/embed/BZBsiD9wuWQ?hd=1&rel=0"
+},]}

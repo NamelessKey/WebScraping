@@ -1,0 +1,52 @@
+{"IntVal" : "15 + 1.80",
+"AgiVal" : "14 + 2.50",
+"StrVal" : "15 + 1.50",
+"AttackVal" : "39 - 49",
+"SpeedVal" : "290",
+"DefenseVal" : "0.96",
+"Bio" : "The fabric of creation needs constant care, lest it grow tattered; for when it unravels, whole worlds come undone. It is the work of the Weavers to keep the fabric tight, to repair worn spots in the mesh of reality. They also defend from the things that gnaw and lay their eggs in frayed regions, whose young can quickly devour an entire universe if the Weavers let their attention lapse. Skitskurr was a master Weaver, charged with keeping one small patch of creation tightly woven and unfaded. But the job was not enough to satisfy. It nagged him that the original work of creation all lay in the past; the Loom had done its work and travelled on. He wanted to create rather than merely maintain--to weave worlds of his own devising.  He began making small changes to his domain, but the thrill of creation proved addictive, and his strokes became bolder, pulling against the pattern that the Loom had woven. The guardians came, with their scissors, and Weaver's world was pared off, snipped from the cosmic tapestry, which they rewove without him in it. Skitskurr found himself alone, apart from his kind, a state that would have been torment for any other Weaver. But Skitskurr rejoiced, for now he was free. Free to create for himself, to begin anew. The raw materials he needed to weave a new reality were all around him. All he had to do was tear apart this old world at the seams.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,017","523","195",]},
+{ "Armor" : ["12","6","1",]},
+{ "HitPoint" : ["1,499","834","435",]},
+{ "Damage" : ["133-143","88-98","53-63",]},
+{ "AttackRange" : "425"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/weaver_the_swarm_hp2.png?v=3379714",
+"ability_name" : "The Swarm",
+"ability_desc" : "Weaver launches a swarm of 12 young Weavers that latch on any enemy unit in their path, attacking and reducing armor until it is killed.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "ATTACK DAMAGE: 20
+ATTACK FREQUENCY: 1.25 / 1.1 / 0.95 / 0.8
+COUNT: 12 / 12 / 12 / 12
+ARMOR REDUCTION: 1 / 1 / 1 / 1
+DURATION: 16
+ATTACKS TO DESTROY: 8 / 8 / 8 / 8",
+"youtude" : "http://www.youtube.com/embed/YfngG2WLpfc?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/weaver_shukuchi_hp2.png?v=3379714",
+"ability_name" : "Shukuchi",
+"ability_desc" : "Weaver shifts out of visibility, gaining the ability to move at maximum speed through physical units--doing harm to any enemies it passes through.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 75 / 100 / 125 / 150
+RADIUS: 175 / 175 / 175 / 175
+FADE TIME: 0.25 / 0.25 / 0.25 / 0.25
+DURATION: 4 / 4 / 4 / 4",
+"youtude" : "http://www.youtube.com/embed/d5tRF1b5L5E?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/weaver_geminate_attack_hp2.png?v=3379714",
+"ability_name" : "Geminate Attack",
+"ability_desc" : "Allows Weaver to dispatch two attacks at once.",
+"footer_left" : "ABILITY: PassivePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/UGW_dID1W5c?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/weaver_time_lapse_hp2.png?v=3379714",
+"ability_name" : "Time Lapse",
+"ability_desc" : "Weaver warps backward to whatever position it was in five seconds earlier--regaining the HP and mana from that time. No effect on cooldown, gold or experience.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetAFFECTS: Allied Heroes",
+"footer_right" : "SCEPTER ALLY CAST RANGE: 1000",
+"youtude" : "http://www.youtube.com/embed/cmgRjaiscEg?hd=1&rel=0"
+},]}

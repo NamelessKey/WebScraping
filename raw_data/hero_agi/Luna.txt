@@ -1,0 +1,54 @@
+{"IntVal" : "16 + 1.85",
+"AgiVal" : "18 + 2.80",
+"StrVal" : "15 + 2.20",
+"AttackVal" : "26 - 32",
+"SpeedVal" : "330",
+"DefenseVal" : "3.52",
+"Bio" : "How had she been reduced to this?  She was once the Scourge of the Plains, a merciless leader of men and beasts, and able to sow terror wherever she dared.  Now she was far from her homeland, driven half mad from starvation and months of wandering, her army long dead or worse.  As she stood at the edge of an ancient forest, a pair of glowing eyes spied on from an elder branch.  Something beautiful and deadly sought a meal in the wilting dusk.  Without a sound, it turned and left.  Fury overtook her.  Clutching a rust-eaten dagger, she charged after the beast determined to reclaim even a shred of her past glory, but her quarry would not be caught.  Three times she cornered the creature among the rocks and trees, and three times she pounced only to witness its fading shadow darting further into the woods.  Yet the full moon shone brightly, and the creature's trail was easy to follow.  Arriving in a clearing atop a high hill, the beast's massive feline form sat in the open, attentive and waiting.  When the woman brandished her dagger, the creature reared and roared and charged.  Death, it seemed, had come for her at long last in this strange place.  She stood, calm and ready.  A flash of movement, and the beast snatched the dagger from her hand before vanishing into the forest.  Stillness.  Hooded figures approached. In reverent tones they revealed that Selemene, Goddess of the Moon, had chosen her, had guided her, had tested her. Unwittingly she had endured the sacred rites of the Dark Moon, warriors of the Nightsilver Woods.She was offered a choice: join the Dark Moon and pledge herself to the service of Selemene, or leave and never return. She did not hesitate. Embracing her absolution, she renounced her bloody past, and took up a new mantle as Luna of the Dark Moon, the dreaded Moon Rider, ruthless and ever-loyal guardian of the Nightsilver Woods.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,045","545","208",]},
+{ "Armor" : ["16","9","4",]},
+{ "HitPoint" : ["1,818","1,020","435",]},
+{ "Damage" : ["131-137","83-89","44-50",]},
+{ "AttackRange" : "330"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/luna_lucent_beam_hp2.png?v=3379714",
+"ability_name" : "Lucent Beam",
+"ability_desc" : "Calls a beam of lunar energy down upon an enemy, damaging and briefly stunning them.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 75 / 150 / 225 / 300STUN DURATION: 0.6 / 0.6 / 0.6 / 0.6",
+"youtude" : "http://www.youtube.com/embed/ALMg8aRf7Xs?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/luna_moon_glaive_hp2.png?v=3379714",
+"ability_name" : "Moon Glaive",
+"ability_desc" : "Empowers Luna's glaive, causing her attacks to bounce between enemy units. Deals less damage with each bounce.",
+"footer_left" : "ABILITY: PassivePIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "BOUNCE RADIUS: 500
+BOUNCES: 1 / 2 / 3 / 6
+DAMAGE REDUCTION PER BOUNCE: 35%",
+"youtude" : "http://www.youtube.com/embed/7TCPl446TcI?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/luna_lunar_blessing_hp2.png?v=3379714",
+"ability_name" : "Lunar Blessing",
+"ability_desc" : "Increases the damage dealt by attacks from Luna and nearby allied heroes. Luna is also blessed with increased vision range at night.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "BLESSING RADIUS: 900 / 900 / 900 / 900
+BONUS DAMAGE: 14 / 22 / 30 / 38
+BONUS NIGHT VISION: 1000 / 1000 / 1000 / 1000",
+"youtude" : "http://www.youtube.com/embed/1tKapRx4crk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/luna_eclipse_hp2.png?v=3379714",
+"ability_name" : "Eclipse",
+"ability_desc" : "Showers random nearby enemies with strikes from Luna's current level of Lucent Beam. These beams do not stun their targets, and there is a maximum number of times that a single target can be struck. Also turns day into night for 10 seconds.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetAFFECTS: Allied UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "TOTAL BEAMS: 5 / 8 / 11
+MAX BEAMS PER UNIT: 5
+ECLIPSE DURATION: 2.4 / 4.2 / 6
+RADIUS: 675 / 675 / 675
+SCEPTER TOTAL BEAMS: 6 / 12 / 18
+SCEPTER DURATION: 1.8 / 3.6 / 5.4
+SCEPTER CAST RANGE: 2500",
+"youtude" : "http://www.youtube.com/embed/pQKRK9KN5-U?hd=1&rel=0"
+},]}

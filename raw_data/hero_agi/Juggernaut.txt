@@ -1,0 +1,48 @@
+{"IntVal" : "14 + 1.40",
+"AgiVal" : "26 + 2.40",
+"StrVal" : "20 + 1.90",
+"AttackVal" : "24 - 28",
+"SpeedVal" : "305",
+"DefenseVal" : "3.64",
+"Bio" : "No one has ever seen the face hidden beneath the mask of Yurnero the Juggernaut. It is only speculation that he even has one. For defying a corrupt lord, Yurnero was exiled from the ancient Isle of Masks--a punishment that saved his life. The isle soon after vanished beneath the waves in a night of vengeful magic. He alone remains to carry on the Isle's long Juggernaut tradition, one of ritual and swordplay. The last practitioner of the art, Yurnero's confidence and courage are the result of endless practice; his inventive bladework proves that he has never stopped challenging himself. Still, his motives are as unreadable as his expression. For a hero who has lost everything twice over, he fights as if victory is a foregone conclusion.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["879","437","182",]},
+{ "Armor" : ["15","8","4",]},
+{ "HitPoint" : ["1,776","1,035","530",]},
+{ "Damage" : ["128-132","84-88","50-54",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "N/A"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/juggernaut_blade_fury_hp2.png?v=3379714",
+"ability_name" : "Blade Fury",
+"ability_desc" : "Causes a bladestorm of destructive force around Juggernaut, rendering him immune to magic and dealing damage to nearby enemy units.  Lasts 5 seconds.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 80 / 105 / 130 / 155RADIUS: 250",
+"youtude" : "http://www.youtube.com/embed/0XijKqh4EJI?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/juggernaut_healing_ward_hp2.png?v=3379714",
+"ability_name" : "Healing Ward",
+"ability_desc" : "Summons a Healing Ward which heals all nearby allied units, based on their max health.  The Healing Ward moves at 420 movement speed after being summoned.  Lasts 25 seconds.",
+"footer_left" : "ABILITY: Point Target",
+"footer_right" : "MAX HEALTH PER SECOND: 2% / 3% / 4% / 5%",
+"youtude" : "http://www.youtube.com/embed/Wvh64L7ndTs?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/juggernaut_blade_dance_hp2.png?v=3379714",
+"ability_name" : "Blade Dance",
+"ability_desc" : "Gives Juggernaut a chance to deal double damage on each attack.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "CRITICAL DAMAGE: 200%
+CRITICAL CHANCE: 20% / 25% / 30% / 35%",
+"youtude" : "http://www.youtube.com/embed/J0i1IyxpvB0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/juggernaut_omni_slash_hp2.png?v=3379714",
+"ability_name" : "Omnislash",
+"ability_desc" : "Juggernaut leaps towards the target enemy unit with a damaging attack, and then slashes other nearby enemy units, dealing between 200-225 damage per slash.  Juggernaut is invulnerable for the duration.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "SLASHES: 3 / 6 / 9
+SLASH JUMP RADIUS: 425
+SCEPTER SLASHES: 6 / 9 / 12
+SCEPTER COOLDOWN: 70",
+"youtude" : "http://www.youtube.com/embed/T4HOd3lIgyQ?hd=1&rel=0"
+},]}

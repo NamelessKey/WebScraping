@@ -1,0 +1,51 @@
+{"IntVal" : "15 + 1.50",
+"AgiVal" : "17 + 2.40",
+"StrVal" : "21 + 2.80",
+"AttackVal" : "30 - 38",
+"SpeedVal" : "300",
+"DefenseVal" : "5.38",
+"Bio" : "Slardar is a Slithereen, one of the Deep Ones, guardian of the great wealth of sunken cities and the ancient riches buried there. In the lightless gulf of the great ocean abysses, the Slithereen Guard carries his lure-light with him through the secret treasure rooms. Subaqueous thieves (sent into the deeps by covetous dryland sorcerers) are drawn in by its friendly glow, never to return. He is utterly loyal, and his taciturn nature hides deep knowledge of the most secret places of the sea. He rises to the shallows in spite of the pain caused him by brightness, to commit reconnaissance, to make sure no one is conspiring against the depths, and sometimes in relentless pursuit of the rare few who manage to steal off with an item from the Sunken Treasury. Because he has spent his whole life at great pressure, under tremendous weight of the sea, Slardar the Slithereen Guard is a creature of great power.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["923","468","195",]},
+{ "Armor" : ["16","10","5",]},
+{ "HitPoint" : ["2,206","1,294","549",]},
+{ "Damage" : ["138-146","90-98","51-59",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "N/A"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/slardar_sprint_hp2.png?v=3379714",
+"ability_name" : "Sprint",
+"ability_desc" : "Slardar slithers ahead, moving significantly faster and passing through units, though becoming more vulnerable to damage.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "BONUS MOVE SPEED: 20% / 28% / 36% / 44%
+ADDED DAMAGE TAKEN: 15%
+DURATION: 12",
+"youtude" : "http://www.youtube.com/embed/IIpt3UM9-dE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/slardar_slithereen_crush_hp2.png?v=3379714",
+"ability_name" : "Slithereen Crush",
+"ability_desc" : "Slams the ground, stunning and damaging nearby enemy land units.  After the stun, the affected units are slowed.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 75 / 125 / 175 / 225RADIUS: 350
+MOVEMENT SLOW: 20%
+ATTACK SLOW: 20
+SLOW DURATION: 2
+STUN DURATION: 1.6 / 1.9 / 2.2 / 2.5",
+"youtude" : "http://www.youtube.com/embed/AhBhn-UWcOM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/slardar_bash_hp2.png?v=3379714",
+"ability_name" : "Bash",
+"ability_desc" : "Grants a chance that an attack will do bonus damage and stun an enemy.  The duration is doubled against creeps.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "CHANCE: 10% / 15% / 20% / 25%
+BONUS DAMAGE: 60 / 80 / 100 / 120
+DURATION: 1",
+"youtude" : "http://www.youtube.com/embed/fxLD4HlBk8g?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/slardar_amplify_damage_hp2.png?v=3379714",
+"ability_name" : "Amplify Damage",
+"ability_desc" : "Reduces enemy armor to amplify physical damage and provides True Sight of the targeted unit, revealing invisibility.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "ARMOR REDUCTION: 10 / 15 / 20
+DURATION: 25 / 25 / 25",
+"youtude" : "http://www.youtube.com/embed/wNlSGTlfxOY?hd=1&rel=0"
+},]}

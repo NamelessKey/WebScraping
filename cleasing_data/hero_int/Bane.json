@@ -1,0 +1,97 @@
+{
+  "IntVal": "22 + 2.10",
+  "AgiVal": "22 + 2.10",
+  "StrVal": "22 + 2.10",
+  "AttackVal": "33 - 39",
+  "SpeedVal": "310",
+  "DefenseVal": "4.08",
+  "Bio": "When the gods have nightmares, it is Bane Elemental who brings them.  Also known as Atropos, Bane was born from the midnight terrors of the goddess Nyctasha.  A force of terror too powerful to be contained by sleep, he surfaced from her slumbers, fed upon her immortality, and stole his vaporous form from her inky blood.  He is the essence of fear.  Mortals who hear his voice hear their darkest secrets whispered in their ear.  He calls to the hidden fear in every Hero's heart.  Wakefulness is no protection, for Bane's black blood, continuously dripping, is a tar that traps his enemies in nightmare.  In the presence of Bane, every Hero remembers to fear the dark.",
+  "Stata": [
+    {
+      "Level": [
+        "25",
+        "15",
+        "1"
+      ]
+    },
+    {
+      "Mana": [
+        "1,201",
+        "668",
+        "286"
+      ]
+    },
+    {
+      "Armor": [
+        "14",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "HitPoint": [
+        "1,906",
+        "1,127",
+        "568"
+      ]
+    },
+    {
+      "Damage": [
+        "125-131",
+        "84-90",
+        "55-61"
+      ]
+    },
+    {
+      "AttackRange": "400"
+    },
+    {
+      "SightRange": "1800 / 800"
+    },
+    {
+      "MissileSpeed": "900"
+    }
+  ],
+  "Ability": [
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/bane_enfeeble_hp2.png?v=3379714",
+      "ability_name": "Enfeeble",
+      "ability_desc": "Weakens an enemy unit, reducing its physical damage.  Lasts 20 seconds.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+      "footer_right": "REDUCTION: 30 / 60 / 90 / 120",
+      "youtude": "http://www.youtube.com/embed/cSZQr6qFcnQ?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/bane_brain_sap_hp2.png?v=3379714",
+      "ability_name": "Brain Sap",
+      "ability_desc": "Feasts on the vital energies of an enemy unit, healing Bane and dealing damage.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 90 / 160 / 230 / 300HEAL AMOUNT: 90 / 160 / 230 / 300",
+      "youtude": "http://www.youtube.com/embed/aO14tLgQXVo?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/bane_nightmare_hp2.png?v=3379714",
+      "ability_name": "Nightmare",
+      "ability_desc": "Puts the target enemy or friendly Hero to sleep and deals damage per second.  Sleeping units are awakened when attacked, but the Nightmare passes to the attacking unit.  The nightmared unit instantly wakes up if it takes damage.",
+      "footer_left": "ABILITY: Unit TargetAFFECTS: HeroesDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+      "footer_right": "DAMAGE: 20DURATION: 4 / 5 / 6 / 7 CAST RANGE: 500 / 550 / 600 / 650",
+      "youtude": "http://www.youtube.com/embed/FExnzA0Pes4?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/bane_fiends_grip_hp2.png?v=3379714",
+      "ability_name": "Fiend's Grip",
+      "ability_desc": "CHANNELED - Grips an enemy unit, disabling it and causing heavy damage over time, while stealing mana every second based on the unit's maximum mana.Upgradable by Aghanim's Scepter.",
+      "footer_left": "ABILITY: Channeled, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+      "footer_right": "MANA DRAIN: 5% DURATION: 5 / 5 / 5 DAMAGE: 100 / 155 / 215 SCEPTER MANA DRAIN: 10% SCEPTER DURATION: 7 SCEPTER DAMAGE: 155 / 215 / 270",
+      "youtude": "http://www.youtube.com/embed/GFDyNOUnLFw?hd=1&rel=0"
+    },
+    {
+      "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/bane_nightmare_end_hp2.png?v=3379714",
+      "ability_name": "Nightmare End",
+      "ability_desc": "Ends all ongoing Nightmares.",
+      "footer_left": "ABILITY: No Target, Toggle",
+      "footer_right": "",
+      "youtude": ""
+    }
+  ]
+}

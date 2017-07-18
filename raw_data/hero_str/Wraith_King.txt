@@ -1,0 +1,53 @@
+{"IntVal" : "18 + 1.60",
+"AgiVal" : "18 + 1.70",
+"StrVal" : "22 + 2.90",
+"AttackVal" : "39 - 41",
+"SpeedVal" : "300",
+"DefenseVal" : "2.52",
+"Bio" : "For untold years, King Ostarion built a kingdom from the remains of his enemies. It was an obsessive's errand, done to pass the long eternities of a monarchy that seemed fated never to end. He believed that as long as he built up the towers of his palace, he could not die. But eventually he learned that he had been deluded... that bone itself could perish. Deeply mistrustful of flesh, he sought a more permanent way of extending his reign, and at last settled on pursuit of wraith energy, a form of pure spirit given off by certain dark souls at death. Should he infuse himself with Wraith Essence, he thought he might create a body as luminous and eternal as his ego. On the millennial solstice known as Wraith-Night, he submitted to a rite of transformation, compelling his subjects to harvest enough souls to fuel his ambition for immortality. No one knows how many of his champions died, for the only survivor who mattered was the Wraith King who rose with the sun on the following morn. Now he rarely spends a moment on his glowing throne--but strides out with sword drawn, demanding a fealty that extends far beyond death.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["993","525","234",]},
+{ "Armor" : ["11","6","3",]},
+{ "HitPoint" : ["2,270","1,339","568",]},
+{ "Damage" : ["151-153","102-104","61-63",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "N/A"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/skeleton_king_hellfire_blast_hp2.png?v=3379714",
+"ability_name" : "Wraithfire Blast",
+"ability_desc" : "Wraith King sears an enemy unit with spectral fire, dealing damage and stunning, then dealing damage over time and slowing the target.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 50 / 100 / 150 / 200STUN DURATION: 2
+SLOW DURATION: 2
+MOVEMENT SLOW: 20%
+DAMAGE PER SECOND: 15 / 30 / 40 / 50",
+"youtude" : "http://www.youtube.com/embed/cjBrHQKjxm4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/skeleton_king_vampiric_aura_hp2.png?v=3379714",
+"ability_name" : "Vampiric Aura",
+"ability_desc" : "Nearby friendly units restore health based on the damage they deal when attacking enemy units.",
+"footer_left" : "ABILITY: No Target, Aura, ToggleAFFECTS: Allies",
+"footer_right" : "LIFESTEAL: 15% / 20% / 25% / 30%",
+"youtude" : "http://www.youtube.com/embed/0ZD6iTDTjcQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/skeleton_king_mortal_strike_hp2.png?v=3379714",
+"ability_name" : "Mortal Strike",
+"ability_desc" : "Wraith King passively gains a chance to deal bonus damage on an attack.",
+"footer_left" : "ABILITY: PassiveAFFECTS: Enemy Heroes",
+"footer_right" : "CRITICAL DAMAGE: 150% / 200% / 250% / 300%
+CRITICAL CHANCE: 15%",
+"youtude" : "http://www.youtube.com/embed/UMPnfE_N0YI?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/skeleton_king_reincarnation_hp2.png?v=3379714",
+"ability_name" : "Reincarnation",
+"ability_desc" : "Wraith King's form regroups after death, allowing him to resurrect when killed in battle.  Upon death, enemy units in a 900 radius will be slowed.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: PassiveAFFECTS: Allied HeroesPIERCES SPELL IMMUNITY: No",
+"footer_right" : "REINCARNATION TIME: 3 / 3 / 3
+MOVEMENT SLOW: 75%
+ATTACK SPEED SLOW: 75
+SLOW DURATION: 5
+SCEPTER ALLY DEATH DELAY: 7
+SCEPTER DEATH DELAY RADIUS: 1200",
+"youtude" : "http://www.youtube.com/embed/3yGidbPrewk?hd=1&rel=0"
+},]}

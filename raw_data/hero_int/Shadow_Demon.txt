@@ -1,0 +1,59 @@
+{"IntVal" : "23 + 2.70",
+"AgiVal" : "18 + 2.20",
+"StrVal" : "17 + 1.90",
+"AttackVal" : "27 - 31",
+"SpeedVal" : "295",
+"DefenseVal" : "2.52",
+"Bio" : "Among the sovereign Demons with explicit access to this world, Doom scarcely bothers with the affairs of Noninfernals and Lesser Spectral Consorts, while Shadow Fiend passes through almost exclusively on collecting expeditions. The Shadow Demon, however, has always taken a deep and abiding interest in the material plane, as if sensing that mastery of this gritty dimensional nexus might be the key to total domination of all realities. Summoned first by minor wizards, the Shadow Demon granted every wish and put on increasingly impressive displays of power until he had the full attention of the greatest demonologists, and through them the various lords, tyrants, autarchs and heirophants who depended on sorcery to buttress their mundane power. So great was his deception that all his summoners considered themselves the master and Shadow Demon the servant; meanwhile, he eroded their identities and made their minds his own. In the end, most members of the cult were hollow puppets, extensions of his evil will. What Shadow Demon's next step would have been remains open to speculation, for around this time, Nevermore the Shadow Fiend bit into a particularly nasty-tasting soul and discovered that it held nothing but a foul nougat of Shadow Demon's essence. Alerted that a coup was underway, and that the ancient equilibrium of the Umbral Pact was about to be destabilized, Doom and Shadow Fiend briefly joined forces to destroy the burgeoning cult. Combining spells of incredible force, they undid Shadow Demon's centuries of patient work, reducing his cult to smithereens--and all its members to a bloody splatter. Nothing remained except a tiny speck of demon shadow. Immortal and irreducible, this mote of evil was enough to seed the Shadow Demon's next scheme, and in fits and starts, over further centuries, he began to regroup. Whatever that speck of shadow touched, it tainted, and its influence gradually grew. A chaos of damaged parts pulled together, reknit, and combined to give Shadow Demon a form even stronger than his former. He is all but complete now, and his plan for infinite dominion lacks all of its former weaknesses. It would seem that such a being of pure malice and malevolence, a threat to all creation, would be forever out of place in our world...yet Shadow Demon does not lack for followers.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,401","790","299",]},
+{ "Armor" : ["13","7","3",]},
+{ "HitPoint" : ["1,719","978","473",]},
+{ "Damage" : ["135-139","88-92","50-54",]},
+{ "AttackRange" : "500"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/shadow_demon_disruption_hp2.png?v=3379714",
+"ability_name" : "Disruption",
+"ability_desc" : "Banishes the targeted unit from the battlefield for a short duration.  Upon returning, two illusions of the banished unit are created under Shadow Demon's control.",
+"footer_left" : "ABILITY: Unit TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "BANISH DURATION: 2.5 / 2.5 / 2.5 / 2.5
+ILLUSION DURATION: 6 / 8 / 10 / 12
+ILLUSION DAMAGE: 30% / 40% / 50% / 60%
+ILLUSION DAMAGE TAKEN: 150% / 150% / 150% / 150%",
+"youtude" : "http://www.youtube.com/embed/W2-DkeB2RiE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/shadow_demon_soul_catcher_hp2.png?v=3379714",
+"ability_name" : "Soul Catcher",
+"ability_desc" : "Curses a random enemy in an area to take increased damage.  Units under the effect of Disruption can still be affected by Soul Catcher.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "BONUS DAMAGE: 20% / 30% / 40% / 50%
+RADIUS: 450 / 450 / 450 / 450
+DURATION: 12 / 12 / 12 / 12",
+"youtude" : "http://www.youtube.com/embed/Yssy_fTDqGo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/shadow_demon_shadow_poison_hp2.png?v=3379714",
+"ability_name" : "Shadow Poison",
+"ability_desc" : "Deals damage in a line, and afflicts enemy units with a poison effect. The poison deals 1/2/4/8/16 times the stack damage based on the number of stacks on the target, up to 5 stacks. Additional stacks cause 50 damage each.  This deferred damage is dealt when Shadow Poison's duration is expired, or the Release sub-ability is used.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 50 / 50 / 50 / 50STACK DAMAGE: 20 / 35 / 50 / 65
+MAX STACKS TO MULTIPLY: 5
+RADIUS: 190
+DURATION: 10 / 10 / 10 / 10",
+"youtude" : "http://www.youtube.com/embed/XMIJwFcSAuM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/shadow_demon_shadow_poison_release_hp2.png?v=3379714",
+"ability_name" : "Shadow Poison Release",
+"ability_desc" : "Releases the poison to do damage on all affected enemies. Units under the effect of Disruption can still be affected by Shadow Poison.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/-v8vJdePA-k?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/shadow_demon_demonic_purge_hp2.png?v=3379714",
+"ability_name" : "Demonic Purge",
+"ability_desc" : "Purges the target enemy unit, removing positive buffs, and slowing the target for the duration.  The unit slowly regains its speed until the end of the duration, upon which damage is dealt.  Units under the effect of Disruption can still be affected by Demonic Purge.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DAMAGE: 200 / 300 / 400DURATION: 5 / 5 / 5
+SCEPTER CHARGE RESTORE TIME: 40",
+"youtude" : "http://www.youtube.com/embed/nP4Hyx9hbjw?hd=1&rel=0"
+},]}

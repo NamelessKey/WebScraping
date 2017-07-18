@@ -1,0 +1,64 @@
+{"IntVal" : "18 + 2.10",
+"AgiVal" : "19 + 2.20",
+"StrVal" : "18 + 2.00",
+"AttackVal" : "30 - 34",
+"SpeedVal" : "300",
+"DefenseVal" : "3.66",
+"Bio" : "Deep in the Archive of Ultimyr, shelved between scholarly treatises on dragon cladistics and books of untranslatable spells, there is an ancient tome of entomological curiosities.  Compiled by scholars, the book describes the telepathic talents of the zealot scarab, a strange species of social insect with abilities unique to all the seven planes.    Unlike most grubs of his colony, Nyx Assassin did not arise from metamorphosis with the plodding thoughts and blunted appendages common to the worker caste of his kind. For his was a special transformation, guided by the grace of Nyx.  He was the chosen one, selected from the many and anointed with an extract of the queen goddess herself.  Not all survive the dark blessing of the queen's chamber, but he emerged with a penetrating mind, and dagger-like claws--his razor sharp mandibles raking the air while his thoughts projected directly into the minds of those around him.  Of all zealot scarabs, he alone was selected for the highest calling.  After his metamorphosis, he was reborn, by grace of Nyx, with abilities which shaped him for one thing and one thing only: to kill in the name of his goddess.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,149","616","234",]},
+{ "Armor" : ["14","8","4",]},
+{ "HitPoint" : ["1,784","1,024","492",]},
+{ "Damage" : ["122-126","80-84","49-53",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nyx_assassin_impale_hp2.png?v=3379714",
+"ability_name" : "Impale",
+"ability_desc" : "Rock spikes burst from the earth along a straight path. Enemy units are hurled into the air, then are stunned and take damage when they fall.",
+"footer_left" : "ABILITY: Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 80 / 140 / 200 / 260STUN DURATION: 1.6 / 2 / 2.4 / 2.8",
+"youtude" : "http://www.youtube.com/embed/bi-zUW9TbxU?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nyx_assassin_mana_burn_hp2.png?v=3379714",
+"ability_name" : "Mana Burn",
+"ability_desc" : "Destroys the target hero's mana equal to a multiplier of its Intelligence, and deals damage equal to the mana burned.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "INTELLIGENCE MULTIPLIER: 3.5 / 4 / 4.5 / 5",
+"youtude" : "http://www.youtube.com/embed/Vdnc20VlniA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nyx_assassin_spiked_carapace_hp2.png?v=3379714",
+"ability_name" : "Spiked Carapace",
+"ability_desc" : "When activated while above ground, Spiked Carapace reflects and negates damage dealt to Nyx Assassin (max once from each source), as well as stunning the source of the damage. Activating Spiked Carapace will not break Vendetta invisibility.
+
+While Burrowed, Spiked Carapace instantly stuns nearby enemies when cast.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PurePIERCES SPELL IMMUNITY: No",
+"footer_right" : "REFLECT DURATION: 2.25
+STUN DURATION: 0.6 / 1.2 / 1.8 / 2.4",
+"youtude" : "http://www.youtube.com/embed/ItgZ-Dd1Lj0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nyx_assassin_burrow_hp2.png?v=3379714",
+"ability_name" : "Burrow",
+"ability_desc" : "Nyx Assassin buries himself beneath the battlefield over 1 second. Once burrowed, Spiked Carapace instantly stuns nearby enemies when cast, the range of Mana Burn and Impale is increased by 75%, and Impale's cooldown is decreased. While burrowed, Nyx Assassin is stationary, unable to attack, and invisible. His health and mana regeneration are also increased, and he gains 40% damage reduction.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "BURROW HEALTH/MANA REGEN: 1.5%
+BURROW DAMAGE REDUCTION: 40%
+BURROW MANA BURN RANGE: 1050
+BURROW IMPALE RANGE: 1225
+BURROW IMPALE COOLDOWN: 7
+BURROW SPIKED CARAPACE RANGE: 300",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nyx_assassin_unburrow_hp2.png?v=3379714",
+"ability_name" : "Unburrow",
+"ability_desc" : "Emerge from the burrow.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/nyx_assassin_vendetta_hp2.png?v=3379714",
+"ability_name" : "Vendetta",
+"ability_desc" : "Allows Nyx Assassin to become invisible and gain a speed bonus.  If Nyx Assassin attacks to break the invisibility, massive bonus damage is dealt with the attack.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 40 / 50 / 60
+MOVEMENT SPEED: 16% / 18% / 20%
+BONUS DAMAGE: 250 / 400 / 550",
+"youtude" : "http://www.youtube.com/embed/XLNvigI8GT0?hd=1&rel=0"
+},]}

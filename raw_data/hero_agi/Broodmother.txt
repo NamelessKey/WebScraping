@@ -1,0 +1,51 @@
+{"IntVal" : "18 + 2.00",
+"AgiVal" : "18 + 2.20",
+"StrVal" : "17 + 2.50",
+"AttackVal" : "26 - 32",
+"SpeedVal" : "295",
+"DefenseVal" : "2.52",
+"Bio" : "For centuries, Black Arachnia the Broodmother lurked in the dark lava tubes beneath the smoldering caldera of Mount Pyrotheos, raising millions of spiderlings in safety before sending them to find prey in the wide world above. In a later age, the Vizier of Greed, Ptholopthales, erected his lodestone ziggurat on the slopes of the dead volcano, knowing that any looters who sought his magnetic wealth must survive the spider-haunted passages. After millennia of maternal peace, Black Arachnia found herself beset by a steady trickle of furfeet and cutpurses, bold knights and noble youths--all of them delicious, certainly, and yet tending to create a less than nurturing environment for her innocent offspring. Tiring of the intrusions, she paid a visit to Ptholopthales; and when he proved unwilling to discuss a compromise, she wrapped the Vizier in silk and set him aside to be the centerpiece of a special birthday feast. Unfortunately, the absence of the Magnetic Ziggurat's master merely emboldened a new generation of intruders. When one of her newborns was trodden underfoot by a clumsy adventurer, she reached the end of her silken rope. Broodmother headed for the surface, declaring her intent to rid the world of each and every possible invader, down to the last Hero if necessary, until she could ensure her nursery might once more be a safe and wholesome environment for her precious spiderspawn.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,118","598","234",]},
+{ "Armor" : ["13","7","3",]},
+{ "HitPoint" : ["1,993","1,138","473",]},
+{ "Damage" : ["117-123","75-81","44-50",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/broodmother_spawn_spiderlings_hp2.png?v=3379714",
+"ability_name" : "Spawn Spiderlings",
+"ability_desc" : "Broodmother injects her young into an enemy unit, dealing damage. The spiderlings will hatch if the target is killed while under this influence.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 70 / 140 / 210 / 280
+COUNT: 1 / 2 / 3 / 4",
+"youtude" : "http://www.youtube.com/embed/HsrNXKf_QOY?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/broodmother_spin_web_hp2.png?v=3379714",
+"ability_name" : "Spin Web",
+"ability_desc" : "Spins a large web that renders Broodmother invisible, grants a passive movement speed increase, gives free movement, and boosts regeneration while in its vicinity. Spin Web charges restore every 40 seconds. If damage is taken, free movement is disabled and the movement speed increase is halved for 6 seconds. Spin Web can be cast from anywhere as long as the new web touches an existing web. Webs never expire, and can be manually destroyed. When the maximum limit of webs is exceeded, the oldest web disappears.",
+"footer_left" : "ABILITY: Point Target",
+"footer_right" : "MAX WEBS: 2 / 4 / 6 / 8
+HEALTH REGEN: 2 / 4 / 6 / 8
+MOVE INCREASE: 40% / 50% / 60% / 70%
+MAX WEB CHARGES: 1 / 2 / 3 / 4
+CHARGE RESTORE TIME: 40",
+"youtude" : "http://www.youtube.com/embed/rTMrFJkcWTk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/broodmother_incapacitating_bite_hp2.png?v=3379714",
+"ability_name" : "Incapacitating Bite",
+"ability_desc" : "Broodmother's venom cripples enemy units, causing her attacks to slow and giving the affected unit a chance to miss its attacks.",
+"footer_left" : "ABILITY: Passive",
+"footer_right" : "MISS CHANCE: 30% / 40% / 50% / 60%
+MOVE SLOW: 10% / 20% / 30% / 40%
+DURATION: 2 / 2 / 2 / 2",
+"youtude" : "http://www.youtube.com/embed/fewADuqpwLM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/broodmother_insatiable_hunger_hp2.png?v=3379714",
+"ability_name" : "Insatiable Hunger",
+"ability_desc" : "A violent lust for vital fluids increases Broodmother's attack damage and gives her a vampiric attack.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "BONUS DAMAGE: 60 / 90 / 120
+LIFESTEAL: 60% / 80% / 100%
+DURATION: 14 / 14 / 14",
+"youtude" : "http://www.youtube.com/embed/zxPfDpll2II?hd=1&rel=0"
+},]}

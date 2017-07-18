@@ -1,0 +1,55 @@
+{"IntVal" : "24 + 2.70",
+"AgiVal" : "10 + 1.00",
+"StrVal" : "22 + 2.50",
+"AttackVal" : "22 - 32",
+"SpeedVal" : "295",
+"DefenseVal" : "2.4",
+"Bio" : "As Chief Curator and Head of Acquisitions for the Arcane Archives of the Ultimyr Academy, Demnok Lannik was tireless in his pursuit of lost, rare and forbidden tomes. No cursed temple was so foreboding, no cavern path so treacherous, that any concern for his own survival could dissuade him from entering if rumors hinted that some pamphlet of primordial lore might still survive in its depths. However, so often did his investigations trigger the wrath of protector entities, that he finally found it necessary to master the arts of magic. He bent himself to learning sorcery with the same thorough obsessiveness that marked his quest for incunabula, becoming the most powerful Warlock of the Academy in less time than most practitioners required to complete a course of undergraduate work. Almost as an afterthought, he carved a staff of Dreadwood and summoned into it a captive spirit from the Outer Hells. And anticipating the day when he will have recovered every last lost spellbook, he has commenced writing his own Black Grimoire. It will undoubtedly be instructive.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,414","803","312",]},
+{ "Armor" : ["9","4","2",]},
+{ "HitPoint" : ["2,088","1,233","568",]},
+{ "Damage" : ["131-141","84-94","46-56",]},
+{ "AttackRange" : "600"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1200"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/warlock_fatal_bonds_hp2.png?v=3379714",
+"ability_name" : "Fatal Bonds",
+"ability_desc" : "Binds several enemy units together, causing 25% of the damage dealt to one of them to be felt by the others.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 0 / 0 / 0 / 0ENEMIES BOUND: 3 / 4 / 5 / 6
+DURATION: 25",
+"youtude" : "http://www.youtube.com/embed/uRFLMNzJ7Vs?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/warlock_shadow_word_hp2.png?v=3379714",
+"ability_name" : "Shadow Word",
+"ability_desc" : "Warlock whispers an incantation, healing a friendly unit or damaging an enemy unit over time.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: HeroesDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 15 / 25 / 35 / 45DURATION: 12",
+"youtude" : "http://www.youtube.com/embed/1ExGT5E8-FE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/warlock_upheaval_hp2.png?v=3379714",
+"ability_name" : "Upheaval",
+"ability_desc" : "CHANNELED - A powerful slowing current that grows stronger as it's channelled. Lasts up to 16 seconds.  Enemies are slowed for 3 seconds after leaving the area or the spell ends.",
+"footer_left" : "ABILITY: Channeled, Point TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 0 / 0 / 0 / 0RADIUS: 650 / 650 / 650 / 650
+MAX SLOW CHANNEL: 12.5 / 6.5 / 4.5 / 3.5
+MAX SLOW: 84%",
+"youtude" : "http://www.youtube.com/embed/9VHxyxOkHek?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/warlock_rain_of_chaos_hp2.png?v=3379714",
+"ability_name" : "Chaotic Offering",
+"ability_desc" : "Summons a Golem from the depths, stunning enemies for one second. The Golem lives 60 seconds, takes reduced damage from spells, has Permanent Immolation and Flaming Fists on attack.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "SUMMON BLAST RADIUS: 600
+GOLEM HEALTH: 900 / 1200 / 1500
+GOLEM DAMAGE: 75 / 100 / 125
+GOLEM ARMOR: 6 / 9 / 12
+GOLEM HEALTH REGEN: 25 / 50 / 75
+SCEPTER NUMBER OF GOLEMS: 2
+SCEPTER GOLEM HEALTH: 675 / 900 / 1125
+SCEPTER GOLEM DAMAGE: 56 / 75 / 94
+SCEPTER BOUNTY REDUCTION: 50%",
+"youtude" : "http://www.youtube.com/embed/LlUYOShkrE0?hd=1&rel=0"
+},]}

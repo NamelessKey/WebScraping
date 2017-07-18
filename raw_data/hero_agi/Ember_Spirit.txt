@@ -1,0 +1,62 @@
+{"IntVal" : "20 + 1.80",
+"AgiVal" : "22 + 1.80",
+"StrVal" : "19 + 2.00",
+"AttackVal" : "30 - 34",
+"SpeedVal" : "310",
+"DefenseVal" : "1.08",
+"Bio" : "Lost within the Wailing Mountains, the Fortress of Flares lay abandoned, its training halls empty, its courtyard covered in leaves and dust. Upon a dais in its sealed temple rests a topaz cauldron filled with ancient ash, remnants of a pyre for the warrior-poet Xin. For three generations, Xin taught his acolytes the Bonds of the Guardian Flame, a series of mantras to train the mind and body for the harsh realities beyond the fortress walls. However, in teaching a warrior's way he earned a warrior's rivals, and in his autumn Xin was bested and slain. His followers spread to the wind. Yet as years turned to centuries and followers to descendants, his teachings endured by subtle whisper and deed. Touched by the teacher's lasting legacy, the Burning Celestial, inquisitive aspect of fire, cast himself to the Fortress of Flares and reignited the pyre ash. From these glowing embers emerged an image of Xin, wreathed in flame, his thoughtful countenance prepared to train and to teach, and to spread the fires of knowledge to all who seek guidance.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,082","588","260",]},
+{ "Armor" : ["10","5","1",]},
+{ "HitPoint" : ["1,803","1,043","511",]},
+{ "Damage" : ["115-119","77-81","52-56",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ember_spirit_searing_chains_hp2.png?v=3379714",
+"ability_name" : "Searing Chains",
+"ability_desc" : "Ember Spirit unleashes fiery bolas that wrap around nearby enemies, anchoring them in place and dealing damage each second.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DURATION: 1 / 2 / 2 / 3
+RADIUS: 400
+DAMAGE PER SECOND: 80 / 60 / 120 / 100
+TOTAL DAMAGE: 80 / 120 / 240 / 300
+UNIT COUNT: 2",
+"youtude" : "http://www.youtube.com/embed/ca7UulcBAjs?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ember_spirit_sleight_of_fist_hp2.png?v=3379714",
+"ability_name" : "Sleight of Fist",
+"ability_desc" : "Ember Spirit dashes around with blazing speed, attacking all enemies in the targeted area of effect, then returning to his start location.  Deals bonus damage to heroes, and less damage to creeps.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "RADIUS: 250 / 350 / 450 / 550
+BONUS HERO DAMAGE: 20 / 40 / 60 / 80
+ATTACK INTERVAL: 0.2
+CREEP DAMAGE PENALTY: 50%",
+"youtude" : "http://www.youtube.com/embed/IwgpZwTKjco?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ember_spirit_flame_guard_hp2.png?v=3379714",
+"ability_name" : "Flame Guard",
+"ability_desc" : "Ember Spirit surrounds himself with a ring of fire that consumes incoming magic damage, leaving him unharmed.  Flame Guard deals damage per second in an area around Ember Spirit while Flame Guard is active.  If the shield is broken, the damage is also lost.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DURATION: 8 / 12 / 16 / 20
+RADIUS: 400
+MAGIC ABSORB: 50 / 200 / 350 / 500
+DAMAGE PER SECOND: 30 / 40 / 50 / 60",
+"youtude" : "http://www.youtube.com/embed/zw9G68rgHt0?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ember_spirit_activate_fire_remnant_hp2.png?v=3379714",
+"ability_name" : "Activate Fire Remnant",
+"ability_desc" : "Select the Fire Remnant to arrive at.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "",
+"youtude" : "http://www.youtube.com/embed/BmnxTs3P5Tg?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/ember_spirit_fire_remnant_hp2.png?v=3379714",
+"ability_name" : "Fire Remnant",
+"ability_desc" : "Ember Spirit generates Fire Remnant charges every 35 seconds, with a max of 3 charges.  Releasing a charge sends a Fire Remnant that runs to the target location at 2.5x Ember Spirit's speed.  Using Activate Fire Remnant, Ember Spirit can dash out to his Remnants, exploding them for area of effect damage.  The targeted Remnant will be arrived at last.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "MAX CHARGES: 3
+CHARGE RESTORE TIME: 35
+DAMAGE: 100 / 150 / 200
+RADIUS: 450
+DURATION: 45",
+"youtude" : "http://www.youtube.com/embed/PbXcv1MG-go?hd=1&rel=0"
+},]}

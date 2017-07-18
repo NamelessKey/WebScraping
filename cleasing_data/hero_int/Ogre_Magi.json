@@ -1,0 +1,97 @@
+{
+    "IntVal": "17 + 2.40",
+    "AgiVal": "14 + 1.55",
+    "StrVal": "23 + 3.20",
+    "AttackVal": "41 - 47",
+    "SpeedVal": "295",
+    "DefenseVal": "7.96",
+    "Bio": "The ordinary ogre is the creature for whom the phrase 'As dumb as a bag of rock hammers' was coined. In his natural state, an ogre is supremely incapable of doing or deciding anything. Clothed in dirt, he sometimes finds himself accidentally draped in animal skins after eating lanekill. Not an especially social creature, he is most often found affectionately consorting with the boulders or tree-stumps he has mistaken for kin (a factor that may explain the ogre's low rate of reproduction).  However, once every generation or so, the ogre race is blessed with the birth of a two-headed Ogre Magi, who is immediately given the traditional name of Aggron Stonebreak, the name of the first and perhaps only wise ogre in their line's history. With two heads, Ogre Magi finds it possible to function at a level most other creatures manage with one. And while the Ogre Magi will win no debates (even with itself), it is graced with a divine quality known as Dumb Luck--a propensity for serendipitous strokes of fortune which have allowed the ogre race to flourish in spite of enemies, harsh weather, and an inability to feed itself.  It's as if the Goddess of Luck, filled with pity for the sadly inept species, has taken Ogre Magi under her wing. And who could blame her? Poor things.",
+    "Stata": [
+        {
+            "Level": [
+                "25",
+                "15",
+                "1"
+            ]
+        },
+        {
+            "Mana": [
+                "1,230",
+                "658",
+                "221"
+            ]
+        },
+        {
+            "Armor": [
+                "16",
+                "11",
+                "8"
+            ]
+        },
+        {
+            "HitPoint": [
+                "2,426",
+                "1,438",
+                "587"
+            ]
+        },
+        {
+            "Damage": [
+                "136-142",
+                "92-98",
+                "58-64"
+            ]
+        },
+        {
+            "AttackRange": "128"
+        },
+        {
+            "SightRange": "1800 / 800"
+        },
+        {
+            "MissileSpeed": "900"
+        }
+    ],
+    "Ability": [
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ogre_magi_fireblast_hp2.png?v=3379714",
+            "ability_name": "Fireblast",
+            "ability_desc": "Blasts an enemy unit with a wave of fire, dealing damage and stunning the target.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 55 / 110 / 165 / 220STUN DURATION: 1.5",
+            "youtude": "http://www.youtube.com/embed/sEWGzFIZQtU?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ogre_magi_ignite_hp2.png?v=3379714",
+            "ability_name": "Ignite",
+            "ability_desc": "Drenches a target in volatile chemicals, causing it to burst into flames. The target is in immense pain, taking damage and moving more slowly.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DURATION: 5 / 6 / 7 / 8 BURN DAMAGE: 26 / 34 / 42 / 50 SLOW: 20% / 22% / 24% / 26%",
+            "youtude": "http://www.youtube.com/embed/Nj6AXWAl2s0?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ogre_magi_bloodlust_hp2.png?v=3379714",
+            "ability_name": "Bloodlust",
+            "ability_desc": "Incites a frenzy in a friendly unit, increasing its movement speed and attack speed. Can be cast on towers.",
+            "footer_left": "ABILITY: Auto-Cast, Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: Yes",
+            "footer_right": "BONUS MOVE SPEED: 10% / 12% / 14% / 16% BONUS ATTACK SPEED: 30 / 40 / 50 / 60 DURATION: 30",
+            "youtude": "http://www.youtube.com/embed/J3py9ylBrjQ?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ogre_magi_unrefined_fireblast_hp2.png?v=3379714",
+            "ability_name": "Unrefined Fireblast",
+            "ability_desc": "Blasts an enemy unit with a wave of fire, dealing damage and stunning the target. Its mana cost is 60% of the hero's current mana.",
+            "footer_left": "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+            "footer_right": "DAMAGE: 275STUN DURATION: 1.5",
+            "youtude": "http://www.youtube.com/embed/tJgO6bPCNBk?hd=1&rel=0"
+        },
+        {
+            "ability_image_url": "http://cdn.dota2.com/apps/dota2/images/abilities/ogre_magi_multicast_hp2.png?v=3379714",
+            "ability_name": "Multicast",
+            "ability_desc": "Enables Ogre Magi to cast his spells multiple times with each use, while also granting his spells greater potency:<font color='#EEF10D'>Fireblast</font> has its cooldown decreased, its range increased, and its mana cost increased.<font color='#DE8930'>Ignite</font> hits enemies in an area, its range is increased, and it may be cast onto random nearby enemies when used.<font color='#E34F4F'>Bloodlust</font> has its cooldown reduced, and may be cast on random nearby allies when used.Upgradable by Aghanim's Scepter.",
+            "footer_left": "ABILITY: Passive",
+            "footer_right": "FIREBLAST MANA INCREASE: 20 / 40 / 60 FIREBLAST COOLDOWN REDUCTION: 2 / 4 / 6 IGNITE RADIUS: 150 / 300 / 450 IGNITE CAST RANGE INCREASE: 150 / 300 / 450 BLOODLUST RADIUS: 575 BLOODLUST COOLDOWN REDUCTION: 5 / 10 / 15 2X CAST CHANCE: 40% / 50% / 60% 3X CAST CHANCE: 0% / 20% / 25% 4X CAST CHANCE: 0% / 0% / 12.5%",
+            "youtude": ""
+        }
+    ]
+}

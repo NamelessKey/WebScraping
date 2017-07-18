@@ -1,0 +1,62 @@
+{"IntVal" : "15 + 1.80",
+"AgiVal" : "21 + 2.90",
+"StrVal" : "20 + 1.90",
+"AttackVal" : "23 - 25",
+"SpeedVal" : "285",
+"DefenseVal" : "1.94",
+"Bio" : "The malevolent familiar of a sadistic wizard who captured and hoped to tame him, Viper was curiously glad to have been sprung from the sealed and unchanging subterranean Nether Reaches where his race had lived for millions of years, after tectonic slippage had sealed off the Netherdrakes in luminous caverns. Viper spent some time appearing to submit to the wizard's enchainments, hoping to learn what he could of the dark magics the mage practiced. But he soon realized that few spells were as deadly as the toxins that were his birthright. Exuding an acid that swiftly ate away the bars of his cage, the Netherdrake slipped free of his confines, spit poison in the old spellcaster's eyes, and soared out to let the world know that it had a new master.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,017","523","195",]},
+{ "Armor" : ["14","8","2",]},
+{ "HitPoint" : ["1,776","1,035","530",]},
+{ "Damage" : ["134-136","85-87","44-46",]},
+{ "AttackRange" : "575"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "1200"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/viper_poison_attack_hp2.png?v=3379714",
+"ability_name" : "Poison Attack",
+"ability_desc" : "Intensifies Viper's venom, adding an effect to his normal attack that slows attack and movement speed while dealing damage over time.
+
+Poison Attack is a Unique Attack Modifier, and does not stack with other Unique Attack Modifiers.",
+"footer_left" : "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 0 / 0 / 0 / 0DURATION: 2 / 2 / 2 / 2
+DAMAGE PER SECOND: 10 / 16 / 22 / 28
+MOVE SLOW: 10% / 20% / 30% / 40%
+ATTACK SLOW: 10 / 20 / 30 / 40",
+"youtude" : "http://www.youtube.com/embed/FWLMTu44daQ?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/viper_nethertoxin_hp2.png?v=3379714",
+"ability_name" : "Nethertoxin",
+"ability_desc" : "Nethertoxin causes Viper's normal attack to deal bonus damage to units based on how much health they are missing.  The bonus damage doubles for each 20% of health missing from the target.  Nethertoxin deals half damage to creeps and buildings.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: PhysicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "BASE BONUS DAMAGE: 2.5 / 5 / 7.5 / 10
+NON-HERO DAMAGE: 50% / 50% / 50% / 50%
+MAX BONUS DAMAGE: 40 / 80 / 120 / 160",
+"youtude" : "http://www.youtube.com/embed/OH2fLJO993U?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/viper_corrosive_skin_hp2.png?v=3379714",
+"ability_name" : "Corrosive Skin",
+"ability_desc" : "Viper exudes an infectious toxin that damages and slows any enemy that damages it in a 1400 radius. The acid exudate also increases Viper's resistance to magic.",
+"footer_left" : "ABILITY: PassiveDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DURATION: 4
+MOVE SLOW: 10% / 15% / 20% / 25%
+ATTACK SLOW: 10 / 15 / 20 / 25
+MAGIC RESISTANCE: 10% / 15% / 20% / 25%
+DAMAGE PER SECOND: 10 / 15 / 20 / 25
+MAX RANGE RADIUS: 1400",
+"youtude" : "http://www.youtube.com/embed/RGDVz0J6g2g?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/viper_viper_strike_hp2.png?v=3379714",
+"ability_name" : "Viper Strike",
+"ability_desc" : "Viper slows the targeted enemy unit's movement and attack speed while also dealing poison damage over time.  The slowing effect reduces over the duration of the poison.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 5.1 / 5.1 / 5.1
+DAMAGE PER SECOND: 60 / 100 / 145
+MOVE SLOW: 40% / 60% / 80%
+ATTACK SLOW: 40 / 60 / 80
+SCEPTER MANA COST: 125 / 125 / 125
+SCEPTER COOLDOWN: 12
+SCEPTER CAST RANGE: 900",
+"youtude" : "http://www.youtube.com/embed/109y0icISWw?hd=1&rel=0"
+},]}

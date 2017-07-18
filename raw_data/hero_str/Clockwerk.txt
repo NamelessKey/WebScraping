@@ -1,0 +1,51 @@
+{"IntVal" : "17 + 1.30",
+"AgiVal" : "13 + 2.30",
+"StrVal" : "24 + 2.90",
+"AttackVal" : "31 - 33",
+"SpeedVal" : "315",
+"DefenseVal" : "1.82",
+"Bio" : "Rattletrap descends from the same far-flung kindred as Sniper and Tinker, and like many of the Keen Folk, has offset his diminutive stature through the application of gadgetry and wit.  The son of the son of a clockmaker, Rattletrap was many years apprenticed to that trade before war rode down from the mountains and swept the plains villages free of such innocent vocations.  "Your new trade is battle," his dying father told him as the village of their ancestors lay in charred and smoking ruins.    It is a poor tradesman who blames his tools, and Rattletrap was never one to make excuses.  After burying his father among the ruins of their village, he set about to transform himself into the greatest tool of warfare that any world had ever seen. He vowed to never again be caught unprepared, instead using his talents to assemble a suit of powered Clockwerk armor to make the knights of other lands look like tin cans by comparison.  Now Rattletrap is alive with devices, a small but deadly warrior whose skills at ambush and destruction have risen to near-automated levels of efficiency.  An artisan of death, his mechanizations make short work of the unwary, heralding a new dawn in this age of warfare.  What time is it? It's Clockwerk time!",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["887","458","221",]},
+{ "Armor" : ["12","6","2",]},
+{ "HitPoint" : ["2,308","1,377","606",]},
+{ "Damage" : ["145-147","96-98","55-57",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rattletrap_battery_assault_hp2.png?v=3379714",
+"ability_name" : "Battery Assault",
+"ability_desc" : "Discharges high-powered shrapnel at random nearby enemy units, dealing minor magical damage and ministun.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 20 / 40 / 60 / 80RADIUS: 275 / 275 / 275 / 275
+DURATION: 10.5 / 10.5 / 10.5 / 10.5
+INTERVAL: 0.7 / 0.7 / 0.7 / 0.7",
+"youtude" : "http://www.youtube.com/embed/5P3Dk2VzVVo?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rattletrap_power_cogs_hp2.png?v=3379714",
+"ability_name" : "Power Cogs",
+"ability_desc" : "Forms a barrier of energized cogs around Clockwerk, trapping any units that are near.  Enemies outside the trap that touch a cog are knocked back, losing health and mana. Once a cog has delivered a shock, it will power down.  Cogs can be destroyed by enemy attacks, but Clockwerk can destroy them with just one.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DURATION: 5 / 6 / 7 / 8
+MANA/HEALTH DRAIN: 80 / 120 / 160 / 200
+ATTACKS REQUIRED: 2 / 2 / 2 / 3",
+"youtude" : "http://www.youtube.com/embed/rzTnmYGoJXA?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rattletrap_rocket_flare_hp2.png?v=3379714",
+"ability_name" : "Rocket Flare",
+"ability_desc" : "Fires a global range flare that explodes over a given area, damaging enemies and providing vision for 10 seconds.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 80 / 120 / 160 / 200RADIUS: 575 / 575 / 575 / 575",
+"youtude" : "http://www.youtube.com/embed/etHgBKQTjEE?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/rattletrap_hookshot_hp2.png?v=3379714",
+"ability_name" : "Hookshot",
+"ability_desc" : "Fires a grappling device rapidly at the target location.  If the hook hits a unit, Clockwerk launches himself into the target, stunning and dealing damage.  Any enemies Clockwerk collides with along the way are damaged and stunned.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Point TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "STUN DURATION: 1 / 1.5 / 2
+RANGE: 2000 / 2500 / 3000
+DAMAGE: 100 / 200 / 300
+SCEPTER COOLDOWN: 12 / 12 / 12",
+"youtude" : "http://www.youtube.com/embed/fbAceDpaO2s?hd=1&rel=0"
+},]}

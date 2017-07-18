@@ -1,0 +1,71 @@
+{"IntVal" : "18 + 1.70",
+"AgiVal" : "23 + 2.10",
+"StrVal" : "23 + 2.30",
+"AttackVal" : "27 - 31",
+"SpeedVal" : "300",
+"DefenseVal" : "3.22",
+"Bio" : "It had been a brawl to remember. There stood Ymir, the Tusk, the Terror from the Barrier, the Snowball from Cobalt, the only fighter to have bested the Bristled Bruiser in a fair fight, and now the last man standing in Wolfsden Tavern. What started as a simple bar bet of supremacy ended with four regulars, a blacksmith, and six of the Frost Brigade's best soldiers writhing against the shards and splinters of almost every bottle, mug, and chair in the building. The Tusk boasted and toasted his victory as he emptied his brew.No sooner had the defeated regained consciousness than the cries for double-or-nothing rang out. The Tusk was pleased at the prospect, but none could think of a bet bigger than the one he just conquered. Horrified at the damage to his tavern and desperate to avoid another brawl, the barkeep had an idea. As skilled as he was, Ymir had never taken part in a real battle, never tested himself against the indiscriminate death and chaos of war. He proposed a wager to the fighter: seek out the biggest battle he could find, survive, and win it for whichever side he chose. The stakes? The next round of drinks.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,024","543","234",]},
+{ "Armor" : ["13","7","3",]},
+{ "HitPoint" : ["2,016","1,199","587",]},
+{ "Damage" : ["125-129","82-86","50-54",]},
+{ "AttackRange" : "128"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "900"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tusk_ice_shards_hp2.png?v=3379714",
+"ability_name" : "Ice Shards",
+"ability_desc" : "Tusk compresses shards of ice into a ball of frozen energy that damages all enemies it comes in contact with. When the ball reaches its target destination the shards are released, creating a barrier that lasts for 7 seconds.",
+"footer_left" : "ABILITY: Point TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "RADIUS: 200
+SHARD DAMAGE: 60 / 120 / 180 / 240
+SHARD DURATION: 7
+CAST RANGE: 1800",
+"youtude" : "http://www.youtube.com/embed/b0hv_O6t8PI?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tusk_snowball_hp2.png?v=3379714",
+"ability_name" : "Snowball",
+"ability_desc" : "Tusk begins rolling into a snowball. Allies within a 350 radius can also be added to the snowball by right-clicking on them, even while the snowball is moving. Once launched, any enemies caught in the snowball's path will be stunned and take damage. Each allied Hero in the snowball will add to its damage.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "BASE DAMAGE: 80 / 120 / 160 / 200
+BONUS DAMAGE PER ALLY: 20 / 30 / 40 / 50
+STUN DURATION: 0.5 / 0.75 / 1 / 1.25
+GATHER RADIUS: 100
+LAUNCH TIME: 3",
+"youtude" : "http://www.youtube.com/embed/ZHvQHTdctGk?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tusk_frozen_sigil_hp2.png?v=3379714",
+"ability_name" : "Frozen Sigil",
+"ability_desc" : "Tusk summons a Frozen Sigil by calling upon the deepest cold of winter. The Sigil creates a snowstorm which slows all enemy units within 600 range.",
+"footer_left" : "ABILITY: No TargetPIERCES SPELL IMMUNITY: No",
+"footer_right" : "AURA RADIUS: 600
+DURATION: 30
+MOVEMENT SLOW: 10% / 15% / 20% / 25%
+ATTACK SLOW: 30 / 40 / 50 / 60",
+"youtude" : "http://www.youtube.com/embed/emCjRsmIMKg?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tusk_launch_snowball_hp2.png?v=3379714",
+"ability_name" : "Launch Snowball",
+"ability_desc" : "Launch the snowball toward the target.",
+"footer_left" : "ABILITY: No Target",
+"footer_right" : "",
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tusk_walrus_kick_hp2.png?v=3379714",
+"ability_name" : "Walrus Kick",
+"ability_desc" : "Kicks the target unit back 900 units, damaging them and slowing their movement by 40% for 4 seconds.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "KICK PUSH DISTANCE: 900
+MOVE SLOW: 40%
+SLOW DURATION: 4
+DAMAGE: 200",
+"youtude" : "http://www.youtube.com/embed/5lLGX4Vyg7A?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/tusk_walrus_punch_hp2.png?v=3379714",
+"ability_name" : "Walrus PUNCH!",
+"ability_desc" : "Tusk connects with his mighty Walrus Punch, a critical strike so powerful it launches its victim into the air. The victim is slowed upon landing.
+
+Upgradable by Aghanim's Scepter.",
+"footer_left" : "ABILITY: Auto-Cast, Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "CRIT MULTIPLIER: 350%
+AIR TIME: 1
+SLOW DURATION: 2 / 3 / 4
+MOVEMENT SLOW: 40%",
+"youtude" : "http://www.youtube.com/embed/wOQx_jM-dcE?hd=1&rel=0"
+},]}

@@ -1,0 +1,54 @@
+{"IntVal" : "25 + 3.10",
+"AgiVal" : "16 + 1.90",
+"StrVal" : "24 + 2.10",
+"AttackVal" : "13 - 20",
+"SpeedVal" : "285",
+"DefenseVal" : "1.24",
+"Bio" : "Like many great poets, Auroth just wants time to write, but the Winter Wyvern's life is full of interruptions. The epics of the Eldwurms have a long and colorful history, but some fear that the remaining dragon scholars are not as prolific as they once were, with few lines added to the Eldwurm Eddas since the last age of greatness. Auroth laments: "We forget that there is more to life than triumph and dominion over enemies. We must also live our lives in the pursuit of creative expression." She embarks on research expeditions, collecting books for inspiration. But all this research can be terribly distracting, and she spends less time writing than she should. Although she knows she should be lurking in her lair, adding to the Eddas, she finds herself engaged in epic battles against powerful enemies. She loots castles, raids ancient libraries ... and if she happens to heap glory on herself in the process, she tells herself that it's merely a side effect of her research. The fact is, while her skill and power on the battlefield are legendary, her scholarly travails have thus far hardly been the stuff of literary acclaim. But she is not content to stand as a protagonist of heroic lore. She wishes also to create it.",
+"Stata" : [{ "Level" : ["25","15","1",]},
+{ "Mana" : ["1,552","889","325",]},
+{ "Armor" : ["10","5","1",]},
+{ "HitPoint" : ["1,944","1,165","606",]},
+{ "Damage" : ["132-139","81-88","38-45",]},
+{ "AttackRange" : "425"},
+{ "SightRange" : "1800 / 800"},
+{ "MissileSpeed" : "700"}
+],
+"Ability" : [
+{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/winter_wyvern_arctic_burn_hp2.png?v=3379714",
+"ability_name" : "Arctic Burn",
+"ability_desc" : "Winter Wyvern soars upon an arctic wind, granting her unobstructed movement and allowing her to exhale a blistering chill into each attack. While soaring, her attacks travel further and faster, and slow enemies with a magical freeze that strips them of 8% of their current health each second. Her sight is also hardened against night's chill, granting her 400% additional vision range at night while soaring.",
+"footer_left" : "ABILITY: No TargetDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "FLIGHT DURATION: 6
+BONUS ATTACK RANGE: 275 / 375 / 475 / 575
+HEALTH BURN: 8%
+BURN DURATION: 5
+MOVEMENT SLOW: 19% / 26% / 33% / 40%
+ADDED NIGHT VISION RANGE: 400",
+"youtude" : "http://www.youtube.com/embed/QJjASKaV5pM?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/winter_wyvern_splinter_blast_hp2.png?v=3379714",
+"ability_name" : "Splinter Blast",
+"ability_desc" : "Launches a ball of brittle ice toward an enemy. The ice shatters on impact, leaving the primary target completely unaffected, while hurling damaging splinters into nearby enemies in a 500 radius. Enemies struck by these splinters are slowed by 25%.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsDAMAGE TYPE: MagicalPIERCES SPELL IMMUNITY: No",
+"footer_right" : "DAMAGE: 100 / 180 / 260 / 340SHATTER RADIUS: 500
+MOVEMENT SLOW: 25%
+SLOW DURATION: 4",
+"youtude" : "http://www.youtube.com/embed/SCGete8RbbU?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/winter_wyvern_cold_embrace_hp2.png?v=3379714",
+"ability_name" : "Cold Embrace",
+"ability_desc" : "Encases an ally in an icy cocoon, freezing them solid while healing a base amount as well as a percentage of their maximum health each second. The cocoon blocks all physical damage.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Allied UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "DURATION: 4
+BASE HEALTH REGEN: 20
+MAX HEALTH REGEN: 3% / 4% / 5% / 6%",
+"youtude" : "http://www.youtube.com/embed/8UDmKdYAQP4?hd=1&rel=0"
+},{"ability_image_url" : "http://cdn.dota2.com/apps/dota2/images/abilities/winter_wyvern_winters_curse_hp2.png?v=3379714",
+"ability_name" : "Winter's Curse",
+"ability_desc" : "Winter Wyvern freezes an enemy in place while striking those nearby with a maddening curse which causes them to attack their frozen ally with increased attack speed. The frozen ally and those cursed to attack their ally are immune to all damage from their enemies.",
+"footer_left" : "ABILITY: Unit TargetAFFECTS: Enemy UnitsPIERCES SPELL IMMUNITY: Yes",
+"footer_right" : "CURSE RADIUS: 500
+CURSE DAMAGE REDUCTION: 100%
+CURSE ATTACK SPEED: 70
+CURSE DURATION: 3.25 / 4 / 4.75",
+"youtude" : "http://www.youtube.com/embed/AW7PdQw92ak?hd=1&rel=0"
+},]}
